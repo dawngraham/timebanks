@@ -3,6 +3,28 @@
 
 The purpose of this log is to document the process as I go through this project, including challenges, questions, and ideas.
 
+## January 23, 2019
+### Updates
+- **Data**
+	- Consolidated data gathered so far.
+	- Fixed issues where timebank shortname (`timebank`) had been extracted incorrectly.
+	- Removed data from demo and test-launch timebanks that had already been gathered.
+- **Data collection improvements**
+	- Fixed error with extracting `timebank`.
+	- Added `timebank` column to all datasets.
+	- Added `timestamp` to all datasets except `directory.csv`.
+	- In directory: fixed issues with collecting `phone`, `url_2`, and `sponsor`. Updated to not collect info from demo and test-launch timebanks.
+	- Changed to append new data to existing csv's rather than create new ones.
+- **Notebooks**
+	- Consolidated to two main notebooks:
+		- Create directory
+		- Get daily updates
+
+## January 22, 2019
+### Updates
+- **Timebank name error**
+	- Caught issue with extracting timebank shortname from `url` where `t`'s were dropped if first letter. Need to update daily scraper.
+
 ## January 21, 2019
 
 ### Notes
