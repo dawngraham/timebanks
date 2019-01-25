@@ -1,4 +1,4 @@
 # Ignore files
 .DS_Store
 .ipynb_checkpoints/
-.data/deleted/
+./data/deleted/
