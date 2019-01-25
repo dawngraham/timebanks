@@ -1,0 +1,1013 @@
+cat_id,cat_parent,category,count_requests,timebank
+8,is_parent,"Arts, Crafts & Music",1,addington
+10,is_parent,Business Services,1,addington
+75,10,Clerical,1,addington
+4,is_parent,Community Activities,2,addington
+3,is_parent,Companionship,0,addington
+7,is_parent,Education,1,addington
+8,is_parent,"Arts, Crafts & Music",0,aha
+10,is_parent,Business Services,0,aha
+4,is_parent,Community Activities,0,aha
+7,is_parent,Education,0,aha
+157,is_parent,Gardens,0,aha
+8,is_parent,"Arts, Crafts & Music",0,alticultura
+10,is_parent,Business Services,0,alticultura
+4,is_parent,Community Activities,0,alticultura
+3,is_parent,Companionship,0,alticultura
+7,is_parent,Education,0,alticultura
+8,is_parent,"Arts, Crafts & Music",0,andersoncommunity
+10,is_parent,Business Services,0,andersoncommunity
+4,is_parent,Community Activities,0,andersoncommunity
+3,is_parent,Companionship,0,andersoncommunity
+7,is_parent,Education,0,andersoncommunity
+8,is_parent,"Arts, Crafts & Music",0,ate
+10,is_parent,Business Services,0,ate
+4,is_parent,Community Activities,0,ate
+3,is_parent,Companionship,0,ate
+7,is_parent,Education,0,ate
+8,is_parent,"Arts, Crafts & Music",0,avl
+10,is_parent,Business Services,0,avl
+4,is_parent,Community Activities,0,avl
+3,is_parent,Companionship,0,avl
+7,is_parent,Education,0,avl
+8,is_parent,"Arts, Crafts & Music",2,atx
+10,is_parent,Business Services,1,atx
+4,is_parent,Community Activities,0,atx
+3,is_parent,Companionship,0,atx
+7,is_parent,Education,3,atx
+8,is_parent,"Arts, Crafts & Music",0,blackhills
+10,is_parent,Business Services,0,blackhills
+4,is_parent,Community Activities,0,blackhills
+3,is_parent,Companionship,0,blackhills
+7,is_parent,Education,0,blackhills
+8,is_parent,Arts,3,ujimaboston
+11,8,Art,1,ujimaboston
+87,is_parent,Balance Transfer,0,ujimaboston
+4,is_parent,Community Activities,0,ujimaboston
+8,is_parent,"Arts, Crafts & Music",12,brattleboro
+61,8,Classes,1,brattleboro
+6,8,Crafts,3,brattleboro
+63,8,Entertainment,4,brattleboro
+64,8,Lessons,4,brattleboro
+67,8,Miscellaneous,3,brattleboro
+10,is_parent,Business Services,12,brattleboro
+4,is_parent,Community Activities,18,brattleboro
+33,4,Clean-up / Recycling,1,brattleboro
+10,4,Co-op Hours,4,brattleboro
+34,4,Community Service,12,brattleboro
+3,is_parent,Companionship,1,brattleboro
+7,is_parent,Education,12,brattleboro
+8,is_parent,"Arts, Crafts & Music",5,bridge2rocks
+61,8,Classes,1,bridge2rocks
+6,8,Crafts,2,bridge2rocks
+10,is_parent,Business Services,4,bridge2rocks
+75,10,Clerical,2,bridge2rocks
+76,10,Computer Support,2,bridge2rocks
+4,is_parent,Community Activities,18,bridge2rocks
+33,4,Clean-up / Recycling,2,bridge2rocks
+34,4,Community Service,14,bridge2rocks
+3,is_parent,Companionship,0,bridge2rocks
+7,is_parent,Education,3,bridge2rocks
+54,7,Advocacy,1,bridge2rocks
+8,is_parent,"Arts, Crafts & Music",8,capeann
+61,8,Classes,2,capeann
+6,8,Crafts,3,capeann
+10,is_parent,Business Services,15,capeann
+75,10,Clerical,1,capeann
+76,10,Computer Support,8,capeann
+77,10,Financial,2,capeann
+78,10,Legal,2,capeann
+79,10,Marketing,4,capeann
+81,10,Miscellaneous,2,capeann
+4,is_parent,Community Fund Activities,9,capeann
+33,4,Clean-up / Recycling,1,capeann
+34,4,Community Service,1,capeann
+108,4,Elder Care Services,1,capeann
+3,is_parent,Companionship,3,capeann
+7,is_parent,Education,9,capeann
+8,is_parent,"Arts, Crafts & Music",0,care
+10,is_parent,Business Services,0,care
+4,is_parent,Community Activities,0,care
+3,is_parent,Companionship,1,care
+7,is_parent,Education,0,care
+8,is_parent,"Arts, Crafts & Music",0,engaging
+10,is_parent,Business Services,0,engaging
+4,is_parent,Community Activities,0,engaging
+3,is_parent,Companionship,0,engaging
+7,is_parent,Education,0,engaging
+8,is_parent,"Arts, Crafts & Music",0,cris
+10,is_parent,Business Services,1,cris
+4,is_parent,Community Activities,12,cris
+3,is_parent,Companionship,1,cris
+7,is_parent,Education,2,cris
+8,is_parent,"Arts, Crafts & Music",0,centraliowa
+10,is_parent,Business Services,0,centraliowa
+4,is_parent,Community Activities,0,centraliowa
+3,is_parent,Companionship,0,centraliowa
+7,is_parent,Education,0,centraliowa
+8,is_parent,"Arts, Crafts & Music",0,lincolnskillshare
+10,is_parent,Business Services,2,lincolnskillshare
+4,is_parent,Community Activities,3,lincolnskillshare
+33,4,Clean-up / Recycling,2,lincolnskillshare
+3,is_parent,Companionship,2,lincolnskillshare
+6,3,Clubs,1,lincolnskillshare
+7,3,Dining Out,1,lincolnskillshare
+7,is_parent,Education,1,lincolnskillshare
+8,is_parent,"Arts, Crafts & Music",0,nzcentralpermaculture
+10,is_parent,Business Services,0,nzcentralpermaculture
+4,is_parent,Community Activities,0,nzcentralpermaculture
+3,is_parent,Companionship,0,nzcentralpermaculture
+7,is_parent,Education,0,nzcentralpermaculture
+8,is_parent,"Arts, Crafts & Music",0,changexchange
+10,is_parent,Business Services,0,changexchange
+4,is_parent,Community Activities,0,changexchange
+3,is_parent,Companionship,0,changexchange
+7,is_parent,Education,0,changexchange
+8,is_parent,"Arts, Crafts & Music",0,circlenomic
+10,is_parent,Business Services,0,circlenomic
+4,is_parent,Community Activities,0,circlenomic
+3,is_parent,Companionship,0,circlenomic
+7,is_parent,Education,0,circlenomic
+8,is_parent,"Arts, Crafts & Music",0,citypark
+10,is_parent,Business Services,0,citypark
+4,is_parent,Community Activities,0,citypark
+3,is_parent,Companionship,0,citypark
+7,is_parent,Education,0,citypark
+8,is_parent,"Arts, Crafts & Music",0,columbia
+10,is_parent,Business Services,6,columbia
+4,is_parent,Community Activities,3,columbia
+3,is_parent,Companionship/Socializing,0,columbia
+7,is_parent,Education,5,columbia
+8,is_parent,"Arts, Crafts & Music",0,slocanvalley
+10,is_parent,Business Services,0,slocanvalley
+4,is_parent,Community Activities,0,slocanvalley
+3,is_parent,Companionship,0,slocanvalley
+7,is_parent,Education,0,slocanvalley
+8,is_parent,"Arts, Crafts & Music",0,manasota
+10,is_parent,Business Services,3,manasota
+4,is_parent,Community Activities,5,manasota
+3,is_parent,Companionship,0,manasota
+7,is_parent,Education,1,manasota
+54,7,Advocacy,1,manasota
+8,is_parent,"Arts, Crafts & Music",2,dn
+10,is_parent,Business Services,14,dn
+75,10,Clerical,7,dn
+76,10,Computer Support,2,dn
+77,10,Financial,1,dn
+4,is_parent,Community Activities,12,dn
+3,is_parent,Companionship,1,dn
+7,is_parent,Education,5,dn
+8,is_parent,"Arts, Crafts & Music",2,cse
+128,8,"Audio - recording, editing, podcasts, or other",2,cse
+10,is_parent,Business Services,6,cse
+76,10,Computer Support,2,cse
+138,10,Data Entry - a super super important job,2,cse
+129,is_parent,Care for Animals,1,cse
+13,129,"Grooming, Trimming hair or nails",1,cse
+4,is_parent,Community Activities,22,cse
+3,is_parent,Companionship,0,cse
+7,is_parent,Education,4,cse
+8,is_parent,"Arts, Crafts & Music",0,communityskillexchange
+10,is_parent,Business Services,1,communityskillexchange
+4,is_parent,Community Activities,7,communityskillexchange
+3,is_parent,Companionship,0,communityskillexchange
+7,is_parent,Education,2,communityskillexchange
+8,is_parent,"Arts, Crafts & Music",2,richmondcounty
+61,8,Classes,1,richmondcounty
+6,8,Crafts,1,richmondcounty
+63,8,Entertainment,1,richmondcounty
+64,8,Lessons,1,richmondcounty
+67,8,Miscellaneous,1,richmondcounty
+10,is_parent,Business Services,1,richmondcounty
+4,is_parent,Community Activities,2,richmondcounty
+3,is_parent,Companionship,0,richmondcounty
+91,is_parent,Donation,0,richmondcounty
+7,is_parent,Education,1,richmondcounty
+87,is_parent,Free Time Credit,0,richmondcounty
+8,is_parent,"Arts, Crafts & Music",0,northfrontenac
+10,is_parent,Business Services,0,northfrontenac
+4,is_parent,Community Activities,0,northfrontenac
+3,is_parent,Companionship,0,northfrontenac
+7,is_parent,Education,0,northfrontenac
+8,is_parent,"Arts, Crafts & Music",0,katytx
+10,is_parent,Business Services,0,katytx
+4,is_parent,Community Activities,0,katytx
+3,is_parent,Companionship,0,katytx
+7,is_parent,Education,0,katytx
+8,is_parent,"Arts, Crafts & Music",16,crookedriver
+61,8,Classes,2,crookedriver
+6,8,Crafts,2,crookedriver
+63,8,Entertainment,1,crookedriver
+64,8,Lessons,3,crookedriver
+67,8,Miscellaneous,7,crookedriver
+65,8,Photo & Video,2,crookedriver
+66,8,Theater,1,crookedriver
+10,is_parent,Business Services,13,crookedriver
+88,10,Business Networking,1,crookedriver
+75,10,Clerical,1,crookedriver
+76,10,Computer Support,3,crookedriver
+4,is_parent,Community Activities,99,crookedriver
+33,4,Clean-up / Recycling,4,crookedriver
+34,4,Community Service,9,crookedriver
+90,4,Donation of time credits,2,crookedriver
+35,4,Fund-raising,4,crookedriver
+86,4,Group Projects,3,crookedriver
+36,4,Help Our TimeBank!,65,crookedriver
+39,4,Miscellaneous,10,crookedriver
+37,4,Special Projects,5,crookedriver
+38,4,Work For Social Change,9,crookedriver
+3,is_parent,Companionship,2,crookedriver
+7,is_parent,Education,14,crookedriver
+54,7,Advocacy,2,crookedriver
+55,7,Classes / Workshops,4,crookedriver
+56,7,Computers / Technology,3,crookedriver
+8,is_parent,"Arts, Crafts & Music",0,danvilledollars
+10,is_parent,Business Services,0,danvilledollars
+4,is_parent,Community Activities,0,danvilledollars
+3,is_parent,Companionship,0,danvilledollars
+7,is_parent,Education,0,danvilledollars
+8,is_parent,"Arts, Crafts & Music",4,dc
+61,8,Classes,2,dc
+6,8,Crafts,2,dc
+10,is_parent,Business Services,4,dc
+4,is_parent,Community Activities,1,dc
+3,is_parent,Companionship,0,dc
+7,is_parent,Education,1,dc
+8,is_parent,"Arts, Crafts & Music",0,dhe
+10,is_parent,Business Services,0,dhe
+4,is_parent,Community Activities,0,dhe
+3,is_parent,Companionship,0,dhe
+7,is_parent,Education,0,dhe
+8,is_parent,"Arts, Crafts & Music",0,democw3
+10,is_parent,Business Services,0,democw3
+4,is_parent,Community Activities,0,democw3
+3,is_parent,Companionship,0,democw3
+7,is_parent,Education,0,democw3
+8,is_parent,"Arts, Crafts & Music",0,denton
+10,is_parent,Business Services,0,denton
+4,is_parent,Community Activities,0,denton
+3,is_parent,Companionship,0,denton
+7,is_parent,Education,0,denton
+8,is_parent,"Arts, Crafts & Music",0,dunedin
+10,is_parent,Business Services,9,dunedin
+4,is_parent,Community Activities,2,dunedin
+33,4,Clean-up / Recycling,1,dunedin
+3,is_parent,Companionship,0,dunedin
+7,is_parent,Education,3,dunedin
+8,is_parent,"Arts, Crafts & Music",0,durham
+10,is_parent,Business Services,0,durham
+4,is_parent,Community Activities,0,durham
+3,is_parent,Companionship,0,durham
+7,is_parent,Education,0,durham
+8,is_parent,"Arts, Crafts & Music",0,eann
+10,is_parent,Business Services,0,eann
+4,is_parent,Community Activities,0,eann
+3,is_parent,Companionship,0,eann
+7,is_parent,Education,0,eann
+8,is_parent,"Arts, Crafts & Music",1,earn
+10,is_parent,Business Services,0,earn
+4,is_parent,Community Activities,4,earn
+33,4,Clean-up / Recycling,1,earn
+34,4,Community Service,2,earn
+3,is_parent,Companionship,0,earn
+7,is_parent,Education,1,earn
+89,is_parent,Accommodation and Hospitality,0,eastbay
+8,is_parent,"Arts, Crafts & Music",1,eastbay
+10,is_parent,Business Services,2,eastbay
+4,is_parent,Community Activities,3,eastbay
+3,is_parent,Companionship,0,eastbay
+7,is_parent,Education,1,eastbay
+91,is_parent,Goods Trading,0,eastbay
+8,is_parent,"Arts, Crafts & Music",0,fablabchc
+10,is_parent,Business Services,0,fablabchc
+4,is_parent,Community Activities,0,fablabchc
+3,is_parent,Companionship,0,fablabchc
+7,is_parent,Education,0,fablabchc
+8,is_parent,"Arts, Crafts & Music",0,fairbanks
+10,is_parent,Business Services,0,fairbanks
+4,is_parent,Community Activities,1,fairbanks
+33,4,Clean-up / Recycling,1,fairbanks
+3,is_parent,Companionship,0,fairbanks
+7,is_parent,Education,0,fairbanks
+8,is_parent,"Arts, Crafts & Music",0,farnor
+10,is_parent,Business Services,0,farnor
+4,is_parent,Community Activities,0,farnor
+3,is_parent,Companionship,0,farnor
+7,is_parent,Education,0,farnor
+8,is_parent,"Arts, Crafts & Music",0,farmster
+10,is_parent,Business Services,0,farmster
+4,is_parent,Community Activities,0,farmster
+3,is_parent,Companionship,0,farmster
+7,is_parent,Education,0,farmster
+88,is_parent,Counseling,0,flouris
+7,is_parent,Education,0,flouris
+9,is_parent,Medical services,0,flouris
+5,is_parent,Wellness,0,flouris
+8,is_parent,"Arts, Crafts & Music",1,frederick
+10,is_parent,Business Services,2,frederick
+4,is_parent,Community Activities,0,frederick
+3,is_parent,Companionship,1,frederick
+7,is_parent,Education,1,frederick
+8,is_parent,"Arts, Crafts & Music",0,ghoodcalgary
+10,is_parent,Business Services,0,ghoodcalgary
+4,is_parent,Community Activities,0,ghoodcalgary
+3,is_parent,Companionship,0,ghoodcalgary
+7,is_parent,Education,0,ghoodcalgary
+8,is_parent,"Arts, Crafts & Music",0,karma
+10,is_parent,Business Services,0,karma
+4,is_parent,Community Activities,0,karma
+3,is_parent,Companionship,0,karma
+7,is_parent,Education,0,karma
+8,is_parent,"Arts, Crafts & Music",0,globetable
+10,is_parent,Business Services,0,globetable
+4,is_parent,Community Activities,0,globetable
+3,is_parent,Companionship,0,globetable
+7,is_parent,Education,0,globetable
+8,is_parent,"Arts, Crafts & Music",1,goodneighborstb
+10,is_parent,Business Services,0,goodneighborstb
+4,is_parent,Community Activities,4,goodneighborstb
+3,is_parent,Companionship,1,goodneighborstb
+6,3,Clubs,1,goodneighborstb
+7,is_parent,Education,0,goodneighborstb
+8,is_parent,"Arts, Crafts & Music",0,scgm
+10,is_parent,Business Services,1,scgm
+4,is_parent,Community Activities,3,scgm
+3,is_parent,Companionship,0,scgm
+7,is_parent,Education,0,scgm
+8,is_parent,"Arts, Crafts & Music",2,greatbay
+10,is_parent,Business Services,0,greatbay
+4,is_parent,Community Activities,0,greatbay
+3,is_parent,Companionship,0,greatbay
+7,is_parent,Education,0,greatbay
+8,is_parent,"Arts, Crafts & Music",0,gc
+10,is_parent,Business Services,0,gc
+4,is_parent,Community Activities,0,gc
+3,is_parent,Companionship,0,gc
+7,is_parent,Education,0,gc
+8,is_parent,"Arts, Crafts & Music",0,greaterheights
+10,is_parent,Business Services,1,greaterheights
+4,is_parent,Community Activities,5,greaterheights
+3,is_parent,Companionship,0,greaterheights
+7,is_parent,Education,1,greaterheights
+114,is_parent,Account Management,0,gwtb
+8,is_parent,"Arts, Crafts & Music",0,gwtb
+94,is_parent,"Arts, Crafts & Music",1,gwtb
+10,is_parent,Business Services,0,gwtb
+4,is_parent,Community Activities,0,gwtb
+3,is_parent,Companionship,0,gwtb
+89,is_parent,Computers and Technology,0,gwtb
+1,is_parent,Crafting and Artisan Services,0,gwtb
+124,is_parent,Donation of Credits,0,gwtb
+7,is_parent,Education,0,gwtb
+118,is_parent,Elder and Companionship,0,gwtb
+8,is_parent,"Arts, Crafts & Music",1,choptank
+10,is_parent,Business Services,1,choptank
+75,10,Clerical,1,choptank
+4,is_parent,Community Activities,1,choptank
+3,is_parent,Companionship,0,choptank
+7,is_parent,Education,2,choptank
+8,is_parent,"Arts, Crafts & Music",0,bc-historyofmoney
+10,is_parent,Business Services,0,bc-historyofmoney
+4,is_parent,Community Activities,0,bc-historyofmoney
+3,is_parent,Companionship,0,bc-historyofmoney
+7,is_parent,Education,0,bc-historyofmoney
+8,is_parent,"Arts, Crafts & Music",0,opexchange
+10,is_parent,Business Services,0,opexchange
+4,is_parent,Community Activities,0,opexchange
+3,is_parent,Companionship,0,opexchange
+7,is_parent,Education,0,opexchange
+8,is_parent,"Arts, Crafts & Music",0,our4ourworld
+10,is_parent,Business Services,0,our4ourworld
+4,is_parent,Community Activities,0,our4ourworld
+3,is_parent,Companionship,0,our4ourworld
+7,is_parent,Education,0,our4ourworld
+194,is_parent,Food Not Lawns,0,our4ourworld
+175,is_parent,Garden & Yards,0,our4ourworld
+188,is_parent,H4OW Time Exchange,1,our4ourworld
+190,188,Administrative,1,our4ourworld
+8,is_parent,"Arts, Crafts & Music",4,ourcommunityinterfai
+61,8,Classes,1,ourcommunityinterfai
+10,is_parent,Business Services,0,ourcommunityinterfai
+4,is_parent,Community Activities,0,ourcommunityinterfai
+3,is_parent,Companionship,0,ourcommunityinterfai
+7,is_parent,Education,11,ourcommunityinterfai
+8,is_parent,"Arts, Crafts & Music",0,isiinc
+10,is_parent,Business Services,0,isiinc
+4,is_parent,Community Activities,0,isiinc
+3,is_parent,Companionship,0,isiinc
+7,is_parent,Education,0,isiinc
+8,is_parent,"Arts, Crafts & Music",0,jeffersoncommunity
+10,is_parent,Business Services,0,jeffersoncommunity
+4,is_parent,Community Activities,0,jeffersoncommunity
+3,is_parent,Companionship,0,jeffersoncommunity
+7,is_parent,Education,0,jeffersoncommunity
+8,is_parent,"Arts, Crafts & Music",0,jerseyshore
+10,is_parent,Business Services,0,jerseyshore
+4,is_parent,Community Activities,0,jerseyshore
+3,is_parent,Companionship,0,jerseyshore
+7,is_parent,Education,0,jerseyshore
+8,is_parent,"Arts, Crafts & Music",12,kaitaia
+61,8,Classes,1,kaitaia
+6,8,Crafts,11,kaitaia
+10,is_parent,Business Services,4,kaitaia
+75,10,Clerical,3,kaitaia
+4,is_parent,Community Activities,34,kaitaia
+33,4,Clean-up / Recycling,5,kaitaia
+34,4,Community Service,26,kaitaia
+35,4,Fund-raising,4,kaitaia
+86,4,Group Projects,6,kaitaia
+36,4,Help Our TimeBank!,1,kaitaia
+3,is_parent,Companionship,1,kaitaia
+7,is_parent,Education,4,kaitaia
+8,is_parent,"Arts, Crafts & Music",0,kapiti50
+10,is_parent,Business Services,0,kapiti50
+4,is_parent,Community Activities,0,kapiti50
+3,is_parent,Companionship,0,kapiti50
+7,is_parent,Education,0,kapiti50
+8,is_parent,"Arts, Crafts & Music",0,klc
+10,is_parent,Business Services,0,klc
+4,is_parent,Community Activities,0,klc
+3,is_parent,Companionship,0,klc
+7,is_parent,Education,0,klc
+8,is_parent,"Arts, Crafts & Music",0,khokha
+10,is_parent,Business Services,0,khokha
+4,is_parent,Community Activities,0,khokha
+3,is_parent,Companionship,0,khokha
+7,is_parent,Education,0,khokha
+8,is_parent,"Arts, Crafts & Music",0,letsbmore
+10,is_parent,Business Services,1,letsbmore
+4,is_parent,Community Activities,1,letsbmore
+33,4,Clean-up / Recycling,1,letsbmore
+3,is_parent,Companionship,0,letsbmore
+7,is_parent,Education,2,letsbmore
+54,7,Advocacy,1,letsbmore
+117,is_parent,"Arts, Culture and Ideas",0,margination
+87,is_parent,Buildings,0,margination
+1,is_parent,Care and Social Support,0,margination
+111,is_parent,Home,0,margination
+98,is_parent,Office and Professional,0,margination
+8,is_parent,"Arts, Crafts & Music",0,meadville
+10,is_parent,Business Services,0,meadville
+4,is_parent,Community Activities,0,meadville
+3,is_parent,Companionship,0,meadville
+7,is_parent,Education,0,meadville
+8,is_parent,"Arts, Crafts & Music",8,midcanterbury
+61,8,Classes,1,midcanterbury
+6,8,Crafts,3,midcanterbury
+63,8,Entertainment,1,midcanterbury
+64,8,Lessons,5,midcanterbury
+67,8,Miscellaneous,1,midcanterbury
+10,is_parent,Business Services,5,midcanterbury
+125,10,Administration,1,midcanterbury
+76,10,Computer Support,2,midcanterbury
+4,is_parent,Community Activities,4,midcanterbury
+3,is_parent,Companionship,3,midcanterbury
+101,is_parent,Culture & Knowledge,1,midcanterbury
+7,is_parent,Education,1,midcanterbury
+8,is_parent,"Arts, Crafts & Music",0,mk
+4,is_parent,Community Activities,1,mk
+7,is_parent,Education,0,mk
+3,is_parent,Events,0,mk
+5,is_parent,Health,0,mk
+6,is_parent,Interests,0,mk
+11,is_parent,Misc. (Not Above),0,mk
+99,is_parent,Stuff,0,mk
+90,is_parent,The Buszy,0,mk
+8,is_parent,"Arts, Crafts & Music",0,mttimeexchange
+10,is_parent,Business Services,0,mttimeexchange
+4,is_parent,Community Activities,0,mttimeexchange
+3,is_parent,Companionship,0,mttimeexchange
+7,is_parent,Education,0,mttimeexchange
+8,is_parent,"Arts, Crafts & Music",0,murihiku
+10,is_parent,Business Services,0,murihiku
+4,is_parent,Community Activities,0,murihiku
+3,is_parent,Companionship,0,murihiku
+7,is_parent,Education,1,murihiku
+8,is_parent,"Arts, Crafts & Music",0,mwdi
+10,is_parent,Business Services,0,mwdi
+4,is_parent,Community Activities,0,mwdi
+3,is_parent,Companionship,0,mwdi
+7,is_parent,Education,0,mwdi
+8,is_parent,"Arts, Crafts & Music",0,nbnneighborhoodnetwork
+10,is_parent,Business Services,0,nbnneighborhoodnetwork
+4,is_parent,Community Activities,1,nbnneighborhoodnetwork
+3,is_parent,Companionship,2,nbnneighborhoodnetwork
+7,is_parent,Education,1,nbnneighborhoodnetwork
+8,is_parent,"Arts, Crafts & Music",0,iedmon
+10,is_parent,Business Services,0,iedmon
+4,is_parent,Community Activities,0,iedmon
+3,is_parent,Companionship,0,iedmon
+7,is_parent,Education,0,iedmon
+8,is_parent,"Arts, Crafts & Music",0,eneighborhoodvillage
+10,is_parent,Business Services,0,eneighborhoodvillage
+4,is_parent,Community Activities,0,eneighborhoodvillage
+3,is_parent,Companionship,0,eneighborhoodvillage
+7,is_parent,Education,0,eneighborhoodvillage
+8,is_parent,"Arts, Crafts & Music",0,nerd
+10,is_parent,Business Services,0,nerd
+4,is_parent,Community Activities,0,nerd
+3,is_parent,Companionship,0,nerd
+7,is_parent,Education,0,nerd
+8,is_parent,"Arts, Crafts & Music",2,nether-swarthmore
+10,is_parent,Business Services,3,nether-swarthmore
+4,is_parent,Community Activities,3,nether-swarthmore
+3,is_parent,Companionship,3,nether-swarthmore
+7,is_parent,Education,2,nether-swarthmore
+8,is_parent,"Arts, Crafts & Music",1,nrv
+10,is_parent,Business Services,1,nrv
+4,is_parent,Community Activities,2,nrv
+3,is_parent,Companionship,0,nrv
+7,is_parent,Education,2,nrv
+54,7,Advocacy,1,nrv
+8,is_parent,"Arts, Crafts & Music",5,nola
+61,8,Classes,1,nola
+10,is_parent,Business Services,3,nola
+4,is_parent,Community Activities,5,nola
+33,4,Clean-up / Recycling,2,nola
+34,4,Community Service,1,nola
+3,is_parent,Companionship,1,nola
+7,is_parent,Education,2,nola
+8,is_parent,"Arts, Crafts & Music",0,norman
+10,is_parent,Business Services,0,norman
+4,is_parent,Community Activities,0,norman
+3,is_parent,Companionship,0,norman
+7,is_parent,Education,0,norman
+8,is_parent,"Arts, Crafts & Music",0,ncc
+10,is_parent,Business Services,0,ncc
+4,is_parent,Community Activities,0,ncc
+3,is_parent,Companionship,0,ncc
+7,is_parent,Education,0,ncc
+8,is_parent,"Arts, Crafts & Music",0,northwestnewjersey
+10,is_parent,Business Services,0,northwestnewjersey
+4,is_parent,Community Activities,0,northwestnewjersey
+3,is_parent,Companionship,0,northwestnewjersey
+7,is_parent,Education,0,northwestnewjersey
+8,is_parent,"Arts, Crafts & Music",0,oahu
+10,is_parent,Business Services,0,oahu
+4,is_parent,Community Activities,0,oahu
+3,is_parent,Companionship,0,oahu
+7,is_parent,Education,0,oahu
+5,is_parent,Body/Wellness,2,ojai
+10,is_parent,Business Services,0,ojai
+104,is_parent,Car,1,ojai
+115,is_parent,Computer,0,ojai
+7,is_parent,Education,2,ojai
+8,is_parent,"Arts, Crafts & Music",7,orexchange
+6,8,Crafts,2,orexchange
+10,is_parent,Business Services,8,orexchange
+379,10,Cleaning,2,orexchange
+75,10,Clerical,1,orexchange
+76,10,Computer Support,2,orexchange
+4,is_parent,Community Activities,7,orexchange
+33,4,Clean-up / Recycling,2,orexchange
+3,is_parent,Companionship,1,orexchange
+7,is_parent,Education,9,orexchange
+54,7,Advocacy,2,orexchange
+55,7,Classes / Workshops,2,orexchange
+56,7,Computers / Technology,2,orexchange
+57,7,Languages / Translation,2,orexchange
+345,is_parent,Elder Services,2,orexchange
+343,is_parent,For Youth/Children,4,orexchange
+349,343,Child care,2,orexchange
+344,343,Children's activities,2,orexchange
+8,is_parent,All Other Services,0,otaki
+8,is_parent,"Arts, Crafts & Music",0,otaki
+10,is_parent,Business Services,0,otaki
+4,is_parent,Community Activities,2,otaki
+3,is_parent,Companionship,0,otaki
+7,is_parent,Education,0,otaki
+83,is_parent,For Sale,0,otaki
+85,is_parent,Free Stuff,0,otaki
+188,is_parent,Garden,4,otaki
+8,is_parent,"Arts, Crafts & Music",0,ourcommunity
+10,is_parent,Business Services,0,ourcommunity
+4,is_parent,Community Activities,0,ourcommunity
+3,is_parent,Companionship,0,ourcommunity
+7,is_parent,Education,0,ourcommunity
+8,is_parent,"Arts, Crafts & Music",0,oscab
+10,is_parent,Business Services,0,oscab
+4,is_parent,Community Activities,0,oscab
+3,is_parent,Companionship,0,oscab
+7,is_parent,Education,0,oscab
+8,is_parent,"Arts, Crafts & Music",0,washingtoncountywi
+10,is_parent,Business Services,0,washingtoncountywi
+4,is_parent,Community Activities,3,washingtoncountywi
+3,is_parent,Companionship,1,washingtoncountywi
+7,is_parent,Education,0,washingtoncountywi
+8,is_parent,"Arts, Crafts & Music",0,ay4wardbank
+10,is_parent,Business Services,6,ay4wardbank
+4,is_parent,Community Activities,0,ay4wardbank
+7,is_parent,Education,0,ay4wardbank
+9,is_parent,Home,0,ay4wardbank
+11,is_parent,Misc. (Not Above),0,ay4wardbank
+6,is_parent,Recreation,0,ay4wardbank
+1,is_parent,Transportation,0,ay4wardbank
+5,is_parent,Wellness,0,ay4wardbank
+8,is_parent,"Arts, Crafts & Music",2,atb
+10,is_parent,Business Services,7,atb
+4,is_parent,Community Activities,21,atb
+33,4,Clean-up / Recycling,2,atb
+34,4,Community Service,2,atb
+3,is_parent,Companionship,3,atb
+6,3,Clubs,1,atb
+7,is_parent,Education,1,atb
+8,is_parent,"Arts, Crafts & Music",0,orirua
+10,is_parent,Business Services,0,orirua
+4,is_parent,Community Activities,4,orirua
+3,is_parent,Companionship,0,orirua
+7,is_parent,Education,1,orirua
+8,is_parent,"Arts, Crafts & Music",0,ridestl
+10,is_parent,Business Services,0,ridestl
+4,is_parent,Community Activities,0,ridestl
+3,is_parent,Companionship,0,ridestl
+7,is_parent,Education,0,ridestl
+8,is_parent,"Arts, Crafts & Music",0,rojectbunbury
+10,is_parent,Business Services,1,rojectbunbury
+4,is_parent,Community Activities,5,rojectbunbury
+3,is_parent,Companionship,0,rojectbunbury
+7,is_parent,Education,0,rojectbunbury
+8,is_parent,"Arts, Crafts & Music",5,reciprocity
+10,is_parent,Business Services,8,reciprocity
+4,is_parent,Community Activities,5,reciprocity
+93,is_parent,Community Organizing,1,reciprocity
+3,is_parent,Companionship,1,reciprocity
+7,is_parent,Education,3,reciprocity
+8,is_parent,"Arts, Crafts & Music",0,rvtb
+10,is_parent,Business Services,0,rvtb
+4,is_parent,Community Activities,0,rvtb
+3,is_parent,Companionship,0,rvtb
+7,is_parent,Education,0,rvtb
+8,is_parent,"Arts, Crafts & Music",0,scouts
+10,is_parent,Business Services,0,scouts
+4,is_parent,Community Activities,0,scouts
+3,is_parent,Companionship,0,scouts
+7,is_parent,Education,0,scouts
+8,is_parent,"Arts, Crafts & Music",11,sebastopolarea
+61,8,Classes,2,sebastopolarea
+6,8,Crafts,1,sebastopolarea
+10,is_parent,Business Services,6,sebastopolarea
+75,10,Clerical,1,sebastopolarea
+76,10,Computer Support,4,sebastopolarea
+4,is_parent,Community Activities,1,sebastopolarea
+158,4,Completed Annual Member Survey,1,sebastopolarea
+3,is_parent,Companionship,1,sebastopolarea
+7,is_parent,Education,3,sebastopolarea
+137,is_parent,Emergency Services,0,sebastopolarea
+151,is_parent,FIX-IT PARTIES,0,sebastopolarea
+8,is_parent,"Arts, Crafts & Music",0,sobrantepark
+10,is_parent,Business Services,0,sobrantepark
+4,is_parent,Community Activities,0,sobrantepark
+3,is_parent,Companionship,0,sobrantepark
+7,is_parent,Education,0,sobrantepark
+8,is_parent,"Arts, Crafts & Music",0,springhillfl
+10,is_parent,Business Services,1,springhillfl
+4,is_parent,Community Activities,0,springhillfl
+3,is_parent,Companionship,0,springhillfl
+7,is_parent,Education,1,springhillfl
+8,is_parent,"Arts, Crafts & Music",0,spur
+10,is_parent,Business Services,1,spur
+4,is_parent,Community Activities,1,spur
+3,is_parent,Companionship,0,spur
+7,is_parent,Education,0,spur
+8,is_parent,"Arts, Crafts & Music",20,stpete
+61,8,Classes,4,stpete
+6,8,Crafts,10,stpete
+63,8,Entertainment,3,stpete
+64,8,Lessons,1,stpete
+65,8,Photo & Video,2,stpete
+10,is_parent,Business Services,19,stpete
+87,10,Administration,9,stpete
+75,10,Clerical,1,stpete
+76,10,Computer Support,2,stpete
+77,10,Financial,1,stpete
+78,10,Legal,2,stpete
+79,10,Marketing,6,stpete
+103,10,Professional Services,1,stpete
+106,10,Promotion of Time Bank,1,stpete
+80,10,Research,4,stpete
+89,10,Social Media Marketing,2,stpete
+4,is_parent,Community Activities,51,stpete
+33,4,Clean-up / Recycling,11,stpete
+34,4,Community Service,9,stpete
+3,is_parent,Companionship,2,stpete
+7,is_parent,Education,9,stpete
+54,7,Advocacy,2,stpete
+55,7,Classes / Workshops,2,stpete
+56,7,Computers / Technology,2,stpete
+9,is_parent,For Rent,6,stpete
+94,9,Equipment Rental,3,stpete
+93,9,Room Rent,3,stpete
+8,is_parent,"Arts, Crafts & Music",0,startribehours
+10,is_parent,Business Services,0,startribehours
+4,is_parent,Community Activities,0,startribehours
+7,is_parent,Education,0,startribehours
+8,is_parent,"Arts, Crafts & Music",0,swel
+10,is_parent,Business Services,2,swel
+75,10,Clerical,1,swel
+76,10,Computer Support,1,swel
+4,is_parent,Community Activities,3,swel
+3,is_parent,Companionship,1,swel
+7,is_parent,Education,2,swel
+8,is_parent,"Arts, Crafts & Music",0,akomatime
+10,is_parent,Business Services,0,akomatime
+4,is_parent,Community Activities,2,akomatime
+3,is_parent,Companionship,1,akomatime
+7,is_parent,Education,0,akomatime
+8,is_parent,"Arts, Crafts & Music",2,aneycounty
+61,8,Classes,1,aneycounty
+10,is_parent,Business Services,1,aneycounty
+75,10,Clerical,1,aneycounty
+4,is_parent,Community Activities,1,aneycounty
+3,is_parent,Companionship,0,aneycounty
+7,is_parent,Education,2,aneycounty
+8,is_parent,"Arts, Crafts & Music",5,aranaki
+6,8,Art & Crafts,2,aranaki
+10,is_parent,Business Services,4,aranaki
+75,10,Clerical,1,aranaki
+4,is_parent,Community Activities,9,aranaki
+33,4,Clean-up / Recycling,2,aranaki
+86,4,Community Projects,1,aranaki
+34,4,Community Service,2,aranaki
+3,is_parent,Companionship,0,aranaki
+7,is_parent,Education,2,aranaki
+8,is_parent,"Arts, Crafts & Music",0,est-launch-2018-07-28-2058
+10,is_parent,Business Services,0,est-launch-2018-07-28-2058
+4,is_parent,Community Activities,0,est-launch-2018-07-28-2058
+3,is_parent,Companionship,0,est-launch-2018-07-28-2058
+7,is_parent,Education,0,est-launch-2018-07-28-2058
+8,is_parent,"Arts, Crafts & Music",0,ecommunityprojec
+10,is_parent,Business Services,0,ecommunityprojec
+4,is_parent,Community Activities,0,ecommunityprojec
+3,is_parent,Companionship,0,ecommunityprojec
+7,is_parent,Education,1,ecommunityprojec
+8,is_parent,"Arts, Crafts & Music",2,uttsou
+61,8,Classes,1,uttsou
+6,8,Crafts,1,uttsou
+10,is_parent,Business Services,1,uttsou
+4,is_parent,Community Activities,3,uttsou
+33,4,Clean-up / Recycling,1,uttsou
+34,4,Community Service,2,uttsou
+3,is_parent,Companionship,0,uttsou
+7,is_parent,Education,2,uttsou
+8,is_parent,"Arts, Crafts & Music",3,lyttelton
+10,is_parent,Business Services,1,lyttelton
+4,is_parent,Community Activities,4,lyttelton
+3,is_parent,Companionship,1,lyttelton
+7,is_parent,Education,1,lyttelton
+8,is_parent,"Arts, Crafts & Music",0,sanctuaryseniorvillage
+10,is_parent,Business Services,0,sanctuaryseniorvillage
+4,is_parent,Community Activities,0,sanctuaryseniorvillage
+3,is_parent,Companionship,0,sanctuaryseniorvillage
+7,is_parent,Education,0,sanctuaryseniorvillage
+8,is_parent,"Arts, Crafts & Music",3,ierrasanta
+10,is_parent,Business Services,4,ierrasanta
+4,is_parent,Community Activities,1,ierrasanta
+3,is_parent,Companionship,1,ierrasanta
+7,is_parent,Education,11,ierrasanta
+8,is_parent,"Arts, Crafts & Music",0,galesburgil
+10,is_parent,Business Services,0,galesburgil
+4,is_parent,Community Activities,0,galesburgil
+3,is_parent,Companionship,0,galesburgil
+7,is_parent,Education,0,galesburgil
+8,is_parent,"Arts, Crafts & Music",0,westmilford
+10,is_parent,Business Services,0,westmilford
+4,is_parent,Community Activities,0,westmilford
+3,is_parent,Companionship,0,westmilford
+7,is_parent,Education,0,westmilford
+8,is_parent,"Arts, Crafts & Music",3,stannsbay
+10,is_parent,Business Services,0,stannsbay
+4,is_parent,Community Activities,2,stannsbay
+33,4,Clean-up / Recycling,1,stannsbay
+3,is_parent,Companionship,7,stannsbay
+7,is_parent,Education,1,stannsbay
+8,is_parent,"Arts, Crafts & Music",0,kaikoura
+10,is_parent,Business Services,0,kaikoura
+4,is_parent,Community Activities,0,kaikoura
+3,is_parent,Companionship,0,kaikoura
+7,is_parent,Education,1,kaikoura
+8,is_parent,"Arts, Crafts & Music",6,mainetime
+10,is_parent,Business Services,2,mainetime
+75,10,Clerical,1,mainetime
+4,is_parent,Community Activities,20,mainetime
+3,is_parent,Companionship,2,mainetime
+6,3,Clubs,1,mainetime
+7,3,Dining Out,1,mainetime
+7,is_parent,Education,2,mainetime
+8,is_parent,"Arts, Crafts & Music",0,newzealand
+10,is_parent,Business Services,1,newzealand
+75,10,Clerical,1,newzealand
+4,is_parent,Community Activities,1,newzealand
+3,is_parent,Companionship,1,newzealand
+7,is_parent,Education,1,newzealand
+8,is_parent,"Arts, Crafts & Music",0,bfredericton
+10,is_parent,Business Services,0,bfredericton
+4,is_parent,Community Activities,0,bfredericton
+3,is_parent,Companionship,0,bfredericton
+7,is_parent,Education,0,bfredericton
+8,is_parent,"Arts, Crafts & Music",0,bhawaii
+10,is_parent,Business Services,0,bhawaii
+4,is_parent,Community Activities,0,bhawaii
+3,is_parent,Companionship,0,bhawaii
+7,is_parent,Education,0,bhawaii
+8,is_parent,"Arts, Crafts & Music",3,urunui
+61,8,Classes,1,urunui
+6,8,Crafts,1,urunui
+10,is_parent,Business Services,0,urunui
+4,is_parent,Community Activities,6,urunui
+3,is_parent,Companionship,0,urunui
+17,is_parent,Eco-Living/Sustainable Solutions,3,urunui
+7,is_parent,Education,1,urunui
+8,is_parent,"Arts, Crafts & Music",1,mcs1stopindy
+61,8,Classes,1,mcs1stopindy
+10,is_parent,Business Services,1,mcs1stopindy
+103,10,Business Consultation/Coaching,1,mcs1stopindy
+4,is_parent,Community Activities,3,mcs1stopindy
+3,is_parent,Companionship,0,mcs1stopindy
+7,is_parent,Education (General),0,mcs1stopindy
+93,is_parent,Education (Sustainable Living),3,mcs1stopindy
+8,is_parent,"Arts, Crafts & Music",6,manawatu
+61,8,Classes,2,manawatu
+6,8,Crafts,3,manawatu
+63,8,Entertainment,1,manawatu
+64,8,Lessons,1,manawatu
+67,8,Miscellaneous,2,manawatu
+65,8,Photo & Video,1,manawatu
+10,is_parent,Business Services,0,manawatu
+4,is_parent,Community Activities,1,manawatu
+3,is_parent,Companionship,3,manawatu
+7,is_parent,Education,2,manawatu
+8,is_parent,"Arts, Crafts & Music",0,media
+10,is_parent,Business Services,0,media
+4,is_parent,Community Activities,0,media
+3,is_parent,Companionship,0,media
+7,is_parent,Education (non-reskilling),0,media
+8,is_parent,"Arts, Crafts & Music",3,nb
+61,8,Classes,1,nb
+6,8,Crafts,1,nb
+10,is_parent,Business Services,0,nb
+4,is_parent,Community Activities,6,nb
+3,is_parent,Companionship,0,nb
+7,is_parent,Education,5,nb
+8,is_parent,"Arts, Crafts & Music",2,raglan
+10,is_parent,Business Services,0,raglan
+4,is_parent,Community Activities,1,raglan
+3,is_parent,Companionship,0,raglan
+7,is_parent,Education,0,raglan
+8,is_parent,"Arts, Crafts & Music",1,upperhu
+10,is_parent,Business Services,2,upperhu
+75,10,Clerical,1,upperhu
+4,is_parent,Community Activities,0,upperhu
+3,is_parent,Companionship,0,upperhu
+7,is_parent,Education,1,upperhu
+8,is_parent,"Arts, Crafts & Music",1,waimakariri
+10,is_parent,Business Services,0,waimakariri
+4,is_parent,Community Activities,0,waimakariri
+3,is_parent,Companionship,0,waimakariri
+7,is_parent,Education,1,waimakariri
+8,is_parent,"Arts, Crafts & Music",0,b13069
+10,is_parent,Business Services,0,b13069
+4,is_parent,Community Activities,0,b13069
+3,is_parent,Companionship,0,b13069
+7,is_parent,Education,0,b13069
+8,is_parent,"Arts, Crafts & Music",0,ops
+1,is_parent,Board Volunteer Work,0,ops
+10,is_parent,Business Services,1,ops
+4,is_parent,Community Activities,1,ops
+3,is_parent,Companionship,0,ops
+7,is_parent,Education,0,ops
+8,is_parent,"Arts, Crafts & Music(예술, 공예&음악)",0,korea
+10,is_parent,Business Services(비즈니스 서비스),1,korea
+4,is_parent,Community Activities(커뮤니티 활동),1,korea
+3,is_parent,"Companionship(동료애, 우정)",0,korea
+7,is_parent,Education(교육),0,korea
+8,is_parent,"Arts, Crafts & Music",0,lv
+10,is_parent,Business Services,1,lv
+4,is_parent,Community Activities,2,lv
+3,is_parent,Companionship,0,lv
+7,is_parent,Education,0,lv
+8,is_parent,"Arts, Crafts & Music",0,imeforall
+10,is_parent,Business Services,0,imeforall
+4,is_parent,Community Activities,4,imeforall
+3,is_parent,Companionship,1,imeforall
+7,is_parent,Education,0,imeforall
+9,is_parent,Home,0,imeforall
+11,is_parent,Misc. (Not Above),0,imeforall
+6,is_parent,Recreation,0,imeforall
+153,is_parent,TimeBanking Network,6,imeforall
+154,153,Communications,6,imeforall
+156,is_parent,TimeBanking Software,4,imeforall
+158,156,Community Weaver,4,imeforall
+1,is_parent,Transportation,0,imeforall
+161,is_parent,Travel,0,imeforall
+5,is_parent,Wellness,0,imeforall
+8,is_parent,"Arts, Crafts & Music",0,imetradersnor
+10,is_parent,Business Services,0,imetradersnor
+4,is_parent,Community Activities,1,imetradersnor
+33,4,Clean-up / Recycling,1,imetradersnor
+3,is_parent,Companionship,0,imetradersnor
+7,is_parent,Education,1,imetradersnor
+8,is_parent,"Arts, Crafts & Music",0,ogetherwecan
+10,is_parent,Business Services,0,ogetherwecan
+4,is_parent,Community Activities,5,ogetherwecan
+3,is_parent,Companionship,0,ogetherwecan
+7,is_parent,Education,0,ogetherwecan
+8,is_parent,"Arts, Crafts & Music",0,ullyarea
+10,is_parent,Business Services,0,ullyarea
+4,is_parent,Community Activities,0,ullyarea
+3,is_parent,Companionship,0,ullyarea
+7,is_parent,Education,0,ullyarea
+8,is_parent,"Arts, Crafts & Music",0,ubuntu
+10,is_parent,Business Services,0,ubuntu
+4,is_parent,Community Activities,0,ubuntu
+3,is_parent,Companionship,0,ubuntu
+7,is_parent,Education,0,ubuntu
+8,is_parent,"Arts, Crafts & Music",0,udc
+10,is_parent,Business Services,0,udc
+4,is_parent,Community Activities,0,udc
+3,is_parent,Companionship,0,udc
+7,is_parent,Education,0,udc
+8,is_parent,"Arts, Crafts & Music",6,unityexchange
+61,8,Classes,2,unityexchange
+6,8,Crafts,4,unityexchange
+10,is_parent,Business Services,2,unityexchange
+4,is_parent,Community Activities,11,unityexchange
+33,4,Clean-up / Recycling,2,unityexchange
+34,4,Community Service,3,unityexchange
+35,4,Fund-raising,2,unityexchange
+86,4,Group Projects,3,unityexchange
+36,4,Help Our TimeBank!,1,unityexchange
+3,is_parent,Companionship,0,unityexchange
+7,is_parent,Education,1,unityexchange
+8,is_parent,"Arts, Crafts & Music",0,uva
+10,is_parent,Business Services,0,uva
+4,is_parent,Community Activities,0,uva
+3,is_parent,Companionship,0,uva
+7,is_parent,Education,0,uva
+8,is_parent,"Arts, Crafts & Music",0,villagece
+10,is_parent,Business Services,0,villagece
+4,is_parent,Community Activities,0,villagece
+3,is_parent,Companionship,0,villagece
+7,is_parent,Education,0,villagece
+8,is_parent,"Arts, Crafts & Music",0,waikato
+10,is_parent,Business Services,0,waikato
+4,is_parent,Community Activities,1,waikato
+3,is_parent,Companionship,0,waikato
+7,is_parent,Education,1,waikato
+8,is_parent,"Arts, Crafts & Music",3,wairarapa
+61,8,Classes,1,wairarapa
+10,is_parent,Business Services,4,wairarapa
+75,10,Clerical,2,wairarapa
+76,10,Computer Support,2,wairarapa
+4,is_parent,Community Activities,8,wairarapa
+3,is_parent,Companionship,0,wairarapa
+7,is_parent,Education,0,wairarapa
+8,is_parent,"Arts, Crafts & Music",0,waitaki
+10,is_parent,Business Services,0,waitaki
+4,is_parent,Community Activities,0,waitaki
+3,is_parent,Companionship,0,waitaki
+7,is_parent,Education,0,waitaki
+8,is_parent,"Arts, Crafts & Music",0,wanaka
+10,is_parent,Business Services,0,wanaka
+4,is_parent,Community Activities,0,wanaka
+3,is_parent,Companionship,0,wanaka
+7,is_parent,Education,0,wanaka
+8,is_parent,"Arts, Crafts & Music",19,wellingtonsou
+61,8,Classes,2,wellingtonsou
+6,8,Crafts,6,wellingtonsou
+10,is_parent,Business Services,9,wellingtonsou
+4,is_parent,Community Activities,17,wellingtonsou
+3,is_parent,Companionship,3,wellingtonsou
+7,is_parent,Education,10,wellingtonsou
+8,is_parent,"Arts, Crafts & Music",1,westprairievillage
+10,is_parent,Business Services,0,westprairievillage
+4,is_parent,Community Activities,0,westprairievillage
+3,is_parent,Companionship,0,westprairievillage
+7,is_parent,Education,0,westprairievillage
+8,is_parent,"Arts, Crafts & Music",10,westseattle
+61,8,Classes,1,westseattle
+6,8,Crafts,5,westseattle
+10,is_parent,Business Services,15,westseattle
+75,10,Clerical,6,westseattle
+76,10,Computer Support,6,westseattle
+77,10,Financial,2,westseattle
+4,is_parent,Community Activities,25,westseattle
+3,is_parent,Companionship,1,westseattle
+7,is_parent,Education,11,westseattle
+54,7,Advocacy,2,westseattle
+55,7,Classes / Workshops,2,westseattle
+56,7,Computers / Technology,3,westseattle
+57,7,Languages / Translation,4,westseattle
+104,is_parent,Marketing,0,wncw
+10,is_parent,Publishing,0,wncw
+87,is_parent,Writers Services,0,wncw
+8,is_parent,"Arts, Crafts & Music",0,wecompassionatecommunity
+10,is_parent,Business Services,0,wecompassionatecommunity
+4,is_parent,Community Activities,0,wecompassionatecommunity
+3,is_parent,Companionship,0,wecompassionatecommunity
+7,is_parent,Education,0,wecompassionatecommunity
+87,is_parent,Friendly Visit,0,wecompassionatecommunity
+8,is_parent,"Arts, Crafts & Music",1,york
+10,is_parent,Business Services,1,york
+4,is_parent,"Community Activities (see Teams and/or York Community Groups, Pr",0,york
+3,is_parent,Companionship,0,york
+7,is_parent,Education,0,york

@@ -1,0 +1,373 @@
+category,id,parent
+"Arts, Crafts & Music",8,is_parent
+Classes,61,8
+Crafts,62,8
+Entertainment,63,8
+Lessons,64,8
+Miscellaneous,67,8
+Photo & Video,65,8
+Theater,66,8
+Business Services,10,is_parent
+Clerical,75,10
+Computer Support,76,10
+Financial,77,10
+Aide a la Maison,2,is_parent
+Arts,8,is_parent
+Art,112,8
+Career Assistance,228,10
+Graphic Design,347,10
+Legal,78,10
+Marketing,79,10
+Miscellaneous,81,10
+Research,80,10
+Writing and editing,213,10
+Community Activities,4,is_parent
+Clean-up / Recycling,33,4
+Co-op Hours,210,4
+Community Service,34,4
+Fund-raising,35,4
+Group Projects,247,4
+Home Energy Challenge,199,4
+Miscellaneous,39,4
+Senior Center,214,4
+Special Projects,37,4
+Work For Social Change,38,4
+Companionship,3,is_parent
+Dining Out,27,3
+Home Visits,29,3
+Miscellaneous,32,3
+Telephone Calls,31,3
+Education,7,is_parent
+Advocacy,54,7
+Classes / Workshops,55,7
+Computers / Technology,56,7
+Languages / Translation,57,7
+Miscellaneous,60,7
+Tutoring / Mentoring,59,7
+Help At Home,2,is_parent
+Child Care,19,2
+Cooking ,20,2
+Hair & Beauty,21,2
+Housekeeping / Chores,22,2
+Miscellaneous,25,2
+Pet Care,23,2
+Respite Care,24,2
+Sewing,212,2
+Help Our Time Bank,36,is_parent
+Board of Directors work,350,36
+BTT Garden,349,36
+Buddy Help,232,36
+Committee and coordinator work,219,36
+Event Help & Planning,352,36
+Gift bags,217,36
+Grant writing,348,36
+Marketing / Publishing / Graphic Design,351,36
+Miscellaneous,218,36
+Office staff,216,36
+Orientations,229,36
+Potluck and event food,215,36
+Tabling and Recruiting,346,36
+Home,9,is_parent
+Bike repair,220,9
+Car Care,68,9
+Carpentry / Construction,69,9
+Computer & Tech Help,209,9
+Electrical,70,9
+"Garden, Yard, and Farm Work",71,9
+Miscellaneous,74,9
+Painting,72,9
+Plumbing,73,9
+Snow Removal,211,9
+Wood Stacking & Manual Labor ,206,9
+Misc. (Not Above),11,is_parent
+All Other Services,82,11
+For Sale,83,11
+Free Stuff,85,11
+Wanted,84,11
+Recreation,6,is_parent
+Books & Videos,47,6
+Dancing,48,6
+Events,49,6
+Miscellaneous,53,6
+Sports & Games,51,6
+Travel,52,6
+Transportation,1,is_parent
+Errands / Shopping,12,1
+Local Rides,13,1
+Long Distance Rides,14,1
+Medical Rides,15,1
+Miscellaneous,18,1
+"Moving, Hauling",208,1
+Train / Bus / Airport Rides,16,1
+Wellness,5,is_parent
+Complementary Therapies,40,5
+Counseling,41,5
+Diet & Nutrition,42,5
+Fitness & Exercise,43,5
+Medical Services,44,5
+Miscellaneous,46,5
+Yoga / Meditation,45,5
+Music,102,8
+Career Development/Job Searches,328,10
+Computer/IT Support,76,10
+Writing/Editing/Proofreading,326,10
+Group Projects,228,4
+Help Our TimeBank!,36,4
+Staffing Outreach Table for CCE at Community Events,321,4
+Companionship/Socializing,3,is_parent
+CCE Hospitality Committee,324,3
+Clubs,26,3
+Companionship,225,3
+Medical Errands,30,3
+Social Correspondence:  Email/IM/Snail mail Pen Pal,28,3
+Socializing/Social Visiting,226,3
+TB Meet Up,322,3
+"Audio - recording, editing, podcasts, or other",128,8
+Classes - usually group,124,8
+Group Projects,86,4
+Volunteering,96,4
+Business Networking,88,10
+Email / IM,28,3
+Personal Finances,58,7
+Cooking & Sewing,20,2
+Garden & Yard Work,71,9
+Miscellaneous,87,11
+Games,50,6
+Sports,51,6
+Local,13,1
+Long Distance,14,1
+Medical,15,1
+Train / Bus / Airport,16,1
+Worship,17,1
+Qigong,89,5
+Photo / Video,65,8
+Fundraising,35,4
+Clubs / Social Groups,26,3
+Errands,30,3
+Phone Calls,31,3
+Post / Email,28,3
+Writing / Editing,87,7
+Cooking / Sewing,20,2
+Garden / Yard Work,71,9
+Free Stuff / Donations,85,11
+Books / Videos,47,6
+Book keeping,175,10
+IT Support,76,10
+Graphic Arts,166,8
+Accommodation and Hospitality,89,is_parent
+Counseling,88,is_parent
+Couples counseling,90,88
+Individual counseling,89,88
+Account Management,114,is_parent
+Miscellaneous,172,11
+"Arts, Culture and Ideas",117,is_parent
+Event/Group Social Activity,121,117
+Painting and Drawing,118,117
+Theatre,66,8
+Administration,125,10
+Employment Issues,135,10
+Repair Café Help,89,4
+Help at Home,2,is_parent
+Assembly / Installation,87,2
+Cooking,20,2
+Sewing,88,2
+Repairs and Renovations,9,is_parent
+Costuming,240,8
+Business Consultation / Coaching,81,10
+Group Projects,235,4
+Hurricane Readiness Activities,212,4
+Laundry,215,2
+Sewing,201,2
+Home Care / Maintenance,9,is_parent
+Bike Care / Maintenance,216,9
+Garden Design / Consultation,217,9
+Gardening,71,9
+Home Decoration / Interior Design,218,9
+Home Organization,214,9
+House Sitting,220,9
+Yard Work,202,9
+NOLA TimeBank,203,is_parent
+Clean-Up Brigades,213,203
+Committees and Admin Work,206,203
+"Events (potlucks, tableing, fundraisers, socials)",204,203
+Help Our TimeBank!,36,203
+I can bring food to NOLATB events,233,203
+Partner Projects,207,203
+Provide conference or event space,238,203
+TimeBank Community Building Activities,236,203
+Workshops & Trainings,205,203
+Rentals / Lending,221,is_parent
+Art Supply Rentals,229,221
+Book / DVD lending,230,221
+Event / Party Rentals,222,221
+Home Equipment Lending,224,221
+Kitchen Equipment Rentals,225,221
+"Musical Intruments, video, PA rentals",223,221
+Tool Rentals,228,221
+Yard Care Equipment Rentals,227,221
+Tool Lending Library,243,is_parent
+Body/Wellness,5,is_parent
+Lessons/Classes,353,8
+Music,375,8
+"Other Arts, Crafts & Music",67,8
+Painting,382,8
+Cleaning,379,10
+Other Business Services,81,10
+Group Projects,340,4
+Many Hands Project,339,4
+Other Community Activities,39,4
+Other Companionship,32,3
+Other Education,60,7
+Elder Services,345,is_parent
+"Companionship - reading, dining out",348,345
+Help at Home,347,345
+For Youth/Children,343,is_parent
+Child care,349,343
+Children's activities,344,343
+Crafts for Youth/Children,355,343
+Lessons/Classes for Youth/Children,356,343
+Mentoring/Tutoring for Youth/Children,357,343
+Other Youth/Children,374,343
+Cooking,364,2
+Other Help at Home,25,2
+Respite (for caregivers),24,2
+Sewing,365,2
+Bicycle care,363,9
+ORE Timebank,366,is_parent
+Board and Committees,372,366
+Community Weaver Support,373,366
+Events,377,366
+Fundraising,378,366
+All Other Services,82,is_parent
+All Other Services,171,82
+Miscellaneous,178,82
+Cooking,88,2
+Organizing,91,2
+Sewing,20,2
+Moving,90,9
+Life Coaching,93,5
+Music,111,8
+Photo and video editing,135,8
+Photoshop,134,8
+Writing/Editing,120,8
+Create PowerPoint Presentations,122,10
+Data Entry,126,10
+Database design,127,10
+Filing,125,10
+Administration,87,10
+Professional Services,103,10
+Social Media Marketing,89,10
+Social Activities,91,4
+A listening Ear,100,3
+Car Care,68,8
+Carpentry / Construction,69,8
+Electrical,70,8
+Garden & Yard Work,71,8
+Live Music Performance,100,8
+Painting,72,8
+Plumbing,73,8
+Audio Production,88,10
+Events Production,91,10
+Graphic Design,90,10
+Organizing,96,10
+Video Production,87,10
+Guild Projects,92,4
+Home care,3,is_parent
+Elder Care Home Visits,29,3
+Air BnB,101,11
+Unitive Justice,93,is_parent
+Unitive Justice facilitation,94,93
+Unitive Justice training,95,93
+Art & Crafts,62,8
+Books,108,8
+Cooking,132,8
+Community Projects,86,4
+Radio Show @ Access Radio,88,4
+"Communication (Telephone Calls, emails...)",31,3
+Socializing,138,3
+Legal/Finances,58,7
+Literacy,97,7
+Help our Timebank,126,is_parent
+Help our Timebank!,135,126
+Timebank Administration,127,126
+TimeBank event,136,126
+Bike/Car Care,68,9
+Donations,139,11
+Car pooling,137,1
+sewing,87,2
+E-Buddy,87,4
+Cooking,92,2
+Group Projects/Working Bees,163,4
+Walking/biking,225,3
+Eco-Living/Sustainable Solutions,172,is_parent
+Alternative power systems,173,172
+Community food projects,178,172
+Conservation/biodiversity,187,172
+Foraging,180,172
+Organics/permaculture,177,172
+Waste reduction/recycling,176,172
+Water-care systems,179,172
+Help Our TimeBank!,36,is_parent
+TimeBank Orientation,162,36
+Local/National Culture & Knowledge,218,is_parent
+Genealogy,223,218
+Geography/Geology,222,218
+History,219,218
+Tikanga Maori/Te Reo,224,218
+Walking trails,226,218
+Rural-living/Farming,194,is_parent
+Beekeeping,213,194
+Equine,227,194
+Family support,215,194
+Farm vehicle competence,210,194
+Business Consultation/Coaching,103,10
+Volunteering - Other Organizations,101,4
+Education (General),7,is_parent
+Education (Sustainable Living),93,is_parent
+Cooking & Recipe Prep,94,93
+Fiber Arts,95,93
+Food Preservation Techniques,96,93
+Permaculture & Gardening,97,93
+Soap & Other Cleaning Supplies,98,93
+Laundry,104,2
+Sewing,87,2
+TimeBank Indianapolis (TBI),113,is_parent
+Bring Food to TBI Events and Potlucks,122,113
+Committees and Admin Work for TBI,116,113
+Donate Hours to TBI Community Fund,118,113
+Donate Hours to TBI Members Directly,119,113
+"Events for TBI (potlucks, fundraisers, socials)",117,113
+Provide Conference or Event Space for TBI,114,113
+TBI/Partner Projects,130,113
+Volunteering - TimeBank Indy,121,113
+Workshops & Training -TimeBank Indy,115,113
+Tool Share / Lending,89,is_parent
+Art Supplies Lending,106,89
+Book / DVD Lending,107,89
+Event / Party Equipment Lending,108,89
+Home Equipment Lending,109,89
+Kitchen Equipment Lending,110,89
+"Musical Instruments, Video, PA Lending",111,89
+Other Tool Lending,90,89
+Yard Care Equipment Lending,112,89
+YardSharing & Yardening,92,89
+Licensed Massage Therapy,105,5
+Board Volunteer Work,221,is_parent
+Board Volunteer Work,312,221
+"Arts, Crafts & Music(예술, 공예&음악)",8,is_parent
+Classes(교육),61,8
+Crafts(공예),62,8
+Classes.,61,8
+Group Projects,159,4
+Proofreading/editing,90,10
+Community Events,87,4
+ESOL,89,7
+Classes,87,8
+Crafts,88,8
+Graphic Design,89,10
+Marketing,104,is_parent
+Email List,105,104
+Art-related skills swap,232,8
+Classes; art instruction for groups,113,8
+"Crafts, miscellaneous",117,8
+"Crafts; beading, jewelry-making, wire, etc",118,8

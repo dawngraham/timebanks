@@ -1,0 +1,2760 @@
+cat_id,cat_parent,category,count_offers,timebank,timestamp
+8,is_parent,"Arts, Crafts & Music",3,addington,2019-01-21 15:37:57
+62,8,Crafts,2,addington,2019-01-21 15:37:57
+67,8,Miscellaneous,1,addington,2019-01-21 15:37:57
+65,8,Photo & Video,1,addington,2019-01-21 15:37:57
+0,is_parent,Business Services,6,addington,2019-01-21 15:37:57
+75,0,Clerical,2,addington,2019-01-21 15:37:57
+76,0,Computer Support,4,addington,2019-01-21 15:37:57
+8,0,Miscellaneous,1,addington,2019-01-21 15:37:57
+74,0,Proof Reading,1,addington,2019-01-21 15:37:57
+4,is_parent,Community Activities,5,addington,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,addington,2019-01-21 15:37:57
+34,4,Community Service,2,addington,2019-01-21 15:37:57
+75,4,Events,1,addington,2019-01-21 15:37:57
+35,4,Fund-raising,1,addington,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,addington,2019-01-21 15:37:57
+37,4,Special Projects,1,addington,2019-01-21 15:37:57
+38,4,Work For Social Change,1,addington,2019-01-21 15:37:57
+3,is_parent,Companionship,2,addington,2019-01-21 15:37:57
+28,3,Email / IM,1,addington,2019-01-21 15:37:57
+29,3,Home Visits,1,addington,2019-01-21 15:37:57
+32,3,Miscellaneous,1,addington,2019-01-21 15:37:57
+3,3,Telephone Calls,2,addington,2019-01-21 15:37:57
+7,is_parent,Education,7,addington,2019-01-21 15:37:57
+56,7,Computers / Technology,5,addington,2019-01-21 15:37:57
+58,7,Personal Finances,1,addington,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,addington,2019-01-21 15:37:57
+2,is_parent,Help At Home,9,addington,2019-01-21 15:37:57
+9,2,Child Care,1,addington,2019-01-21 15:37:57
+20,2,Cooking & Baking,2,addington,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,addington,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,addington,2019-01-21 15:37:57
+25,2,Miscellaneous,2,addington,2019-01-21 15:37:57
+23,2,Pet Care,1,addington,2019-01-21 15:37:57
+73,2,Sewing,1,addington,2019-01-21 15:37:57
+9,is_parent,Home,6,addington,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,addington,2019-01-21 15:37:57
+70,9,Electrical,2,addington,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,addington,2019-01-21 15:37:57
+74,9,Miscellaneous,3,addington,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,aha,2019-01-21 15:37:57
+0,is_parent,Business Services,0,aha,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,aha,2019-01-21 15:37:57
+7,is_parent,Education,0,aha,2019-01-21 15:37:57
+57,is_parent,Gardens,0,aha,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,aha,2019-01-21 15:37:57
+9,is_parent,Home,0,aha,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,alticultura,2019-01-21 15:37:57
+0,is_parent,Business Services,0,alticultura,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,alticultura,2019-01-21 15:37:57
+3,is_parent,Companionship,0,alticultura,2019-01-21 15:37:57
+7,is_parent,Education,0,alticultura,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,alticultura,2019-01-21 15:37:57
+9,is_parent,Home,0,alticultura,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,andersoncommunity,2019-01-21 15:37:57
+0,is_parent,Business Services,0,andersoncommunity,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,andersoncommunity,2019-01-21 15:37:57
+3,is_parent,Companionship,0,andersoncommunity,2019-01-21 15:37:57
+7,is_parent,Education,0,andersoncommunity,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,andersoncommunity,2019-01-21 15:37:57
+9,is_parent,Home,0,andersoncommunity,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ate,2019-01-21 15:37:57
+0,is_parent,Business Services,2,ate,2019-01-21 15:37:57
+75,0,Clerical,1,ate,2019-01-21 15:37:57
+76,0,Computer Support,1,ate,2019-01-21 15:37:57
+8,0,Miscellaneous,1,ate,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ate,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ate,2019-01-21 15:37:57
+7,is_parent,Education,1,ate,2019-01-21 15:37:57
+56,7,Computers / Technology,1,ate,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,ate,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,ate,2019-01-21 15:37:57
+24,2,Respite Care,1,ate,2019-01-21 15:37:57
+9,is_parent,Home,0,ate,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,avl,2019-01-21 15:37:57
+0,is_parent,Business Services,0,avl,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,avl,2019-01-21 15:37:57
+3,is_parent,Companionship,0,avl,2019-01-21 15:37:57
+7,is_parent,Education,0,avl,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,avl,2019-01-21 15:37:57
+9,is_parent,Home,0,avl,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",16,atx,2019-01-21 15:37:57
+6,8,Classes,2,atx,2019-01-21 15:37:57
+62,8,Crafts,1,atx,2019-01-21 15:37:57
+64,8,Lessons,5,atx,2019-01-21 15:37:57
+67,8,Miscellaneous,8,atx,2019-01-21 15:37:57
+65,8,Photo & Video,3,atx,2019-01-21 15:37:57
+0,is_parent,Business Services,9,atx,2019-01-21 15:37:57
+75,0,Clerical,1,atx,2019-01-21 15:37:57
+76,0,Computer Support,2,atx,2019-01-21 15:37:57
+79,0,Marketing,1,atx,2019-01-21 15:37:57
+8,0,Miscellaneous,5,atx,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,atx,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,atx,2019-01-21 15:37:57
+34,4,Community Service,1,atx,2019-01-21 15:37:57
+39,4,Miscellaneous,1,atx,2019-01-21 15:37:57
+38,4,Work For Social Change,1,atx,2019-01-21 15:37:57
+3,is_parent,Companionship,3,atx,2019-01-21 15:37:57
+26,3,Clubs,1,atx,2019-01-21 15:37:57
+32,3,Miscellaneous,2,atx,2019-01-21 15:37:57
+7,is_parent,Education,16,atx,2019-01-21 15:37:57
+54,7,Advocacy,1,atx,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,atx,2019-01-21 15:37:57
+56,7,Computers / Technology,4,atx,2019-01-21 15:37:57
+60,7,Miscellaneous,5,atx,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,6,atx,2019-01-21 15:37:57
+2,is_parent,Help At Home,21,atx,2019-01-21 15:37:57
+9,2,Child Care,1,atx,2019-01-21 15:37:57
+20,2,Cooking & Sewing,7,atx,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,5,atx,2019-01-21 15:37:57
+25,2,Miscellaneous,7,atx,2019-01-21 15:37:57
+23,2,Pet Care,1,atx,2019-01-21 15:37:57
+24,2,Respite Care,1,atx,2019-01-21 15:37:57
+9,is_parent,Home,15,atx,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,atx,2019-01-21 15:37:57
+7,9,Garden & Yard Work,3,atx,2019-01-21 15:37:57
+74,9,Miscellaneous,9,atx,2019-01-21 15:37:57
+72,9,Painting,2,atx,2019-01-21 15:37:57
+2,is_parent,Aide a la Maison,0,labodunautilus,2019-01-21 15:37:57
+8,is_parent,"Arts, Travaux manuels & Musique",0,labodunautilus,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,blackhills,2019-01-21 15:37:57
+62,8,Crafts,1,blackhills,2019-01-21 15:37:57
+0,is_parent,Business Services,0,blackhills,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,blackhills,2019-01-21 15:37:57
+3,is_parent,Companionship,0,blackhills,2019-01-21 15:37:57
+7,is_parent,Education,0,blackhills,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,blackhills,2019-01-21 15:37:57
+9,is_parent,Home,1,blackhills,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,blackhills,2019-01-21 15:37:57
+8,is_parent,Arts,13,ujimaboston,2019-01-21 15:37:57
+2,8,Art,3,ujimaboston,2019-01-21 15:37:57
+62,8,Crafts,5,ujimaboston,2019-01-21 15:37:57
+92,8,Fiber Arts,1,ujimaboston,2019-01-21 15:37:57
+64,8,Lessons,3,ujimaboston,2019-01-21 15:37:57
+67,8,Miscellaneous,2,ujimaboston,2019-01-21 15:37:57
+95,8,Music,1,ujimaboston,2019-01-21 15:37:57
+97,8,Performance,1,ujimaboston,2019-01-21 15:37:57
+65,8,Photo & Video,2,ujimaboston,2019-01-21 15:37:57
+66,8,Theater,1,ujimaboston,2019-01-21 15:37:57
+87,is_parent,Balance Transfer,0,ujimaboston,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,ujimaboston,2019-01-21 15:37:57
+34,4,Community Service,3,ujimaboston,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,ujimaboston,2019-01-21 15:37:57
+2,is_parent,Help At Home,17,ujimaboston,2019-01-21 15:37:57
+9,2,Child Care,2,ujimaboston,2019-01-21 15:37:57
+20,2,Cooking,2,ujimaboston,2019-01-21 15:37:57
+8,2,Design and decorating,3,ujimaboston,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,ujimaboston,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,3,ujimaboston,2019-01-21 15:37:57
+7,2,Meal planning,1,ujimaboston,2019-01-21 15:37:57
+25,2,Miscellaneous,3,ujimaboston,2019-01-21 15:37:57
+5,2,Moving / Hauling,4,ujimaboston,2019-01-21 15:37:57
+4,2,Organization,7,ujimaboston,2019-01-21 15:37:57
+23,2,Pet Care,2,ujimaboston,2019-01-21 15:37:57
+9,is_parent,Home/Car/Bike Maintenance,5,ujimaboston,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,ujimaboston,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,ujimaboston,2019-01-21 15:37:57
+74,9,Miscellaneous,1,ujimaboston,2019-01-21 15:37:57
+72,9,Painting,1,ujimaboston,2019-01-21 15:37:57
+0,is_parent,Services,10,ujimaboston,2019-01-21 15:37:57
+75,0,Clerical,1,ujimaboston,2019-01-21 15:37:57
+76,0,Computer Support,5,ujimaboston,2019-01-21 15:37:57
+77,0,Financial,1,ujimaboston,2019-01-21 15:37:57
+8,0,Miscellaneous,2,ujimaboston,2019-01-21 15:37:57
+9,0,Writing / Editing,3,ujimaboston,2019-01-21 15:37:57
+7,is_parent,Teaching/Learning,13,ujimaboston,2019-01-21 15:37:57
+55,7,Classes / Workshops,7,ujimaboston,2019-01-21 15:37:57
+56,7,Computers / Technology,2,ujimaboston,2019-01-21 15:37:57
+57,7,Languages / Translation,2,ujimaboston,2019-01-21 15:37:57
+58,7,Personal Finances,3,ujimaboston,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,ujimaboston,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",16,brattleboro,2019-01-21 15:37:57
+62,8,Crafts,10,brattleboro,2019-01-21 15:37:57
+63,8,Entertainment,2,brattleboro,2019-01-21 15:37:57
+64,8,Lessons,4,brattleboro,2019-01-21 15:37:57
+67,8,Miscellaneous,2,brattleboro,2019-01-21 15:37:57
+0,is_parent,Business Services,12,brattleboro,2019-01-21 15:37:57
+75,0,Clerical,2,brattleboro,2019-01-21 15:37:57
+76,0,Computer Support,2,brattleboro,2019-01-21 15:37:57
+77,0,Financial,1,brattleboro,2019-01-21 15:37:57
+79,0,Marketing,1,brattleboro,2019-01-21 15:37:57
+8,0,Miscellaneous,5,brattleboro,2019-01-21 15:37:57
+213,0,Writing and editing,2,brattleboro,2019-01-21 15:37:57
+4,is_parent,Community Activities,10,brattleboro,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,brattleboro,2019-01-21 15:37:57
+210,4,Co-op Hours,1,brattleboro,2019-01-21 15:37:57
+39,4,Miscellaneous,5,brattleboro,2019-01-21 15:37:57
+37,4,Special Projects,2,brattleboro,2019-01-21 15:37:57
+38,4,Work For Social Change,2,brattleboro,2019-01-21 15:37:57
+3,is_parent,Companionship,5,brattleboro,2019-01-21 15:37:57
+27,3,Dining Out,1,brattleboro,2019-01-21 15:37:57
+29,3,Home Visits,1,brattleboro,2019-01-21 15:37:57
+32,3,Miscellaneous,3,brattleboro,2019-01-21 15:37:57
+7,is_parent,Education,7,brattleboro,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,brattleboro,2019-01-21 15:37:57
+56,7,Computers / Technology,2,brattleboro,2019-01-21 15:37:57
+57,7,Languages / Translation,1,brattleboro,2019-01-21 15:37:57
+60,7,Miscellaneous,2,brattleboro,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,brattleboro,2019-01-21 15:37:57
+2,is_parent,Help At Home,22,brattleboro,2019-01-21 15:37:57
+9,2,Child Care,1,brattleboro,2019-01-21 15:37:57
+20,2,Cooking ,3,brattleboro,2019-01-21 15:37:57
+2,2,Hair & Beauty,2,brattleboro,2019-01-21 15:37:57
+25,2,Miscellaneous,11,brattleboro,2019-01-21 15:37:57
+23,2,Pet Care,6,brattleboro,2019-01-21 15:37:57
+212,2,Sewing,2,brattleboro,2019-01-21 15:37:57
+36,is_parent,Help Our Time Bank,2,brattleboro,2019-01-21 15:37:57
+232,36,Buddy Help,1,brattleboro,2019-01-21 15:37:57
+352,36,Event Help & Planning,1,brattleboro,2019-01-21 15:37:57
+9,is_parent,Home,16,brattleboro,2019-01-21 15:37:57
+68,9,Car Care,1,brattleboro,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,brattleboro,2019-01-21 15:37:57
+209,9,Computer & Tech Help,3,brattleboro,2019-01-21 15:37:57
+70,9,Electrical,2,brattleboro,2019-01-21 15:37:57
+7,9,"Garden, Yard, and Farm Work",4,brattleboro,2019-01-21 15:37:57
+74,9,Miscellaneous,5,brattleboro,2019-01-21 15:37:57
+2,9,Snow Removal,1,brattleboro,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,bridge2rocks,2019-01-21 15:37:57
+62,8,Crafts,1,bridge2rocks,2019-01-21 15:37:57
+0,is_parent,Business Services,3,bridge2rocks,2019-01-21 15:37:57
+76,0,Computer Support,1,bridge2rocks,2019-01-21 15:37:57
+79,0,Marketing,1,bridge2rocks,2019-01-21 15:37:57
+8,0,Miscellaneous,2,bridge2rocks,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,bridge2rocks,2019-01-21 15:37:57
+38,4,Work For Social Change,1,bridge2rocks,2019-01-21 15:37:57
+3,is_parent,Companionship,0,bridge2rocks,2019-01-21 15:37:57
+7,is_parent,Education,7,bridge2rocks,2019-01-21 15:37:57
+54,7,Advocacy,1,bridge2rocks,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,bridge2rocks,2019-01-21 15:37:57
+56,7,Computers / Technology,3,bridge2rocks,2019-01-21 15:37:57
+57,7,Languages / Translation,1,bridge2rocks,2019-01-21 15:37:57
+60,7,Miscellaneous,2,bridge2rocks,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,bridge2rocks,2019-01-21 15:37:57
+2,is_parent,Help At Home,7,bridge2rocks,2019-01-21 15:37:57
+20,2,Cooking,1,bridge2rocks,2019-01-21 15:37:57
+2,2,Hair & Beauty,2,bridge2rocks,2019-01-21 15:37:57
+25,2,Miscellaneous,3,bridge2rocks,2019-01-21 15:37:57
+23,2,Pet Care,1,bridge2rocks,2019-01-21 15:37:57
+53,2,Sewing,1,bridge2rocks,2019-01-21 15:37:57
+9,is_parent,Home,3,bridge2rocks,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,bridge2rocks,2019-01-21 15:37:57
+70,9,Electrical,1,bridge2rocks,2019-01-21 15:37:57
+7,9,Gardening,1,bridge2rocks,2019-01-21 15:37:57
+74,9,Miscellaneous,1,bridge2rocks,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",13,capeann,2019-01-21 15:37:57
+6,8,Classes,1,capeann,2019-01-21 15:37:57
+62,8,Crafts,8,capeann,2019-01-21 15:37:57
+63,8,Entertainment,1,capeann,2019-01-21 15:37:57
+64,8,Lessons,2,capeann,2019-01-21 15:37:57
+67,8,Miscellaneous,1,capeann,2019-01-21 15:37:57
+2,8,Music,2,capeann,2019-01-21 15:37:57
+0,is_parent,Business Services,7,capeann,2019-01-21 15:37:57
+79,0,Marketing,4,capeann,2019-01-21 15:37:57
+8,0,Miscellaneous,3,capeann,2019-01-21 15:37:57
+80,0,Research,1,capeann,2019-01-21 15:37:57
+4,is_parent,Community Fund Activities,1,capeann,2019-01-21 15:37:57
+34,4,Community Service,1,capeann,2019-01-21 15:37:57
+86,4,Group Projects,1,capeann,2019-01-21 15:37:57
+38,4,Work For Social Change,1,capeann,2019-01-21 15:37:57
+3,is_parent,Companionship,3,capeann,2019-01-21 15:37:57
+27,3,Dining Out,1,capeann,2019-01-21 15:37:57
+28,3,Email / IM,1,capeann,2019-01-21 15:37:57
+29,3,Home Visits,1,capeann,2019-01-21 15:37:57
+32,3,Miscellaneous,1,capeann,2019-01-21 15:37:57
+3,3,Telephone Calls,1,capeann,2019-01-21 15:37:57
+7,is_parent,Education,15,capeann,2019-01-21 15:37:57
+55,7,Classes / Workshops,5,capeann,2019-01-21 15:37:57
+56,7,Computers / Technology,1,capeann,2019-01-21 15:37:57
+60,7,Miscellaneous,4,capeann,2019-01-21 15:37:57
+58,7,Personal Finances,1,capeann,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,5,capeann,2019-01-21 15:37:57
+2,is_parent,Help At Home,17,capeann,2019-01-21 15:37:57
+20,2,Cooking & Sewing,7,capeann,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,capeann,2019-01-21 15:37:57
+25,2,Miscellaneous,1,capeann,2019-01-21 15:37:57
+23,2,Pet Care,6,capeann,2019-01-21 15:37:57
+24,2,Respite Care,1,capeann,2019-01-21 15:37:57
+9,is_parent,Help Our TimeBank!,2,capeann,2019-01-21 15:37:57
+94,9,Host an event,1,capeann,2019-01-21 15:37:57
+92,9,Staff Table at Farmers Market,1,capeann,2019-01-21 15:37:57
+9,is_parent,Home,3,capeann,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,capeann,2019-01-21 15:37:57
+74,9,Miscellaneous,1,capeann,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,care,2019-01-21 15:37:57
+67,8,Miscellaneous,1,care,2019-01-21 15:37:57
+0,is_parent,Business Services,1,care,2019-01-21 15:37:57
+8,0,Miscellaneous,1,care,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,care,2019-01-21 15:37:57
+34,4,Community Service,1,care,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,care,2019-01-21 15:37:57
+3,is_parent,Companionship,1,care,2019-01-21 15:37:57
+30,3,Medical Errands,1,care,2019-01-21 15:37:57
+32,3,Miscellaneous,1,care,2019-01-21 15:37:57
+3,3,Telephone Calls,1,care,2019-01-21 15:37:57
+7,is_parent,Education,0,care,2019-01-21 15:37:57
+2,is_parent,Help At Home,5,care,2019-01-21 15:37:57
+20,2,Cooking & Sewing,2,care,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,care,2019-01-21 15:37:57
+25,2,Miscellaneous,2,care,2019-01-21 15:37:57
+9,is_parent,Home,1,care,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,care,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,engaging,2019-01-21 15:37:57
+0,is_parent,Business Services,0,engaging,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,engaging,2019-01-21 15:37:57
+3,is_parent,Companionship,0,engaging,2019-01-21 15:37:57
+7,is_parent,Education,0,engaging,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,engaging,2019-01-21 15:37:57
+9,is_parent,Home,0,engaging,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,cris,2019-01-21 15:37:57
+65,8,Photo & Video,1,cris,2019-01-21 15:37:57
+0,is_parent,Business Services,2,cris,2019-01-21 15:37:57
+75,0,Clerical,1,cris,2019-01-21 15:37:57
+76,0,Computer Support,1,cris,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,cris,2019-01-21 15:37:57
+34,4,Community Service,2,cris,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,2,cris,2019-01-21 15:37:57
+37,4,Special Projects,1,cris,2019-01-21 15:37:57
+3,is_parent,Companionship,3,cris,2019-01-21 15:37:57
+29,3,Home Visits,2,cris,2019-01-21 15:37:57
+32,3,Miscellaneous,1,cris,2019-01-21 15:37:57
+7,is_parent,Education,1,cris,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,cris,2019-01-21 15:37:57
+2,is_parent,Help At Home,4,cris,2019-01-21 15:37:57
+25,2,Miscellaneous,1,cris,2019-01-21 15:37:57
+23,2,Pet Care,3,cris,2019-01-21 15:37:57
+9,is_parent,Home,3,cris,2019-01-21 15:37:57
+70,9,Electrical,1,cris,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,cris,2019-01-21 15:37:57
+74,9,Miscellaneous,3,cris,2019-01-21 15:37:57
+73,9,Plumbing,1,cris,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,centraliowa,2019-01-21 15:37:57
+0,is_parent,Business Services,0,centraliowa,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,centraliowa,2019-01-21 15:37:57
+3,is_parent,Companionship,0,centraliowa,2019-01-21 15:37:57
+7,is_parent,Education,0,centraliowa,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,centraliowa,2019-01-21 15:37:57
+9,is_parent,Home,0,centraliowa,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,lincolnskillshare,2019-01-21 15:37:57
+6,8,Classes,1,lincolnskillshare,2019-01-21 15:37:57
+62,8,Crafts,1,lincolnskillshare,2019-01-21 15:37:57
+64,8,Lessons,1,lincolnskillshare,2019-01-21 15:37:57
+0,is_parent,Business Services,1,lincolnskillshare,2019-01-21 15:37:57
+77,0,Financial,1,lincolnskillshare,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,lincolnskillshare,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,lincolnskillshare,2019-01-21 15:37:57
+34,4,Community Service,1,lincolnskillshare,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,lincolnskillshare,2019-01-21 15:37:57
+3,is_parent,Companionship,0,lincolnskillshare,2019-01-21 15:37:57
+7,is_parent,Education,4,lincolnskillshare,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,lincolnskillshare,2019-01-21 15:37:57
+56,7,Computers / Technology,2,lincolnskillshare,2019-01-21 15:37:57
+57,7,Languages / Translation,1,lincolnskillshare,2019-01-21 15:37:57
+58,7,Personal Finances,1,lincolnskillshare,2019-01-21 15:37:57
+2,is_parent,Help At Home,3,lincolnskillshare,2019-01-21 15:37:57
+25,2,Miscellaneous,1,lincolnskillshare,2019-01-21 15:37:57
+23,2,Pet Care,2,lincolnskillshare,2019-01-21 15:37:57
+9,is_parent,Home,0,lincolnskillshare,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,nzcentralpermaculture,2019-01-21 15:37:57
+0,is_parent,Business Services,0,nzcentralpermaculture,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,nzcentralpermaculture,2019-01-21 15:37:57
+3,is_parent,Companionship,0,nzcentralpermaculture,2019-01-21 15:37:57
+7,is_parent,Education,0,nzcentralpermaculture,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,nzcentralpermaculture,2019-01-21 15:37:57
+9,is_parent,Home,0,nzcentralpermaculture,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,changexchange,2019-01-21 15:37:57
+0,is_parent,Business Services,0,changexchange,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,changexchange,2019-01-21 15:37:57
+3,is_parent,Companionship,0,changexchange,2019-01-21 15:37:57
+7,is_parent,Education,0,changexchange,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,changexchange,2019-01-21 15:37:57
+9,is_parent,Home,0,changexchange,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,circlenomic,2019-01-21 15:37:57
+0,is_parent,Business Services,0,circlenomic,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,circlenomic,2019-01-21 15:37:57
+3,is_parent,Companionship,0,circlenomic,2019-01-21 15:37:57
+7,is_parent,Education,0,circlenomic,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,circlenomic,2019-01-21 15:37:57
+9,is_parent,Home,0,circlenomic,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,citypark,2019-01-21 15:37:57
+67,8,Miscellaneous,1,citypark,2019-01-21 15:37:57
+0,is_parent,Business Services,0,citypark,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,citypark,2019-01-21 15:37:57
+3,is_parent,Companionship,0,citypark,2019-01-21 15:37:57
+7,is_parent,Education,2,citypark,2019-01-21 15:37:57
+60,7,Miscellaneous,2,citypark,2019-01-21 15:37:57
+2,is_parent,Help At Home,2,citypark,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,citypark,2019-01-21 15:37:57
+25,2,Miscellaneous,1,citypark,2019-01-21 15:37:57
+9,is_parent,Home,2,citypark,2019-01-21 15:37:57
+74,9,Miscellaneous,2,citypark,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",9,columbia,2019-01-21 15:37:57
+62,8,Crafts,2,columbia,2019-01-21 15:37:57
+64,8,Lessons,5,columbia,2019-01-21 15:37:57
+67,8,Miscellaneous,2,columbia,2019-01-21 15:37:57
+65,8,Photo & Video,1,columbia,2019-01-21 15:37:57
+0,is_parent,Business Services,18,columbia,2019-01-21 15:37:57
+328,0,Career Development/Job Searches,1,columbia,2019-01-21 15:37:57
+75,0,Clerical,3,columbia,2019-01-21 15:37:57
+76,0,Computer/IT Support,5,columbia,2019-01-21 15:37:57
+79,0,Marketing,1,columbia,2019-01-21 15:37:57
+8,0,Miscellaneous,7,columbia,2019-01-21 15:37:57
+80,0,Research,2,columbia,2019-01-21 15:37:57
+326,0,Writing/Editing/Proofreading,2,columbia,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,columbia,2019-01-21 15:37:57
+35,4,Fund-raising,1,columbia,2019-01-21 15:37:57
+39,4,Miscellaneous,2,columbia,2019-01-21 15:37:57
+37,4,Special Projects,2,columbia,2019-01-21 15:37:57
+3,is_parent,Companionship/Socializing,3,columbia,2019-01-21 15:37:57
+29,3,Home Visits,1,columbia,2019-01-21 15:37:57
+30,3,Medical Errands,2,columbia,2019-01-21 15:37:57
+32,3,Miscellaneous,1,columbia,2019-01-21 15:37:57
+7,is_parent,Education,27,columbia,2019-01-21 15:37:57
+54,7,Advocacy,1,columbia,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,columbia,2019-01-21 15:37:57
+56,7,Computers / Technology,3,columbia,2019-01-21 15:37:57
+57,7,Languages / Translation,4,columbia,2019-01-21 15:37:57
+60,7,Miscellaneous,8,columbia,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,15,columbia,2019-01-21 15:37:57
+2,is_parent,Help At Home,27,columbia,2019-01-21 15:37:57
+9,2,Child Care,3,columbia,2019-01-21 15:37:57
+20,2,Cooking & Sewing,5,columbia,2019-01-21 15:37:57
+33,2,Decorating/Interior Design,1,columbia,2019-01-21 15:37:57
+22,2,Housekeeping /Chores,1,columbia,2019-01-21 15:37:57
+25,2,Miscellaneous,9,columbia,2019-01-21 15:37:57
+318,2,Organizing,1,columbia,2019-01-21 15:37:57
+23,2,Pet Care,7,columbia,2019-01-21 15:37:57
+24,2,Respite Care,1,columbia,2019-01-21 15:37:57
+9,is_parent,Home,13,columbia,2019-01-21 15:37:57
+7,9,Garden & Yard Work,5,columbia,2019-01-21 15:37:57
+74,9,Miscellaneous,6,columbia,2019-01-21 15:37:57
+72,9,Painting,1,columbia,2019-01-21 15:37:57
+73,9,Plumbing,1,columbia,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,slocanvalley,2019-01-21 15:37:57
+63,8,Entertainment,1,slocanvalley,2019-01-21 15:37:57
+65,8,Photo & Video,1,slocanvalley,2019-01-21 15:37:57
+0,is_parent,Business Services,2,slocanvalley,2019-01-21 15:37:57
+75,0,Clerical,1,slocanvalley,2019-01-21 15:37:57
+77,0,Financial,1,slocanvalley,2019-01-21 15:37:57
+79,0,Marketing,1,slocanvalley,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,slocanvalley,2019-01-21 15:37:57
+3,is_parent,Companionship,0,slocanvalley,2019-01-21 15:37:57
+7,is_parent,Education,2,slocanvalley,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,slocanvalley,2019-01-21 15:37:57
+58,7,Personal Finances,1,slocanvalley,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,slocanvalley,2019-01-21 15:37:57
+25,2,Miscellaneous,1,slocanvalley,2019-01-21 15:37:57
+9,is_parent,Home,1,slocanvalley,2019-01-21 15:37:57
+74,9,Miscellaneous,1,slocanvalley,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,manasota,2019-01-21 15:37:57
+64,8,Lessons,1,manasota,2019-01-21 15:37:57
+66,8,Theater,1,manasota,2019-01-21 15:37:57
+0,is_parent,Business Services,1,manasota,2019-01-21 15:37:57
+8,0,Miscellaneous,1,manasota,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,manasota,2019-01-21 15:37:57
+3,is_parent,Companionship,0,manasota,2019-01-21 15:37:57
+7,is_parent,Education,2,manasota,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,manasota,2019-01-21 15:37:57
+60,7,Miscellaneous,1,manasota,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,manasota,2019-01-21 15:37:57
+9,is_parent,Home,0,manasota,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",89,dn,2019-01-21 15:37:57
+6,8,Classes,6,dn,2019-01-21 15:37:57
+62,8,Crafts,54,dn,2019-01-21 15:37:57
+63,8,Entertainment,8,dn,2019-01-21 15:37:57
+64,8,Lessons,5,dn,2019-01-21 15:37:57
+67,8,Miscellaneous,10,dn,2019-01-21 15:37:57
+65,8,Photo & Video,3,dn,2019-01-21 15:37:57
+66,8,Theater,7,dn,2019-01-21 15:37:57
+0,is_parent,Business Services,102,dn,2019-01-21 15:37:57
+75,0,Clerical,51,dn,2019-01-21 15:37:57
+76,0,Computer Support,24,dn,2019-01-21 15:37:57
+77,0,Financial,10,dn,2019-01-21 15:37:57
+78,0,Legal,1,dn,2019-01-21 15:37:57
+79,0,Marketing,6,dn,2019-01-21 15:37:57
+8,0,Miscellaneous,12,dn,2019-01-21 15:37:57
+80,0,Research,7,dn,2019-01-21 15:37:57
+4,is_parent,Community Activities,111,dn,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,12,dn,2019-01-21 15:37:57
+295,4,Community Exchange Special Event,4,dn,2019-01-21 15:37:57
+34,4,Community Service,4,dn,2019-01-21 15:37:57
+35,4,Fund-raising,3,dn,2019-01-21 15:37:57
+296,4,Group Projects,17,dn,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,24,dn,2019-01-21 15:37:57
+39,4,Miscellaneous,9,dn,2019-01-21 15:37:57
+37,4,Special Projects,49,dn,2019-01-21 15:37:57
+38,4,Work For Social Change,3,dn,2019-01-21 15:37:57
+3,is_parent,Companionship,206,dn,2019-01-21 15:37:57
+26,3,Clubs,42,dn,2019-01-21 15:37:57
+27,3,Dining Out,41,dn,2019-01-21 15:37:57
+28,3,Email / IM,19,dn,2019-01-21 15:37:57
+29,3,Home Visits,72,dn,2019-01-21 15:37:57
+32,3,Miscellaneous,26,dn,2019-01-21 15:37:57
+3,3,Telephone Calls,56,dn,2019-01-21 15:37:57
+7,is_parent,Education,58,dn,2019-01-21 15:37:57
+54,7,Advocacy,3,dn,2019-01-21 15:37:57
+55,7,Classes / Workshops,23,dn,2019-01-21 15:37:57
+56,7,Computers / Technology,5,dn,2019-01-21 15:37:57
+57,7,Languages / Translation,16,dn,2019-01-21 15:37:57
+60,7,Miscellaneous,4,dn,2019-01-21 15:37:57
+58,7,Personal Finances,2,dn,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,12,dn,2019-01-21 15:37:57
+2,is_parent,Help At Home,201,dn,2019-01-21 15:37:57
+9,2,Child Care,11,dn,2019-01-21 15:37:57
+20,2,Cooking & Sewing,66,dn,2019-01-21 15:37:57
+2,2,Hair & Beauty,18,dn,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,49,dn,2019-01-21 15:37:57
+25,2,Miscellaneous,28,dn,2019-01-21 15:37:57
+29,2,Moving Help,5,dn,2019-01-21 15:37:57
+23,2,Pet Care,25,dn,2019-01-21 15:37:57
+24,2,Respite Care,28,dn,2019-01-21 15:37:57
+9,is_parent,Home Repair,61,dn,2019-01-21 15:37:57
+68,9,Car Care,3,dn,2019-01-21 15:37:57
+69,9,Carpentry / Construction,5,dn,2019-01-21 15:37:57
+70,9,Electrical,4,dn,2019-01-21 15:37:57
+7,9,Garden & Yard Work,32,dn,2019-01-21 15:37:57
+74,9,Miscellaneous,9,dn,2019-01-21 15:37:57
+72,9,Painting,12,dn,2019-01-21 15:37:57
+73,9,Plumbing,4,dn,2019-01-21 15:37:57
+283,is_parent,Medical,10,dn,2019-01-21 15:37:57
+287,283,Home Visits,1,dn,2019-01-21 15:37:57
+285,283,Medical Errands,1,dn,2019-01-21 15:37:57
+288,283,Neighbor-to-Neighbor,8,dn,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,cse,2019-01-21 15:37:57
+23,8,Lessons -  usually 1 or 2 people,1,cse,2019-01-21 15:37:57
+92,8,Music - instruments,1,cse,2019-01-21 15:37:57
+0,is_parent,Business Services,5,cse,2019-01-21 15:37:57
+76,0,Computer Support,2,cse,2019-01-21 15:37:57
+77,0,Financial,1,cse,2019-01-21 15:37:57
+8,0,Miscellaneous,2,cse,2019-01-21 15:37:57
+80,0,Research,2,cse,2019-01-21 15:37:57
+29,is_parent,Care for Animals,1,cse,2019-01-21 15:37:57
+32,29,"Grooming, Trimming hair or nails",1,cse,2019-01-21 15:37:57
+33,29,"Health care, giving opinions, or veterinary",1,cse,2019-01-21 15:37:57
+30,29,"Pet sitting, feeding, play, petting, etc.",1,cse,2019-01-21 15:37:57
+4,is_parent,Community Activities,11,cse,2019-01-21 15:37:57
+34,4,Community Service,1,cse,2019-01-21 15:37:57
+45,4,Help our CSE Timebank!,2,cse,2019-01-21 15:37:57
+40,4,Help the TimeBanks.org intl network (formerly called TBUSA),2,cse,2019-01-21 15:37:57
+2,4,Help Yourself! :-),2,cse,2019-01-21 15:37:57
+38,4,Work For Social Change,9,cse,2019-01-21 15:37:57
+3,is_parent,Companionship,1,cse,2019-01-21 15:37:57
+32,3,Miscellaneous,1,cse,2019-01-21 15:37:57
+3,3,Telephone Calls for Companionship,1,cse,2019-01-21 15:37:57
+7,is_parent,Education,13,cse,2019-01-21 15:37:57
+55,7,Classes / Workshops,4,cse,2019-01-21 15:37:57
+56,7,Computers / Technology,1,cse,2019-01-21 15:37:57
+57,7,Languages / Translation,1,cse,2019-01-21 15:37:57
+60,7,Miscellaneous,6,cse,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,cse,2019-01-21 15:37:57
+2,is_parent,Help At Home,7,cse,2019-01-21 15:37:57
+2,2,Cooking or Food Prep,1,cse,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,cse,2019-01-21 15:37:57
+25,2,Miscellaneous,4,cse,2019-01-21 15:37:57
+9,is_parent,Home,6,cse,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,cse,2019-01-21 15:37:57
+74,9,Miscellaneous,5,cse,2019-01-21 15:37:57
+3,9,Moving or Carrying,1,cse,2019-01-21 15:37:57
+4,9,Organizing Stuff,1,cse,2019-01-21 15:37:57
+72,9,Painting,1,cse,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",6,communityskillexchange,2019-01-21 15:37:57
+6,8,Classes,3,communityskillexchange,2019-01-21 15:37:57
+62,8,Crafts,3,communityskillexchange,2019-01-21 15:37:57
+63,8,Entertainment,1,communityskillexchange,2019-01-21 15:37:57
+64,8,Lessons,1,communityskillexchange,2019-01-21 15:37:57
+65,8,Photo & Video,1,communityskillexchange,2019-01-21 15:37:57
+0,is_parent,Business Services,5,communityskillexchange,2019-01-21 15:37:57
+79,0,Marketing,2,communityskillexchange,2019-01-21 15:37:57
+8,0,Miscellaneous,4,communityskillexchange,2019-01-21 15:37:57
+80,0,Research,1,communityskillexchange,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,communityskillexchange,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,communityskillexchange,2019-01-21 15:37:57
+37,4,Special Projects,1,communityskillexchange,2019-01-21 15:37:57
+38,4,Work For Social Change,1,communityskillexchange,2019-01-21 15:37:57
+3,is_parent,Companionship,2,communityskillexchange,2019-01-21 15:37:57
+27,3,Dining Out,1,communityskillexchange,2019-01-21 15:37:57
+3,3,Telephone Calls,1,communityskillexchange,2019-01-21 15:37:57
+7,is_parent,Education,5,communityskillexchange,2019-01-21 15:37:57
+54,7,Advocacy,1,communityskillexchange,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,communityskillexchange,2019-01-21 15:37:57
+56,7,Computers / Technology,2,communityskillexchange,2019-01-21 15:37:57
+57,7,Languages / Translation,1,communityskillexchange,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,communityskillexchange,2019-01-21 15:37:57
+2,is_parent,Help At Home,4,communityskillexchange,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,communityskillexchange,2019-01-21 15:37:57
+25,2,Miscellaneous,3,communityskillexchange,2019-01-21 15:37:57
+23,2,Pet Care,1,communityskillexchange,2019-01-21 15:37:57
+9,is_parent,Home,4,communityskillexchange,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,communityskillexchange,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,communityskillexchange,2019-01-21 15:37:57
+74,9,Miscellaneous,2,communityskillexchange,2019-01-21 15:37:57
+73,9,Plumbing,1,communityskillexchange,2019-01-21 15:37:57
+93,is_parent,Member Wellness Support,0,communityskillexchange,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",17,richmondcounty,2019-01-21 15:37:57
+6,8,Classes,5,richmondcounty,2019-01-21 15:37:57
+62,8,Crafts,5,richmondcounty,2019-01-21 15:37:57
+63,8,Entertainment,3,richmondcounty,2019-01-21 15:37:57
+64,8,Lessons,7,richmondcounty,2019-01-21 15:37:57
+65,8,Photo & Video,1,richmondcounty,2019-01-21 15:37:57
+66,8,Theater,1,richmondcounty,2019-01-21 15:37:57
+0,is_parent,Business Services,5,richmondcounty,2019-01-21 15:37:57
+75,0,Clerical,2,richmondcounty,2019-01-21 15:37:57
+76,0,Computer Support,3,richmondcounty,2019-01-21 15:37:57
+78,0,Legal,1,richmondcounty,2019-01-21 15:37:57
+79,0,Marketing,1,richmondcounty,2019-01-21 15:37:57
+8,0,Miscellaneous,2,richmondcounty,2019-01-21 15:37:57
+4,is_parent,Community Activities,7,richmondcounty,2019-01-21 15:37:57
+34,4,Community Service,1,richmondcounty,2019-01-21 15:37:57
+35,4,Fund-raising,1,richmondcounty,2019-01-21 15:37:57
+86,4,Group Projects,1,richmondcounty,2019-01-21 15:37:57
+37,4,Special Projects,1,richmondcounty,2019-01-21 15:37:57
+96,4,Volunteering,3,richmondcounty,2019-01-21 15:37:57
+38,4,Work For Social Change,2,richmondcounty,2019-01-21 15:37:57
+3,is_parent,Companionship,5,richmondcounty,2019-01-21 15:37:57
+29,3,Home Visits,4,richmondcounty,2019-01-21 15:37:57
+32,3,Miscellaneous,2,richmondcounty,2019-01-21 15:37:57
+3,3,Telephone Calls,3,richmondcounty,2019-01-21 15:37:57
+9,is_parent,Donation,0,richmondcounty,2019-01-21 15:37:57
+7,is_parent,Education,11,richmondcounty,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,richmondcounty,2019-01-21 15:37:57
+56,7,Computers / Technology,2,richmondcounty,2019-01-21 15:37:57
+57,7,Languages / Translation,1,richmondcounty,2019-01-21 15:37:57
+60,7,Miscellaneous,2,richmondcounty,2019-01-21 15:37:57
+58,7,Personal Finances,1,richmondcounty,2019-01-21 15:37:57
+94,7,Reading / Storytelling,3,richmondcounty,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,richmondcounty,2019-01-21 15:37:57
+87,is_parent,Free Time Credit,1,richmondcounty,2019-01-21 15:37:57
+88,87,Completing Profile,1,richmondcounty,2019-01-21 15:37:57
+2,is_parent,Help At Home,19,richmondcounty,2019-01-21 15:37:57
+9,2,Child Care,2,richmondcounty,2019-01-21 15:37:57
+20,2,Cooking & Sewing,7,richmondcounty,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,richmondcounty,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,4,richmondcounty,2019-01-21 15:37:57
+25,2,Miscellaneous,5,richmondcounty,2019-01-21 15:37:57
+23,2,Pet Care,2,richmondcounty,2019-01-21 15:37:57
+24,2,Respite Care,2,richmondcounty,2019-01-21 15:37:57
+9,is_parent,Home,14,richmondcounty,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,richmondcounty,2019-01-21 15:37:57
+95,9,Farm Hand / Farming,3,richmondcounty,2019-01-21 15:37:57
+7,9,Garden & Yard Work,4,richmondcounty,2019-01-21 15:37:57
+74,9,Miscellaneous,6,richmondcounty,2019-01-21 15:37:57
+72,9,Painting,2,richmondcounty,2019-01-21 15:37:57
+98,9,Wood Cutting / Stacking,2,richmondcounty,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,northfrontenac,2019-01-21 15:37:57
+0,is_parent,Business Services,0,northfrontenac,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,northfrontenac,2019-01-21 15:37:57
+3,is_parent,Companionship,0,northfrontenac,2019-01-21 15:37:57
+7,is_parent,Education,0,northfrontenac,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,northfrontenac,2019-01-21 15:37:57
+9,is_parent,Home,0,northfrontenac,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,katytx,2019-01-21 15:37:57
+0,is_parent,Business Services,0,katytx,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,katytx,2019-01-21 15:37:57
+3,is_parent,Companionship,0,katytx,2019-01-21 15:37:57
+7,is_parent,Education,0,katytx,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,katytx,2019-01-21 15:37:57
+9,is_parent,Home,0,katytx,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",32,crookedriver,2019-01-21 15:37:57
+6,8,Classes,5,crookedriver,2019-01-21 15:37:57
+62,8,Crafts,12,crookedriver,2019-01-21 15:37:57
+63,8,Entertainment,2,crookedriver,2019-01-21 15:37:57
+64,8,Lessons,10,crookedriver,2019-01-21 15:37:57
+67,8,Miscellaneous,17,crookedriver,2019-01-21 15:37:57
+66,8,Theater,1,crookedriver,2019-01-21 15:37:57
+0,is_parent,Business Services,15,crookedriver,2019-01-21 15:37:57
+76,0,Computer Support,4,crookedriver,2019-01-21 15:37:57
+77,0,Financial,2,crookedriver,2019-01-21 15:37:57
+78,0,Legal,2,crookedriver,2019-01-21 15:37:57
+79,0,Marketing,3,crookedriver,2019-01-21 15:37:57
+8,0,Miscellaneous,5,crookedriver,2019-01-21 15:37:57
+4,is_parent,Community Activities,17,crookedriver,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,2,crookedriver,2019-01-21 15:37:57
+34,4,Community Service,3,crookedriver,2019-01-21 15:37:57
+90,4,Donation of time credits,1,crookedriver,2019-01-21 15:37:57
+35,4,Fund-raising,4,crookedriver,2019-01-21 15:37:57
+86,4,Group Projects,1,crookedriver,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,3,crookedriver,2019-01-21 15:37:57
+39,4,Miscellaneous,5,crookedriver,2019-01-21 15:37:57
+37,4,Special Projects,3,crookedriver,2019-01-21 15:37:57
+38,4,Work For Social Change,3,crookedriver,2019-01-21 15:37:57
+3,is_parent,Companionship,2,crookedriver,2019-01-21 15:37:57
+32,3,Miscellaneous,2,crookedriver,2019-01-21 15:37:57
+7,is_parent,Education,39,crookedriver,2019-01-21 15:37:57
+54,7,Advocacy,2,crookedriver,2019-01-21 15:37:57
+55,7,Classes / Workshops,9,crookedriver,2019-01-21 15:37:57
+56,7,Computers / Technology,4,crookedriver,2019-01-21 15:37:57
+57,7,Languages / Translation,4,crookedriver,2019-01-21 15:37:57
+60,7,Miscellaneous,15,crookedriver,2019-01-21 15:37:57
+58,7,Personal Finances,4,crookedriver,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,12,crookedriver,2019-01-21 15:37:57
+2,is_parent,Help At Home,47,crookedriver,2019-01-21 15:37:57
+9,2,Child Care,6,crookedriver,2019-01-21 15:37:57
+20,2,Cooking & Sewing,18,crookedriver,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,crookedriver,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,crookedriver,2019-01-21 15:37:57
+25,2,Miscellaneous,15,crookedriver,2019-01-21 15:37:57
+23,2,Pet Care,9,crookedriver,2019-01-21 15:37:57
+9,is_parent,Home,18,crookedriver,2019-01-21 15:37:57
+70,9,Electrical,1,crookedriver,2019-01-21 15:37:57
+7,9,Garden & Yard Work,9,crookedriver,2019-01-21 15:37:57
+74,9,Miscellaneous,10,crookedriver,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,danvilledollars,2019-01-21 15:37:57
+0,is_parent,Business Services,0,danvilledollars,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,danvilledollars,2019-01-21 15:37:57
+3,is_parent,Companionship,0,danvilledollars,2019-01-21 15:37:57
+7,is_parent,Education,0,danvilledollars,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,danvilledollars,2019-01-21 15:37:57
+9,is_parent,Home,0,danvilledollars,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",8,dc,2019-01-21 15:37:57
+6,8,Classes,1,dc,2019-01-21 15:37:57
+62,8,Crafts,3,dc,2019-01-21 15:37:57
+64,8,Lessons,4,dc,2019-01-21 15:37:57
+67,8,Miscellaneous,4,dc,2019-01-21 15:37:57
+0,is_parent,Business Services,9,dc,2019-01-21 15:37:57
+75,0,Clerical,2,dc,2019-01-21 15:37:57
+76,0,Computer Support,1,dc,2019-01-21 15:37:57
+78,0,Legal,1,dc,2019-01-21 15:37:57
+79,0,Marketing,1,dc,2019-01-21 15:37:57
+8,0,Miscellaneous,5,dc,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,dc,2019-01-21 15:37:57
+34,4,Community Service,1,dc,2019-01-21 15:37:57
+35,4,Fundraising,1,dc,2019-01-21 15:37:57
+38,4,Work For Social Change,3,dc,2019-01-21 15:37:57
+3,is_parent,Companionship,1,dc,2019-01-21 15:37:57
+3,3,Phone Calls,1,dc,2019-01-21 15:37:57
+7,is_parent,Education,12,dc,2019-01-21 15:37:57
+54,7,Advocacy,2,dc,2019-01-21 15:37:57
+55,7,Classes / Workshops,4,dc,2019-01-21 15:37:57
+56,7,Computers / Technology,2,dc,2019-01-21 15:37:57
+57,7,Languages / Translation,2,dc,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,dc,2019-01-21 15:37:57
+87,7,Writing / Editing,1,dc,2019-01-21 15:37:57
+2,is_parent,Help At Home,6,dc,2019-01-21 15:37:57
+9,2,Child Care,3,dc,2019-01-21 15:37:57
+20,2,Cooking / Sewing,1,dc,2019-01-21 15:37:57
+25,2,Miscellaneous,1,dc,2019-01-21 15:37:57
+23,2,Pet Care,1,dc,2019-01-21 15:37:57
+9,is_parent,Home,3,dc,2019-01-21 15:37:57
+7,9,Garden / Yard Work,1,dc,2019-01-21 15:37:57
+74,9,Miscellaneous,2,dc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,dhe,2019-01-21 15:37:57
+0,is_parent,Business Services,0,dhe,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,dhe,2019-01-21 15:37:57
+3,is_parent,Companionship,0,dhe,2019-01-21 15:37:57
+7,is_parent,Education,0,dhe,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,dhe,2019-01-21 15:37:57
+9,is_parent,Home,0,dhe,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,democw3,2019-01-21 15:37:57
+0,is_parent,Business Services,0,democw3,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,democw3,2019-01-21 15:37:57
+3,is_parent,Companionship,1,democw3,2019-01-21 15:37:57
+32,3,Miscellaneous,1,democw3,2019-01-21 15:37:57
+7,is_parent,Education,0,democw3,2019-01-21 15:37:57
+2,is_parent,Help At Home,3,democw3,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,democw3,2019-01-21 15:37:57
+25,2,Miscellaneous,1,democw3,2019-01-21 15:37:57
+24,2,Respite Care,1,democw3,2019-01-21 15:37:57
+9,is_parent,Home,2,democw3,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,democw3,2019-01-21 15:37:57
+70,9,Electrical,1,democw3,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,denton,2019-01-21 15:37:57
+0,is_parent,Business Services,0,denton,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,denton,2019-01-21 15:37:57
+3,is_parent,Companionship,0,denton,2019-01-21 15:37:57
+7,is_parent,Education,0,denton,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,denton,2019-01-21 15:37:57
+9,is_parent,Home,1,denton,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,denton,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",4,dunedin,2019-01-21 15:37:57
+6,8,Classes,1,dunedin,2019-01-21 15:37:57
+62,8,Crafts,2,dunedin,2019-01-21 15:37:57
+63,8,Entertainment,1,dunedin,2019-01-21 15:37:57
+0,is_parent,Business Services,3,dunedin,2019-01-21 15:37:57
+75,0,Book keeping,1,dunedin,2019-01-21 15:37:57
+75,0,Clerical,1,dunedin,2019-01-21 15:37:57
+76,0,IT Support,1,dunedin,2019-01-21 15:37:57
+79,0,Marketing,1,dunedin,2019-01-21 15:37:57
+78,0,Website Design,1,dunedin,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,dunedin,2019-01-21 15:37:57
+86,4,Group Projects,1,dunedin,2019-01-21 15:37:57
+37,4,Special Projects,1,dunedin,2019-01-21 15:37:57
+8,4,Sustainability,2,dunedin,2019-01-21 15:37:57
+38,4,Work For Social Change,1,dunedin,2019-01-21 15:37:57
+3,is_parent,Companionship,1,dunedin,2019-01-21 15:37:57
+32,3,Miscellaneous,1,dunedin,2019-01-21 15:37:57
+7,is_parent,Education,8,dunedin,2019-01-21 15:37:57
+54,7,Advocacy,1,dunedin,2019-01-21 15:37:57
+55,7,Classes / Workshops,4,dunedin,2019-01-21 15:37:57
+56,7,Computers / Technology (IT),1,dunedin,2019-01-21 15:37:57
+57,7,Languages / Translation,2,dunedin,2019-01-21 15:37:57
+60,7,Miscellaneous,2,dunedin,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,dunedin,2019-01-21 15:37:57
+2,is_parent,Help at Home,9,dunedin,2019-01-21 15:37:57
+80,2,Child Care,1,dunedin,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,dunedin,2019-01-21 15:37:57
+25,2,Miscellaneous,2,dunedin,2019-01-21 15:37:57
+23,2,Pet Care,1,dunedin,2019-01-21 15:37:57
+82,2,Sewing,3,dunedin,2019-01-21 15:37:57
+9,is_parent,House & Garden,3,dunedin,2019-01-21 15:37:57
+73,9,Basic Lawn mowing,2,dunedin,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,dunedin,2019-01-21 15:37:57
+7,9,Garden & Yard Work,3,dunedin,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,durham,2019-01-21 15:37:57
+0,is_parent,Business Services,0,durham,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,durham,2019-01-21 15:37:57
+3,is_parent,Companionship,0,durham,2019-01-21 15:37:57
+7,is_parent,Education,0,durham,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,durham,2019-01-21 15:37:57
+9,is_parent,Home,0,durham,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,eann,2019-01-21 15:37:57
+0,is_parent,Business Services,0,eann,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,eann,2019-01-21 15:37:57
+3,is_parent,Companionship,0,eann,2019-01-21 15:37:57
+7,is_parent,Education,0,eann,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,eann,2019-01-21 15:37:57
+9,is_parent,Home,0,eann,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,earn,2019-01-21 15:37:57
+63,8,Entertainment,1,earn,2019-01-21 15:37:57
+64,8,Lessons,1,earn,2019-01-21 15:37:57
+67,8,Miscellaneous,1,earn,2019-01-21 15:37:57
+0,is_parent,Business Services,1,earn,2019-01-21 15:37:57
+75,0,Clerical,1,earn,2019-01-21 15:37:57
+8,0,Miscellaneous,1,earn,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,earn,2019-01-21 15:37:57
+3,is_parent,Companionship,0,earn,2019-01-21 15:37:57
+7,is_parent,Education,1,earn,2019-01-21 15:37:57
+60,7,Miscellaneous,1,earn,2019-01-21 15:37:57
+2,is_parent,Help At Home,2,earn,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,earn,2019-01-21 15:37:57
+23,2,Pet Care,1,earn,2019-01-21 15:37:57
+65,is_parent,Help our Time Bank!,0,earn,2019-01-21 15:37:57
+64,is_parent,Holiday Help,0,earn,2019-01-21 15:37:57
+9,is_parent,Home,2,earn,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,earn,2019-01-21 15:37:57
+89,is_parent,Accommodation and Hospitality,0,eastbay,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",4,eastbay,2019-01-21 15:37:57
+62,8,Crafts,3,eastbay,2019-01-21 15:37:57
+67,8,Miscellaneous,3,eastbay,2019-01-21 15:37:57
+0,is_parent,Business Services,1,eastbay,2019-01-21 15:37:57
+8,0,Miscellaneous,1,eastbay,2019-01-21 15:37:57
+4,is_parent,Community Activities,10,eastbay,2019-01-21 15:37:57
+96,4,Boomerang Bags,1,eastbay,2019-01-21 15:37:57
+34,4,Community Service,1,eastbay,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,eastbay,2019-01-21 15:37:57
+37,4,Special Projects,7,eastbay,2019-01-21 15:37:57
+3,is_parent,Companionship,0,eastbay,2019-01-21 15:37:57
+7,is_parent,Education,3,eastbay,2019-01-21 15:37:57
+57,7,Languages / Translation,1,eastbay,2019-01-21 15:37:57
+60,7,Miscellaneous,1,eastbay,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,eastbay,2019-01-21 15:37:57
+9,is_parent,Goods Trading,2,eastbay,2019-01-21 15:37:57
+92,9,Trading Day,2,eastbay,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,eastbay,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,eastbay,2019-01-21 15:37:57
+9,is_parent,Home,2,eastbay,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,eastbay,2019-01-21 15:37:57
+74,9,Miscellaneous,1,eastbay,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,fablabchc,2019-01-21 15:37:57
+0,is_parent,Business Services,0,fablabchc,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,fablabchc,2019-01-21 15:37:57
+3,is_parent,Companionship,0,fablabchc,2019-01-21 15:37:57
+7,is_parent,Education,0,fablabchc,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,fablabchc,2019-01-21 15:37:57
+9,is_parent,Home,0,fablabchc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,fairbanks,2019-01-21 15:37:57
+0,is_parent,Business Services,0,fairbanks,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,fairbanks,2019-01-21 15:37:57
+3,is_parent,Companionship,0,fairbanks,2019-01-21 15:37:57
+7,is_parent,Education,0,fairbanks,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,fairbanks,2019-01-21 15:37:57
+9,is_parent,Home,0,fairbanks,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,farnor,2019-01-21 15:37:57
+0,is_parent,Business Services,0,farnor,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,farnor,2019-01-21 15:37:57
+3,is_parent,Companionship,0,farnor,2019-01-21 15:37:57
+7,is_parent,Education,0,farnor,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,farnor,2019-01-21 15:37:57
+9,is_parent,Home,0,farnor,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,farmster,2019-01-21 15:37:57
+0,is_parent,Business Services,0,farmster,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,farmster,2019-01-21 15:37:57
+3,is_parent,Companionship,0,farmster,2019-01-21 15:37:57
+7,is_parent,Education,0,farmster,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,farmster,2019-01-21 15:37:57
+9,is_parent,Home,0,farmster,2019-01-21 15:37:57
+88,is_parent,Counseling,0,flouris,2019-01-21 15:37:57
+7,is_parent,Education,0,flouris,2019-01-21 15:37:57
+92,is_parent,Medical services,0,flouris,2019-01-21 15:37:57
+5,is_parent,Wellness,0,flouris,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",9,frederick,2019-01-21 15:37:57
+6,8,Classes,2,frederick,2019-01-21 15:37:57
+62,8,Crafts,2,frederick,2019-01-21 15:37:57
+63,8,Entertainment,2,frederick,2019-01-21 15:37:57
+64,8,Lessons,6,frederick,2019-01-21 15:37:57
+67,8,Miscellaneous,1,frederick,2019-01-21 15:37:57
+0,is_parent,Business Services,2,frederick,2019-01-21 15:37:57
+75,0,Clerical,1,frederick,2019-01-21 15:37:57
+8,0,Miscellaneous,1,frederick,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,frederick,2019-01-21 15:37:57
+39,4,Miscellaneous,1,frederick,2019-01-21 15:37:57
+38,4,Work For Social Change,2,frederick,2019-01-21 15:37:57
+3,is_parent,Companionship,1,frederick,2019-01-21 15:37:57
+32,3,Miscellaneous,1,frederick,2019-01-21 15:37:57
+7,is_parent,Education,10,frederick,2019-01-21 15:37:57
+54,7,Advocacy,2,frederick,2019-01-21 15:37:57
+55,7,Classes / Workshops,6,frederick,2019-01-21 15:37:57
+60,7,Miscellaneous,1,frederick,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,frederick,2019-01-21 15:37:57
+2,is_parent,Help At Home,9,frederick,2019-01-21 15:37:57
+20,2,Cooking & Sewing,6,frederick,2019-01-21 15:37:57
+25,2,Miscellaneous,1,frederick,2019-01-21 15:37:57
+23,2,Pet Care,1,frederick,2019-01-21 15:37:57
+24,2,Respite Care,1,frederick,2019-01-21 15:37:57
+9,is_parent,Home,9,frederick,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,frederick,2019-01-21 15:37:57
+7,9,Garden & Yard Work,6,frederick,2019-01-21 15:37:57
+74,9,Miscellaneous,3,frederick,2019-01-21 15:37:57
+73,9,Plumbing,1,frederick,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ghoodcalgary,2019-01-21 15:37:57
+0,is_parent,Business Services,0,ghoodcalgary,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ghoodcalgary,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ghoodcalgary,2019-01-21 15:37:57
+7,is_parent,Education,0,ghoodcalgary,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ghoodcalgary,2019-01-21 15:37:57
+9,is_parent,Home,0,ghoodcalgary,2019-01-21 15:37:57
+90,is_parent,Homemade Goods,0,ghoodcalgary,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,karma,2019-01-21 15:37:57
+0,is_parent,Business Services,0,karma,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,karma,2019-01-21 15:37:57
+3,is_parent,Companionship,0,karma,2019-01-21 15:37:57
+7,is_parent,Education,0,karma,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,karma,2019-01-21 15:37:57
+9,is_parent,Home,0,karma,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,globetable,2019-01-21 15:37:57
+0,is_parent,Business Services,0,globetable,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,globetable,2019-01-21 15:37:57
+3,is_parent,Companionship,0,globetable,2019-01-21 15:37:57
+7,is_parent,Education,0,globetable,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,globetable,2019-01-21 15:37:57
+9,is_parent,Home,0,globetable,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",4,goodneighborstb,2019-01-21 15:37:57
+62,8,Crafts,2,goodneighborstb,2019-01-21 15:37:57
+63,8,Entertainment,1,goodneighborstb,2019-01-21 15:37:57
+64,8,Lessons,2,goodneighborstb,2019-01-21 15:37:57
+0,is_parent,Business Services,0,goodneighborstb,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,goodneighborstb,2019-01-21 15:37:57
+3,is_parent,Companionship,3,goodneighborstb,2019-01-21 15:37:57
+26,3,Clubs,1,goodneighborstb,2019-01-21 15:37:57
+32,3,Miscellaneous,2,goodneighborstb,2019-01-21 15:37:57
+7,is_parent,Education,2,goodneighborstb,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,goodneighborstb,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,goodneighborstb,2019-01-21 15:37:57
+2,is_parent,Help At Home,3,goodneighborstb,2019-01-21 15:37:57
+20,2,Cooking,1,goodneighborstb,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,goodneighborstb,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,goodneighborstb,2019-01-21 15:37:57
+9,is_parent,Home,1,goodneighborstb,2019-01-21 15:37:57
+68,9,Car Care,1,goodneighborstb,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,scgm,2019-01-21 15:37:57
+0,is_parent,Business Services,1,scgm,2019-01-21 15:37:57
+76,0,Computer Support,1,scgm,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,scgm,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,2,scgm,2019-01-21 15:37:57
+3,is_parent,Companionship,0,scgm,2019-01-21 15:37:57
+7,is_parent,Education,1,scgm,2019-01-21 15:37:57
+56,7,Computers / Technology,1,scgm,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,scgm,2019-01-21 15:37:57
+9,is_parent,Home,0,scgm,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",4,greatbay,2019-01-21 15:37:57
+62,8,Crafts,3,greatbay,2019-01-21 15:37:57
+64,8,Lessons,2,greatbay,2019-01-21 15:37:57
+67,8,Miscellaneous,1,greatbay,2019-01-21 15:37:57
+0,is_parent,Business Services,2,greatbay,2019-01-21 15:37:57
+76,0,Computer Support,1,greatbay,2019-01-21 15:37:57
+79,0,Marketing,1,greatbay,2019-01-21 15:37:57
+8,0,Miscellaneous,1,greatbay,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,greatbay,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,greatbay,2019-01-21 15:37:57
+37,4,Special Projects,2,greatbay,2019-01-21 15:37:57
+38,4,Work For Social Change,1,greatbay,2019-01-21 15:37:57
+3,is_parent,Companionship,0,greatbay,2019-01-21 15:37:57
+7,is_parent,Education,12,greatbay,2019-01-21 15:37:57
+54,7,Advocacy,1,greatbay,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,greatbay,2019-01-21 15:37:57
+56,7,Computers / Technology,1,greatbay,2019-01-21 15:37:57
+57,7,Languages / Translation,2,greatbay,2019-01-21 15:37:57
+60,7,Miscellaneous,2,greatbay,2019-01-21 15:37:57
+58,7,Personal Finances,1,greatbay,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,7,greatbay,2019-01-21 15:37:57
+2,is_parent,Help At Home,7,greatbay,2019-01-21 15:37:57
+9,2,Child Care,1,greatbay,2019-01-21 15:37:57
+20,2,Cooking & Sewing,5,greatbay,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,greatbay,2019-01-21 15:37:57
+9,is_parent,Home,4,greatbay,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,greatbay,2019-01-21 15:37:57
+74,9,Miscellaneous,2,greatbay,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,gc,2019-01-21 15:37:57
+0,is_parent,Business Services,0,gc,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,gc,2019-01-21 15:37:57
+3,is_parent,Companionship,0,gc,2019-01-21 15:37:57
+7,is_parent,Education,0,gc,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,gc,2019-01-21 15:37:57
+9,is_parent,Home,0,gc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,greaterheights,2019-01-21 15:37:57
+0,is_parent,Business Services,2,greaterheights,2019-01-21 15:37:57
+77,0,Financial,1,greaterheights,2019-01-21 15:37:57
+79,0,Marketing,1,greaterheights,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,greaterheights,2019-01-21 15:37:57
+35,4,Fund-raising,3,greaterheights,2019-01-21 15:37:57
+38,4,Work For Social Change,1,greaterheights,2019-01-21 15:37:57
+3,is_parent,Companionship,0,greaterheights,2019-01-21 15:37:57
+7,is_parent,Education,1,greaterheights,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,greaterheights,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,greaterheights,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,greaterheights,2019-01-21 15:37:57
+9,is_parent,Home,1,greaterheights,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,greaterheights,2019-01-21 15:37:57
+4,is_parent,Account Management,0,gwtb,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,gwtb,2019-01-21 15:37:57
+94,is_parent,"Arts, Crafts & Music",9,gwtb,2019-01-21 15:37:57
+95,94,Lessons,5,gwtb,2019-01-21 15:37:57
+98,94,Miscellaneous,3,gwtb,2019-01-21 15:37:57
+97,94,Photo & Video,1,gwtb,2019-01-21 15:37:57
+0,is_parent,Business Services,3,gwtb,2019-01-21 15:37:57
+79,0,Marketing,1,gwtb,2019-01-21 15:37:57
+8,0,Miscellaneous,2,gwtb,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,gwtb,2019-01-21 15:37:57
+3,is_parent,Companionship,0,gwtb,2019-01-21 15:37:57
+89,is_parent,Computers and Technology,5,gwtb,2019-01-21 15:37:57
+90,89,Teaching,4,gwtb,2019-01-21 15:37:57
+93,89,Web Sites,1,gwtb,2019-01-21 15:37:57
+22,is_parent,Crafting and Artisan Services,0,gwtb,2019-01-21 15:37:57
+24,is_parent,Donation of Credits,0,gwtb,2019-01-21 15:37:57
+7,is_parent,Education,3,gwtb,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,gwtb,2019-01-21 15:37:57
+8,is_parent,Elder and Companionship,0,gwtb,2019-01-21 15:37:57
+2,is_parent,Help At Home,11,gwtb,2019-01-21 15:37:57
+9,2,Child Care,1,gwtb,2019-01-21 15:37:57
+0,2,Cooking,1,gwtb,2019-01-21 15:37:57
+96,2,Elder Care,1,gwtb,2019-01-21 15:37:57
+87,2,Hair & Beauty,2,gwtb,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,3,gwtb,2019-01-21 15:37:57
+23,2,Pet Care,2,gwtb,2019-01-21 15:37:57
+8,2,Sewing,1,gwtb,2019-01-21 15:37:57
+9,is_parent,Home,18,gwtb,2019-01-21 15:37:57
+69,9,Carpentry / Construction,3,gwtb,2019-01-21 15:37:57
+0,9,Garden & Yard Work,12,gwtb,2019-01-21 15:37:57
+74,9,Miscellaneous,2,gwtb,2019-01-21 15:37:57
+72,9,Painting,1,gwtb,2019-01-21 15:37:57
+3,is_parent,Language Services,4,gwtb,2019-01-21 15:37:57
+9,3,Editing & Proof Reading,1,gwtb,2019-01-21 15:37:57
+4,3,Translation & Interpretation,2,gwtb,2019-01-21 15:37:57
+2,3,Writing,1,gwtb,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,choptank,2019-01-21 15:37:57
+0,is_parent,Business Services,0,choptank,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,choptank,2019-01-21 15:37:57
+3,is_parent,Companionship,0,choptank,2019-01-21 15:37:57
+7,is_parent,Education,0,choptank,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,choptank,2019-01-21 15:37:57
+23,2,Pet Care,1,choptank,2019-01-21 15:37:57
+9,is_parent,Home,2,choptank,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,choptank,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,choptank,2019-01-21 15:37:57
+74,9,Miscellaneous,1,choptank,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,bc-historyofmoney,2019-01-21 15:37:57
+0,is_parent,Business Services,0,bc-historyofmoney,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,bc-historyofmoney,2019-01-21 15:37:57
+3,is_parent,Companionship,0,bc-historyofmoney,2019-01-21 15:37:57
+7,is_parent,Education,0,bc-historyofmoney,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,bc-historyofmoney,2019-01-21 15:37:57
+9,is_parent,Home,0,bc-historyofmoney,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,opexchange,2019-01-21 15:37:57
+0,is_parent,Business Services,0,opexchange,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,opexchange,2019-01-21 15:37:57
+3,is_parent,Companionship,0,opexchange,2019-01-21 15:37:57
+7,is_parent,Education,0,opexchange,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,opexchange,2019-01-21 15:37:57
+9,is_parent,Home,0,opexchange,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,our4ourworld,2019-01-21 15:37:57
+0,is_parent,Business Services,0,our4ourworld,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,our4ourworld,2019-01-21 15:37:57
+3,is_parent,Companionship,0,our4ourworld,2019-01-21 15:37:57
+7,is_parent,Education,0,our4ourworld,2019-01-21 15:37:57
+94,is_parent,Food Not Lawns,0,our4ourworld,2019-01-21 15:37:57
+75,is_parent,Garden & Yards,1,our4ourworld,2019-01-21 15:37:57
+77,75,Food Not Lawns,1,our4ourworld,2019-01-21 15:37:57
+87,75,Permaculture,1,our4ourworld,2019-01-21 15:37:57
+88,is_parent,H4OW Time Exchange,0,our4ourworld,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,our4ourworld,2019-01-21 15:37:57
+9,is_parent,Home,0,our4ourworld,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ourcommunityinterfai,2019-01-21 15:37:57
+0,is_parent,Business Services,2,ourcommunityinterfai,2019-01-21 15:37:57
+76,0,Computer Support,1,ourcommunityinterfai,2019-01-21 15:37:57
+8,0,Miscellaneous,1,ourcommunityinterfai,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ourcommunityinterfai,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ourcommunityinterfai,2019-01-21 15:37:57
+7,is_parent,Education,2,ourcommunityinterfai,2019-01-21 15:37:57
+56,7,Computers / Technology,1,ourcommunityinterfai,2019-01-21 15:37:57
+60,7,Miscellaneous,1,ourcommunityinterfai,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,ourcommunityinterfai,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,ourcommunityinterfai,2019-01-21 15:37:57
+9,is_parent,Home,0,ourcommunityinterfai,2019-01-21 15:37:57
+89,is_parent,In-Sanctuary Support,0,ourcommunityinterfai,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,isiinc,2019-01-21 15:37:57
+62,8,Crafts,2,isiinc,2019-01-21 15:37:57
+0,is_parent,Business Services,0,isiinc,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,isiinc,2019-01-21 15:37:57
+3,is_parent,Companionship,0,isiinc,2019-01-21 15:37:57
+7,is_parent,Education,1,isiinc,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,isiinc,2019-01-21 15:37:57
+2,is_parent,Help At Home,5,isiinc,2019-01-21 15:37:57
+20,2,Cooking & Sewing,5,isiinc,2019-01-21 15:37:57
+9,is_parent,Home,1,isiinc,2019-01-21 15:37:57
+72,9,Painting,1,isiinc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,jeffersoncommunity,2019-01-21 15:37:57
+64,8,Lessons,1,jeffersoncommunity,2019-01-21 15:37:57
+0,is_parent,Business Services,0,jeffersoncommunity,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,jeffersoncommunity,2019-01-21 15:37:57
+35,4,Fund-raising,1,jeffersoncommunity,2019-01-21 15:37:57
+38,4,Work For Social Change,1,jeffersoncommunity,2019-01-21 15:37:57
+3,is_parent,Companionship,0,jeffersoncommunity,2019-01-21 15:37:57
+7,is_parent,Education,2,jeffersoncommunity,2019-01-21 15:37:57
+57,7,Languages / Translation,1,jeffersoncommunity,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,jeffersoncommunity,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,jeffersoncommunity,2019-01-21 15:37:57
+9,2,Child Care,1,jeffersoncommunity,2019-01-21 15:37:57
+9,is_parent,Home,2,jeffersoncommunity,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,jeffersoncommunity,2019-01-21 15:37:57
+74,9,Miscellaneous,1,jeffersoncommunity,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,jerseyshore,2019-01-21 15:37:57
+63,8,Entertainment,1,jerseyshore,2019-01-21 15:37:57
+0,is_parent,Business Services,2,jerseyshore,2019-01-21 15:37:57
+78,0,Legal,1,jerseyshore,2019-01-21 15:37:57
+80,0,Research,1,jerseyshore,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,jerseyshore,2019-01-21 15:37:57
+35,4,Fund-raising,1,jerseyshore,2019-01-21 15:37:57
+3,is_parent,Companionship,0,jerseyshore,2019-01-21 15:37:57
+7,is_parent,Education,2,jerseyshore,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,jerseyshore,2019-01-21 15:37:57
+60,7,Miscellaneous,1,jerseyshore,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,jerseyshore,2019-01-21 15:37:57
+9,is_parent,Home,0,jerseyshore,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",11,kaitaia,2019-01-21 15:37:57
+6,8,Classes,2,kaitaia,2019-01-21 15:37:57
+62,8,Crafts,6,kaitaia,2019-01-21 15:37:57
+64,8,Lessons,1,kaitaia,2019-01-21 15:37:57
+67,8,Miscellaneous,4,kaitaia,2019-01-21 15:37:57
+0,is_parent,Business Services,10,kaitaia,2019-01-21 15:37:57
+75,0,Clerical,3,kaitaia,2019-01-21 15:37:57
+76,0,Computer Support,3,kaitaia,2019-01-21 15:37:57
+77,0,Financial,1,kaitaia,2019-01-21 15:37:57
+79,0,Marketing,4,kaitaia,2019-01-21 15:37:57
+8,0,Miscellaneous,5,kaitaia,2019-01-21 15:37:57
+4,is_parent,Community Activities,14,kaitaia,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,2,kaitaia,2019-01-21 15:37:57
+34,4,Community Service,9,kaitaia,2019-01-21 15:37:57
+86,4,Group Projects,1,kaitaia,2019-01-21 15:37:57
+39,4,Miscellaneous,2,kaitaia,2019-01-21 15:37:57
+3,is_parent,Companionship,3,kaitaia,2019-01-21 15:37:57
+26,3,Clubs,1,kaitaia,2019-01-21 15:37:57
+32,3,Miscellaneous,2,kaitaia,2019-01-21 15:37:57
+7,is_parent,Education,15,kaitaia,2019-01-21 15:37:57
+54,7,Advocacy,1,kaitaia,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,kaitaia,2019-01-21 15:37:57
+56,7,Computers / Technology,4,kaitaia,2019-01-21 15:37:57
+57,7,Languages / Translation,3,kaitaia,2019-01-21 15:37:57
+60,7,Miscellaneous,6,kaitaia,2019-01-21 15:37:57
+58,7,Personal Finances,1,kaitaia,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,6,kaitaia,2019-01-21 15:37:57
+2,is_parent,Help At Home,12,kaitaia,2019-01-21 15:37:57
+20,2,Cooking & Sewing,4,kaitaia,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,kaitaia,2019-01-21 15:37:57
+25,2,Miscellaneous,8,kaitaia,2019-01-21 15:37:57
+23,2,Pet Care,1,kaitaia,2019-01-21 15:37:57
+24,2,Respite Care,1,kaitaia,2019-01-21 15:37:57
+9,is_parent,Home,18,kaitaia,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,kaitaia,2019-01-21 15:37:57
+7,9,Garden & Yard Work,12,kaitaia,2019-01-21 15:37:57
+74,9,Miscellaneous,6,kaitaia,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,kapiti50,2019-01-21 15:37:57
+0,is_parent,Business Services,0,kapiti50,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,kapiti50,2019-01-21 15:37:57
+3,is_parent,Companionship,0,kapiti50,2019-01-21 15:37:57
+7,is_parent,Education,0,kapiti50,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,kapiti50,2019-01-21 15:37:57
+9,is_parent,Home,0,kapiti50,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,klc,2019-01-21 15:37:57
+0,is_parent,Business Services,0,klc,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,klc,2019-01-21 15:37:57
+3,is_parent,Companionship,0,klc,2019-01-21 15:37:57
+7,is_parent,Education,0,klc,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,klc,2019-01-21 15:37:57
+9,is_parent,Home,0,klc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,khokha,2019-01-21 15:37:57
+0,is_parent,Business Services,0,khokha,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,khokha,2019-01-21 15:37:57
+3,is_parent,Companionship,0,khokha,2019-01-21 15:37:57
+7,is_parent,Education,0,khokha,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,khokha,2019-01-21 15:37:57
+9,is_parent,Home,0,khokha,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",4,letsbmore,2019-01-21 15:37:57
+67,8,Miscellaneous,4,letsbmore,2019-01-21 15:37:57
+65,8,Photo & Video,1,letsbmore,2019-01-21 15:37:57
+0,is_parent,Business Services,1,letsbmore,2019-01-21 15:37:57
+75,0,Clerical,1,letsbmore,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,letsbmore,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,letsbmore,2019-01-21 15:37:57
+39,4,Miscellaneous,1,letsbmore,2019-01-21 15:37:57
+3,is_parent,Companionship,1,letsbmore,2019-01-21 15:37:57
+32,3,Miscellaneous,1,letsbmore,2019-01-21 15:37:57
+7,is_parent,Education,1,letsbmore,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,letsbmore,2019-01-21 15:37:57
+2,is_parent,Help At Home,2,letsbmore,2019-01-21 15:37:57
+25,2,Miscellaneous,2,letsbmore,2019-01-21 15:37:57
+9,is_parent,Home,2,letsbmore,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,letsbmore,2019-01-21 15:37:57
+74,9,Miscellaneous,1,letsbmore,2019-01-21 15:37:57
+7,is_parent,"Arts, Culture and Ideas",0,margination,2019-01-21 15:37:57
+87,is_parent,Buildings,0,margination,2019-01-21 15:37:57
+22,is_parent,Care and Social Support,0,margination,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,meadville,2019-01-21 15:37:57
+0,is_parent,Business Services,0,meadville,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,meadville,2019-01-21 15:37:57
+3,is_parent,Companionship,0,meadville,2019-01-21 15:37:57
+7,is_parent,Education,0,meadville,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,meadville,2019-01-21 15:37:57
+9,is_parent,Home,0,meadville,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",6,midcanterbury,2019-01-21 15:37:57
+62,8,Crafts,3,midcanterbury,2019-01-21 15:37:57
+64,8,Lessons,2,midcanterbury,2019-01-21 15:37:57
+67,8,Miscellaneous,2,midcanterbury,2019-01-21 15:37:57
+0,is_parent,Business Services,5,midcanterbury,2019-01-21 15:37:57
+76,0,Computer Support,3,midcanterbury,2019-01-21 15:37:57
+79,0,Marketing,2,midcanterbury,2019-01-21 15:37:57
+8,0,Miscellaneous,3,midcanterbury,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,midcanterbury,2019-01-21 15:37:57
+86,4,Group Projects,1,midcanterbury,2019-01-21 15:37:57
+39,4,Miscellaneous,1,midcanterbury,2019-01-21 15:37:57
+37,4,Special Projects,1,midcanterbury,2019-01-21 15:37:57
+3,is_parent,Companionship,2,midcanterbury,2019-01-21 15:37:57
+29,3,Home Visits,1,midcanterbury,2019-01-21 15:37:57
+26,3,Meet at a cafe,1,midcanterbury,2019-01-21 15:37:57
+0,is_parent,Culture & Knowledge,2,midcanterbury,2019-01-21 15:37:57
+3,0,Geography/ Geology,1,midcanterbury,2019-01-21 15:37:57
+8,0,Miscellaneous,1,midcanterbury,2019-01-21 15:37:57
+7,is_parent,Education,13,midcanterbury,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,midcanterbury,2019-01-21 15:37:57
+56,7,Computers / Technology/ Phones,4,midcanterbury,2019-01-21 15:37:57
+57,7,Languages / Translation,4,midcanterbury,2019-01-21 15:37:57
+60,7,Miscellaneous,5,midcanterbury,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,midcanterbury,2019-01-21 15:37:57
+2,is_parent,Help At Home,9,midcanterbury,2019-01-21 15:37:57
+27,2,Baking,1,midcanterbury,2019-01-21 15:37:57
+9,2,Child Care,3,midcanterbury,2019-01-21 15:37:57
+20,2,Cooking,1,midcanterbury,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,midcanterbury,2019-01-21 15:37:57
+25,2,Miscellaneous,1,midcanterbury,2019-01-21 15:37:57
+23,2,Pet Care,1,midcanterbury,2019-01-21 15:37:57
+98,2,Sewing,2,midcanterbury,2019-01-21 15:37:57
+88,is_parent,Help our TimeBank!,0,midcanterbury,2019-01-21 15:37:57
+9,is_parent,Home,1,midcanterbury,2019-01-21 15:37:57
+74,9,Miscellaneous,1,midcanterbury,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,mk,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,mk,2019-01-21 15:37:57
+7,is_parent,Education,0,mk,2019-01-21 15:37:57
+3,is_parent,Events,0,mk,2019-01-21 15:37:57
+5,is_parent,Health,0,mk,2019-01-21 15:37:57
+6,is_parent,Interests,0,mk,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,mttimeexchange,2019-01-21 15:37:57
+0,is_parent,Business Services,0,mttimeexchange,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,mttimeexchange,2019-01-21 15:37:57
+3,is_parent,Companionship,0,mttimeexchange,2019-01-21 15:37:57
+7,is_parent,Education,0,mttimeexchange,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,mttimeexchange,2019-01-21 15:37:57
+9,is_parent,Home,0,mttimeexchange,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,murihiku,2019-01-21 15:37:57
+64,8,Lessons,1,murihiku,2019-01-21 15:37:57
+0,is_parent,Business Services,5,murihiku,2019-01-21 15:37:57
+75,0,Clerical,3,murihiku,2019-01-21 15:37:57
+76,0,Computer Support,1,murihiku,2019-01-21 15:37:57
+77,0,Financial,1,murihiku,2019-01-21 15:37:57
+8,0,Miscellaneous,3,murihiku,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,murihiku,2019-01-21 15:37:57
+3,is_parent,Companionship,0,murihiku,2019-01-21 15:37:57
+7,is_parent,Education,3,murihiku,2019-01-21 15:37:57
+56,7,Computers / Technology,1,murihiku,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,murihiku,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,murihiku,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,murihiku,2019-01-21 15:37:57
+9,is_parent,Home,3,murihiku,2019-01-21 15:37:57
+74,9,Miscellaneous,3,murihiku,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,mwdi,2019-01-21 15:37:57
+65,8,Photo & Video,1,mwdi,2019-01-21 15:37:57
+0,is_parent,Business Services,1,mwdi,2019-01-21 15:37:57
+76,0,Computer Support,1,mwdi,2019-01-21 15:37:57
+79,0,Marketing,1,mwdi,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,mwdi,2019-01-21 15:37:57
+3,is_parent,Companionship,0,mwdi,2019-01-21 15:37:57
+7,is_parent,Education,0,mwdi,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,mwdi,2019-01-21 15:37:57
+9,is_parent,Home,0,mwdi,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",7,nbnneighborhoodnetwork,2019-01-21 15:37:57
+62,8,Crafts,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+63,8,Entertainment,2,nbnneighborhoodnetwork,2019-01-21 15:37:57
+67,8,Miscellaneous,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+65,8,Photo & Video,2,nbnneighborhoodnetwork,2019-01-21 15:37:57
+66,8,Theater,3,nbnneighborhoodnetwork,2019-01-21 15:37:57
+0,is_parent,Business Services,5,nbnneighborhoodnetwork,2019-01-21 15:37:57
+75,0,Clerical,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+76,0,Computer Support,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+77,0,Financial,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+79,0,Marketing,2,nbnneighborhoodnetwork,2019-01-21 15:37:57
+8,0,Miscellaneous,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+80,0,Research,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+4,is_parent,Community Activities,7,nbnneighborhoodnetwork,2019-01-21 15:37:57
+34,4,Community Service,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+35,4,Fund-raising,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+39,4,Miscellaneous,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+37,4,Special Projects,4,nbnneighborhoodnetwork,2019-01-21 15:37:57
+38,4,Work For Social Change,2,nbnneighborhoodnetwork,2019-01-21 15:37:57
+3,is_parent,Companionship,0,nbnneighborhoodnetwork,2019-01-21 15:37:57
+7,is_parent,Education,4,nbnneighborhoodnetwork,2019-01-21 15:37:57
+56,7,Computers / Technology,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+57,7,Languages / Translation,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+58,7,Personal Finances,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+2,is_parent,Help At Home,6,nbnneighborhoodnetwork,2019-01-21 15:37:57
+9,2,Child Care,2,nbnneighborhoodnetwork,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+25,2,Miscellaneous,2,nbnneighborhoodnetwork,2019-01-21 15:37:57
+23,2,Pet Care,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+9,is_parent,Home,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+72,9,Painting,1,nbnneighborhoodnetwork,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,iedmon,2019-01-21 15:37:57
+64,8,Lessons,1,iedmon,2019-01-21 15:37:57
+0,is_parent,Business Services,2,iedmon,2019-01-21 15:37:57
+76,0,Computer Support,1,iedmon,2019-01-21 15:37:57
+80,0,Research,1,iedmon,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,iedmon,2019-01-21 15:37:57
+39,4,Miscellaneous,1,iedmon,2019-01-21 15:37:57
+37,4,Special Projects,1,iedmon,2019-01-21 15:37:57
+3,is_parent,Companionship,0,iedmon,2019-01-21 15:37:57
+7,is_parent,Education,2,iedmon,2019-01-21 15:37:57
+56,7,Computers / Technology,1,iedmon,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,iedmon,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,iedmon,2019-01-21 15:37:57
+9,is_parent,Home,2,iedmon,2019-01-21 15:37:57
+74,9,Miscellaneous,2,iedmon,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,eneighborhoodvillage,2019-01-21 15:37:57
+0,is_parent,Business Services,0,eneighborhoodvillage,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,eneighborhoodvillage,2019-01-21 15:37:57
+3,is_parent,Companionship,0,eneighborhoodvillage,2019-01-21 15:37:57
+7,is_parent,Education,0,eneighborhoodvillage,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,eneighborhoodvillage,2019-01-21 15:37:57
+9,is_parent,Home,0,eneighborhoodvillage,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,nerd,2019-01-21 15:37:57
+0,is_parent,Business Services,0,nerd,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,nerd,2019-01-21 15:37:57
+3,is_parent,Companionship,0,nerd,2019-01-21 15:37:57
+7,is_parent,Education,0,nerd,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,nerd,2019-01-21 15:37:57
+9,is_parent,Home,0,nerd,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",10,nether-swarthmore,2019-01-21 15:37:57
+6,8,Classes,1,nether-swarthmore,2019-01-21 15:37:57
+62,8,Crafts,2,nether-swarthmore,2019-01-21 15:37:57
+63,8,Entertainment,1,nether-swarthmore,2019-01-21 15:37:57
+64,8,Lessons,4,nether-swarthmore,2019-01-21 15:37:57
+67,8,Miscellaneous,5,nether-swarthmore,2019-01-21 15:37:57
+0,is_parent,Business Services,3,nether-swarthmore,2019-01-21 15:37:57
+79,0,Marketing,1,nether-swarthmore,2019-01-21 15:37:57
+8,0,Miscellaneous,2,nether-swarthmore,2019-01-21 15:37:57
+80,0,Research,1,nether-swarthmore,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,nether-swarthmore,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,nether-swarthmore,2019-01-21 15:37:57
+39,4,Miscellaneous,1,nether-swarthmore,2019-01-21 15:37:57
+38,4,Work For Social Change,1,nether-swarthmore,2019-01-21 15:37:57
+3,is_parent,Companionship,3,nether-swarthmore,2019-01-21 15:37:57
+29,3,Home Visits,1,nether-swarthmore,2019-01-21 15:37:57
+32,3,Miscellaneous,3,nether-swarthmore,2019-01-21 15:37:57
+7,is_parent,Education,8,nether-swarthmore,2019-01-21 15:37:57
+57,7,Languages / Translation,3,nether-swarthmore,2019-01-21 15:37:57
+60,7,Miscellaneous,3,nether-swarthmore,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,5,nether-swarthmore,2019-01-21 15:37:57
+2,is_parent,Help At Home,7,nether-swarthmore,2019-01-21 15:37:57
+20,2,Cooking & Sewing,2,nether-swarthmore,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,nether-swarthmore,2019-01-21 15:37:57
+25,2,Miscellaneous,4,nether-swarthmore,2019-01-21 15:37:57
+9,is_parent,Home,7,nether-swarthmore,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,nether-swarthmore,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,nether-swarthmore,2019-01-21 15:37:57
+74,9,Miscellaneous,4,nether-swarthmore,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",11,nrv,2019-01-21 15:37:57
+6,8,Classes,4,nrv,2019-01-21 15:37:57
+62,8,Crafts,4,nrv,2019-01-21 15:37:57
+64,8,Lessons,4,nrv,2019-01-21 15:37:57
+67,8,Miscellaneous,1,nrv,2019-01-21 15:37:57
+65,8,Photo & Video,1,nrv,2019-01-21 15:37:57
+0,is_parent,Business Services,11,nrv,2019-01-21 15:37:57
+75,0,Clerical,2,nrv,2019-01-21 15:37:57
+76,0,Computer Support,1,nrv,2019-01-21 15:37:57
+79,0,Marketing,1,nrv,2019-01-21 15:37:57
+8,0,Miscellaneous,8,nrv,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,nrv,2019-01-21 15:37:57
+37,4,Special Projects,2,nrv,2019-01-21 15:37:57
+38,4,Work For Social Change,1,nrv,2019-01-21 15:37:57
+3,is_parent,Companionship,10,nrv,2019-01-21 15:37:57
+29,3,Home Visits,2,nrv,2019-01-21 15:37:57
+30,3,Medical Errands,1,nrv,2019-01-21 15:37:57
+32,3,Miscellaneous,8,nrv,2019-01-21 15:37:57
+7,is_parent,Education,19,nrv,2019-01-21 15:37:57
+54,7,Advocacy,2,nrv,2019-01-21 15:37:57
+55,7,Classes / Workshops,7,nrv,2019-01-21 15:37:57
+56,7,Computers / Technology,3,nrv,2019-01-21 15:37:57
+57,7,Languages / Translation,3,nrv,2019-01-21 15:37:57
+60,7,Miscellaneous,5,nrv,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,8,nrv,2019-01-21 15:37:57
+2,is_parent,Help at Home,18,nrv,2019-01-21 15:37:57
+20,2,Cooking,4,nrv,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,nrv,2019-01-21 15:37:57
+25,2,Miscellaneous,6,nrv,2019-01-21 15:37:57
+23,2,Pet Care,5,nrv,2019-01-21 15:37:57
+24,2,Respite Care,1,nrv,2019-01-21 15:37:57
+88,2,Sewing,3,nrv,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",10,nola,2019-01-21 15:37:57
+6,8,Classes,4,nola,2019-01-21 15:37:57
+62,8,Crafts,4,nola,2019-01-21 15:37:57
+63,8,Entertainment,2,nola,2019-01-21 15:37:57
+64,8,Lessons,4,nola,2019-01-21 15:37:57
+67,8,Miscellaneous,1,nola,2019-01-21 15:37:57
+66,8,Theater,1,nola,2019-01-21 15:37:57
+0,is_parent,Business Services,11,nola,2019-01-21 15:37:57
+8,0,Business Consultation / Coaching,2,nola,2019-01-21 15:37:57
+75,0,Clerical,3,nola,2019-01-21 15:37:57
+76,0,Computer Support,1,nola,2019-01-21 15:37:57
+77,0,Financial,1,nola,2019-01-21 15:37:57
+78,0,Legal,2,nola,2019-01-21 15:37:57
+79,0,Marketing,2,nola,2019-01-21 15:37:57
+24,0,Mediation / Dispute Resolution Service,2,nola,2019-01-21 15:37:57
+80,0,Research,1,nola,2019-01-21 15:37:57
+4,is_parent,Community Activities,11,nola,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,nola,2019-01-21 15:37:57
+34,4,Community Service,1,nola,2019-01-21 15:37:57
+35,4,Fund-raising,1,nola,2019-01-21 15:37:57
+235,4,Group Projects,1,nola,2019-01-21 15:37:57
+212,4,Hurricane Readiness Activities,1,nola,2019-01-21 15:37:57
+39,4,Miscellaneous,2,nola,2019-01-21 15:37:57
+37,4,Special Projects,2,nola,2019-01-21 15:37:57
+38,4,Work For Social Change,2,nola,2019-01-21 15:37:57
+3,is_parent,Companionship,8,nola,2019-01-21 15:37:57
+26,3,Clubs,1,nola,2019-01-21 15:37:57
+27,3,Dining Out,1,nola,2019-01-21 15:37:57
+29,3,Home Visits,1,nola,2019-01-21 15:37:57
+30,3,Medical Errands,1,nola,2019-01-21 15:37:57
+32,3,Miscellaneous,3,nola,2019-01-21 15:37:57
+3,3,Telephone Calls,1,nola,2019-01-21 15:37:57
+7,is_parent,Education,14,nola,2019-01-21 15:37:57
+54,7,Advocacy,1,nola,2019-01-21 15:37:57
+55,7,Classes / Workshops,5,nola,2019-01-21 15:37:57
+56,7,Computers / Technology,1,nola,2019-01-21 15:37:57
+57,7,Languages / Translation,2,nola,2019-01-21 15:37:57
+60,7,Miscellaneous,4,nola,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,4,nola,2019-01-21 15:37:57
+2,is_parent,Help At Home,20,nola,2019-01-21 15:37:57
+9,2,Child Care,3,nola,2019-01-21 15:37:57
+20,2,Cooking,5,nola,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,nola,2019-01-21 15:37:57
+242,2,Home Health Help,1,nola,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,nola,2019-01-21 15:37:57
+215,2,Laundry,1,nola,2019-01-21 15:37:57
+25,2,Miscellaneous,4,nola,2019-01-21 15:37:57
+23,2,Pet Care,3,nola,2019-01-21 15:37:57
+24,2,Respite Care,3,nola,2019-01-21 15:37:57
+20,2,Sewing,2,nola,2019-01-21 15:37:57
+9,is_parent,Home Care / Maintenance,15,nola,2019-01-21 15:37:57
+69,9,Carpentry / Construction,3,nola,2019-01-21 15:37:57
+217,9,Garden Design / Consultation,2,nola,2019-01-21 15:37:57
+7,9,Gardening,3,nola,2019-01-21 15:37:57
+214,9,Home Organization,4,nola,2019-01-21 15:37:57
+220,9,House Sitting,2,nola,2019-01-21 15:37:57
+74,9,Miscellaneous,1,nola,2019-01-21 15:37:57
+72,9,Painting,1,nola,2019-01-21 15:37:57
+73,9,Plumbing,1,nola,2019-01-21 15:37:57
+202,9,Yard Work,5,nola,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,norman,2019-01-21 15:37:57
+0,is_parent,Business Services,0,norman,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,norman,2019-01-21 15:37:57
+3,is_parent,Companionship,1,norman,2019-01-21 15:37:57
+3,3,Telephone Calls,1,norman,2019-01-21 15:37:57
+7,is_parent,Education,1,norman,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,norman,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,norman,2019-01-21 15:37:57
+9,2,Child Care,1,norman,2019-01-21 15:37:57
+9,is_parent,Home,0,norman,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ncc,2019-01-21 15:37:57
+0,is_parent,Business Services,0,ncc,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ncc,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ncc,2019-01-21 15:37:57
+7,is_parent,Education,0,ncc,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ncc,2019-01-21 15:37:57
+9,is_parent,Home,0,ncc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,northwestnewjersey,2019-01-21 15:37:57
+64,8,Lessons,1,northwestnewjersey,2019-01-21 15:37:57
+0,is_parent,Business Services,1,northwestnewjersey,2019-01-21 15:37:57
+78,0,Legal,1,northwestnewjersey,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,northwestnewjersey,2019-01-21 15:37:57
+34,4,Community Service,1,northwestnewjersey,2019-01-21 15:37:57
+39,4,Miscellaneous,1,northwestnewjersey,2019-01-21 15:37:57
+38,4,Work For Social Change,1,northwestnewjersey,2019-01-21 15:37:57
+3,is_parent,Companionship,1,northwestnewjersey,2019-01-21 15:37:57
+29,3,Home Visits,1,northwestnewjersey,2019-01-21 15:37:57
+32,3,Miscellaneous,1,northwestnewjersey,2019-01-21 15:37:57
+7,is_parent,Education,6,northwestnewjersey,2019-01-21 15:37:57
+54,7,Advocacy,1,northwestnewjersey,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,northwestnewjersey,2019-01-21 15:37:57
+56,7,Computers / Technology,1,northwestnewjersey,2019-01-21 15:37:57
+57,7,Languages / Translation,1,northwestnewjersey,2019-01-21 15:37:57
+60,7,Miscellaneous,1,northwestnewjersey,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,northwestnewjersey,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,northwestnewjersey,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,northwestnewjersey,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,northwestnewjersey,2019-01-21 15:37:57
+9,is_parent,Home,2,northwestnewjersey,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,northwestnewjersey,2019-01-21 15:37:57
+72,9,Painting,1,northwestnewjersey,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,oahu,2019-01-21 15:37:57
+0,is_parent,Business Services,0,oahu,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,oahu,2019-01-21 15:37:57
+3,is_parent,Companionship,0,oahu,2019-01-21 15:37:57
+7,is_parent,Education,0,oahu,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,oahu,2019-01-21 15:37:57
+9,is_parent,Home,0,oahu,2019-01-21 15:37:57
+5,is_parent,Body/Wellness,11,ojai,2019-01-21 15:37:57
+40,5,Complementary Therapies,4,ojai,2019-01-21 15:37:57
+4,5,Counseling,3,ojai,2019-01-21 15:37:57
+42,5,Diet & Nutrition,2,ojai,2019-01-21 15:37:57
+43,5,Fitness & Exercise,1,ojai,2019-01-21 15:37:57
+89,5,Massage,2,ojai,2019-01-21 15:37:57
+44,5,Medical Services,2,ojai,2019-01-21 15:37:57
+46,5,Miscellaneous,1,ojai,2019-01-21 15:37:57
+26,5,Personal Training,1,ojai,2019-01-21 15:37:57
+45,5,Yoga / Meditation,3,ojai,2019-01-21 15:37:57
+0,is_parent,Business Services,1,ojai,2019-01-21 15:37:57
+77,0,Financial,1,ojai,2019-01-21 15:37:57
+78,0,Legal,1,ojai,2019-01-21 15:37:57
+79,0,Marketing,1,ojai,2019-01-21 15:37:57
+4,is_parent,Car,0,ojai,2019-01-21 15:37:57
+5,is_parent,Computer,2,ojai,2019-01-21 15:37:57
+29,5,Graphic Design,2,ojai,2019-01-21 15:37:57
+7,5,Website Editing,1,ojai,2019-01-21 15:37:57
+7,is_parent,Education,3,ojai,2019-01-21 15:37:57
+54,7,Advocacy,1,ojai,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,ojai,2019-01-21 15:37:57
+57,7,Languages / Translation,2,ojai,2019-01-21 15:37:57
+59,7,Tutoring K-12,2,ojai,2019-01-21 15:37:57
+2,is_parent,Help At Home,4,ojai,2019-01-21 15:37:57
+9,2,Child Care,1,ojai,2019-01-21 15:37:57
+22,2,Housekeeping,1,ojai,2019-01-21 15:37:57
+23,2,Pet Care,2,ojai,2019-01-21 15:37:57
+87,is_parent,Help Ojai Time Exchange!,1,ojai,2019-01-21 15:37:57
+88,87,OTX Design,1,ojai,2019-01-21 15:37:57
+9,is_parent,Home,4,ojai,2019-01-21 15:37:57
+74,9,Miscellaneous,2,ojai,2019-01-21 15:37:57
+7,9,Yard Work,2,ojai,2019-01-21 15:37:57
+98,is_parent,Kitchen,0,ojai,2019-01-21 15:37:57
+9,is_parent,Media,2,ojai,2019-01-21 15:37:57
+20,9,Film/Video,1,ojai,2019-01-21 15:37:57
+2,9,Music/Recording,1,ojai,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",15,orexchange,2019-01-21 15:37:57
+62,8,Crafts,4,orexchange,2019-01-21 15:37:57
+375,8,Music,1,orexchange,2019-01-21 15:37:57
+67,8,"Other Arts, Crafts & Music",3,orexchange,2019-01-21 15:37:57
+65,8,Photo & Video,8,orexchange,2019-01-21 15:37:57
+66,8,Theater,1,orexchange,2019-01-21 15:37:57
+0,is_parent,Business Services,14,orexchange,2019-01-21 15:37:57
+75,0,Clerical,3,orexchange,2019-01-21 15:37:57
+76,0,Computer Support,5,orexchange,2019-01-21 15:37:57
+77,0,Financial,1,orexchange,2019-01-21 15:37:57
+79,0,Marketing,1,orexchange,2019-01-21 15:37:57
+8,0,Other Business Services,5,orexchange,2019-01-21 15:37:57
+80,0,Research,1,orexchange,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,orexchange,2019-01-21 15:37:57
+34,4,Community Service,1,orexchange,2019-01-21 15:37:57
+340,4,Group Projects,1,orexchange,2019-01-21 15:37:57
+39,4,Other Community Activities,1,orexchange,2019-01-21 15:37:57
+38,4,Work For Social Change,1,orexchange,2019-01-21 15:37:57
+3,is_parent,Companionship,4,orexchange,2019-01-21 15:37:57
+27,3,Dining Out,1,orexchange,2019-01-21 15:37:57
+29,3,Home Visits,3,orexchange,2019-01-21 15:37:57
+7,is_parent,Education,16,orexchange,2019-01-21 15:37:57
+54,7,Advocacy,1,orexchange,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,orexchange,2019-01-21 15:37:57
+56,7,Computers / Technology,3,orexchange,2019-01-21 15:37:57
+57,7,Languages / Translation,4,orexchange,2019-01-21 15:37:57
+60,7,Other Education,2,orexchange,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,12,orexchange,2019-01-21 15:37:57
+345,is_parent,Elder Services,2,orexchange,2019-01-21 15:37:57
+348,345,"Companionship - reading, dining out",1,orexchange,2019-01-21 15:37:57
+347,345,Help at Home,1,orexchange,2019-01-21 15:37:57
+343,is_parent,For Youth/Children,6,orexchange,2019-01-21 15:37:57
+349,343,Child care,1,orexchange,2019-01-21 15:37:57
+356,343,Lessons/Classes for Youth/Children,5,orexchange,2019-01-21 15:37:57
+2,is_parent,Help At Home,17,orexchange,2019-01-21 15:37:57
+364,2,Cooking,2,orexchange,2019-01-21 15:37:57
+20,2,Cooking & Sewing,7,orexchange,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,orexchange,2019-01-21 15:37:57
+25,2,Other Help at Home,3,orexchange,2019-01-21 15:37:57
+23,2,Pet Care,3,orexchange,2019-01-21 15:37:57
+24,2,Respite (for caregivers),1,orexchange,2019-01-21 15:37:57
+365,2,Sewing,1,orexchange,2019-01-21 15:37:57
+9,is_parent,Home,9,orexchange,2019-01-21 15:37:57
+70,9,Electrical,1,orexchange,2019-01-21 15:37:57
+74,9,Miscellaneous,8,orexchange,2019-01-21 15:37:57
+366,is_parent,ORE Timebank,2,orexchange,2019-01-21 15:37:57
+373,366,Community Weaver Support,1,orexchange,2019-01-21 15:37:57
+370,366,Help our timebank,1,orexchange,2019-01-21 15:37:57
+82,is_parent,All Other Services,0,otaki,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,otaki,2019-01-21 15:37:57
+62,8,Crafts,1,otaki,2019-01-21 15:37:57
+0,is_parent,Business Services,1,otaki,2019-01-21 15:37:57
+79,0,Marketing,1,otaki,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,otaki,2019-01-21 15:37:57
+3,is_parent,Companionship,0,otaki,2019-01-21 15:37:57
+7,is_parent,Education,0,otaki,2019-01-21 15:37:57
+83,is_parent,For Sale,0,otaki,2019-01-21 15:37:57
+85,is_parent,Free Stuff,1,otaki,2019-01-21 15:37:57
+73,85,Free Stuff,1,otaki,2019-01-21 15:37:57
+88,is_parent,Garden,1,otaki,2019-01-21 15:37:57
+95,88,Produce exchange,1,otaki,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,otaki,2019-01-21 15:37:57
+9,is_parent,Home,0,otaki,2019-01-21 15:37:57
+6,is_parent,Recreation,0,otaki,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ourcommunity,2019-01-21 15:37:57
+0,is_parent,Business Services,0,ourcommunity,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ourcommunity,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ourcommunity,2019-01-21 15:37:57
+7,is_parent,Education,0,ourcommunity,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ourcommunity,2019-01-21 15:37:57
+9,is_parent,Home,0,ourcommunity,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,oscab,2019-01-21 15:37:57
+0,is_parent,Business Services,0,oscab,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,oscab,2019-01-21 15:37:57
+3,is_parent,Companionship,0,oscab,2019-01-21 15:37:57
+7,is_parent,Education,0,oscab,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,oscab,2019-01-21 15:37:57
+9,is_parent,Home,0,oscab,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,washingtoncountywi,2019-01-21 15:37:57
+6,8,Classes,1,washingtoncountywi,2019-01-21 15:37:57
+63,8,Entertainment,1,washingtoncountywi,2019-01-21 15:37:57
+66,8,Theater,1,washingtoncountywi,2019-01-21 15:37:57
+0,is_parent,Business Services,0,washingtoncountywi,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,washingtoncountywi,2019-01-21 15:37:57
+3,is_parent,Companionship,2,washingtoncountywi,2019-01-21 15:37:57
+27,3,Dining Out,1,washingtoncountywi,2019-01-21 15:37:57
+32,3,Miscellaneous,2,washingtoncountywi,2019-01-21 15:37:57
+7,is_parent,Education,0,washingtoncountywi,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,washingtoncountywi,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,washingtoncountywi,2019-01-21 15:37:57
+9,is_parent,Home,0,washingtoncountywi,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,ay4wardbank,2019-01-21 15:37:57
+20,8,Cooking & Sewing,1,ay4wardbank,2019-01-21 15:37:57
+64,8,Lessons,1,ay4wardbank,2019-01-21 15:37:57
+0,is_parent,Business Services,11,ay4wardbank,2019-01-21 15:37:57
+97,0,Beta Testers for Other Products,3,ay4wardbank,2019-01-21 15:37:57
+95,0,Beta Testers for Software,1,ay4wardbank,2019-01-21 15:37:57
+93,0,Beta Testers for Tech Products,2,ay4wardbank,2019-01-21 15:37:57
+75,0,Clerical and Admin work,1,ay4wardbank,2019-01-21 15:37:57
+87,0,Consulting,7,ay4wardbank,2019-01-21 15:37:57
+79,0,Marketing,3,ay4wardbank,2019-01-21 15:37:57
+8,0,Miscellaneous,3,ay4wardbank,2019-01-21 15:37:57
+88,0,"Start-Up Board Member, Advisor",4,ay4wardbank,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ay4wardbank,2019-01-21 15:37:57
+7,is_parent,Education,1,ay4wardbank,2019-01-21 15:37:57
+89,7,Six Sigma,1,ay4wardbank,2019-01-21 15:37:57
+9,is_parent,Home,0,ay4wardbank,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",5,atb,2019-01-21 15:37:57
+62,8,Crafts,3,atb,2019-01-21 15:37:57
+67,8,Miscellaneous,1,atb,2019-01-21 15:37:57
+65,8,Photo & Video,1,atb,2019-01-21 15:37:57
+0,is_parent,Business Services,7,atb,2019-01-21 15:37:57
+75,0,Clerical,1,atb,2019-01-21 15:37:57
+76,0,Computer Support,2,atb,2019-01-21 15:37:57
+77,0,Financial,1,atb,2019-01-21 15:37:57
+79,0,Marketing,2,atb,2019-01-21 15:37:57
+8,0,Miscellaneous,2,atb,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,atb,2019-01-21 15:37:57
+35,4,Fund-raising,1,atb,2019-01-21 15:37:57
+92,4,Socials,1,atb,2019-01-21 15:37:57
+37,4,Special Projects,1,atb,2019-01-21 15:37:57
+38,4,Work For Social Change,1,atb,2019-01-21 15:37:57
+3,is_parent,Companionship,2,atb,2019-01-21 15:37:57
+32,3,Miscellaneous,2,atb,2019-01-21 15:37:57
+7,is_parent,Education,7,atb,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,atb,2019-01-21 15:37:57
+56,7,Computers / Technology,1,atb,2019-01-21 15:37:57
+60,7,Miscellaneous,1,atb,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,4,atb,2019-01-21 15:37:57
+2,is_parent,Help At Home,6,atb,2019-01-21 15:37:57
+88,2,Cooking,2,atb,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,atb,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,atb,2019-01-21 15:37:57
+25,2,Miscellaneous,1,atb,2019-01-21 15:37:57
+20,2,Sewing,1,atb,2019-01-21 15:37:57
+9,is_parent,Home,1,atb,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,atb,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,orirua,2019-01-21 15:37:57
+62,8,Crafts,1,orirua,2019-01-21 15:37:57
+0,is_parent,Business Services,0,orirua,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,orirua,2019-01-21 15:37:57
+3,is_parent,Companionship,0,orirua,2019-01-21 15:37:57
+7,is_parent,Education,0,orirua,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,orirua,2019-01-21 15:37:57
+9,is_parent,Home,0,orirua,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ridestl,2019-01-21 15:37:57
+0,is_parent,Business Services,0,ridestl,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ridestl,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ridestl,2019-01-21 15:37:57
+7,is_parent,Education,0,ridestl,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ridestl,2019-01-21 15:37:57
+9,is_parent,Home,0,ridestl,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,rojectbunbury,2019-01-21 15:37:57
+0,is_parent,Business Services,0,rojectbunbury,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,rojectbunbury,2019-01-21 15:37:57
+3,is_parent,Companionship,0,rojectbunbury,2019-01-21 15:37:57
+7,is_parent,Education,2,rojectbunbury,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,rojectbunbury,2019-01-21 15:37:57
+60,7,Miscellaneous,1,rojectbunbury,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,rojectbunbury,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,rojectbunbury,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,rojectbunbury,2019-01-21 15:37:57
+9,is_parent,Home,0,rojectbunbury,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,reciprocity,2019-01-21 15:37:57
+0,is_parent,Business Services,2,reciprocity,2019-01-21 15:37:57
+8,0,Miscellaneous,1,reciprocity,2019-01-21 15:37:57
+80,0,Research,2,reciprocity,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,reciprocity,2019-01-21 15:37:57
+37,4,Special Projects,1,reciprocity,2019-01-21 15:37:57
+93,is_parent,Community Organizing,0,reciprocity,2019-01-21 15:37:57
+3,is_parent,Companionship,3,reciprocity,2019-01-21 15:37:57
+28,3,Email / IM,1,reciprocity,2019-01-21 15:37:57
+29,3,Home Visits,1,reciprocity,2019-01-21 15:37:57
+32,3,Miscellaneous,2,reciprocity,2019-01-21 15:37:57
+3,3,Telephone Calls,1,reciprocity,2019-01-21 15:37:57
+7,is_parent,Education,2,reciprocity,2019-01-21 15:37:57
+58,7,Personal Finances,1,reciprocity,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,reciprocity,2019-01-21 15:37:57
+2,is_parent,Help At Home,5,reciprocity,2019-01-21 15:37:57
+20,2,Cooking,2,reciprocity,2019-01-21 15:37:57
+2,2,Hair & Beauty,3,reciprocity,2019-01-21 15:37:57
+9,is_parent,Home,0,reciprocity,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,rvtb,2019-01-21 15:37:57
+0,is_parent,Business Services,0,rvtb,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,rvtb,2019-01-21 15:37:57
+3,is_parent,Companionship,0,rvtb,2019-01-21 15:37:57
+7,is_parent,Education,0,rvtb,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,rvtb,2019-01-21 15:37:57
+9,is_parent,Home,0,rvtb,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,scouts,2019-01-21 15:37:57
+63,8,Entertainment,1,scouts,2019-01-21 15:37:57
+67,8,Miscellaneous,1,scouts,2019-01-21 15:37:57
+65,8,Photo & Video,1,scouts,2019-01-21 15:37:57
+0,is_parent,Business Services,0,scouts,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,scouts,2019-01-21 15:37:57
+3,is_parent,Companionship,0,scouts,2019-01-21 15:37:57
+7,is_parent,Education,0,scouts,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,scouts,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,scouts,2019-01-21 15:37:57
+9,is_parent,Home,1,scouts,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,scouts,2019-01-21 15:37:57
+74,9,Miscellaneous,1,scouts,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",20,sebastopolarea,2019-01-21 15:37:57
+6,8,Classes,3,sebastopolarea,2019-01-21 15:37:57
+62,8,Crafts,4,sebastopolarea,2019-01-21 15:37:57
+63,8,Entertainment,1,sebastopolarea,2019-01-21 15:37:57
+64,8,Lessons,8,sebastopolarea,2019-01-21 15:37:57
+67,8,Miscellaneous,5,sebastopolarea,2019-01-21 15:37:57
+65,8,Photo & Video,3,sebastopolarea,2019-01-21 15:37:57
+35,8,Photo and video editing,1,sebastopolarea,2019-01-21 15:37:57
+66,8,Theater,1,sebastopolarea,2019-01-21 15:37:57
+20,8,Writing/Editing,3,sebastopolarea,2019-01-21 15:37:57
+0,is_parent,Business Services,12,sebastopolarea,2019-01-21 15:37:57
+76,0,Computer Support,3,sebastopolarea,2019-01-21 15:37:57
+77,0,Financial,2,sebastopolarea,2019-01-21 15:37:57
+78,0,Legal,1,sebastopolarea,2019-01-21 15:37:57
+23,0,Make presentations,1,sebastopolarea,2019-01-21 15:37:57
+79,0,Marketing,2,sebastopolarea,2019-01-21 15:37:57
+8,0,Miscellaneous,3,sebastopolarea,2019-01-21 15:37:57
+54,0,Organizing,1,sebastopolarea,2019-01-21 15:37:57
+80,0,Research,3,sebastopolarea,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,sebastopolarea,2019-01-21 15:37:57
+36,4,Donate My Hours to a good cause,1,sebastopolarea,2019-01-21 15:37:57
+29,4,Events - Food preparation,1,sebastopolarea,2019-01-21 15:37:57
+3,is_parent,Companionship,4,sebastopolarea,2019-01-21 15:37:57
+29,3,Home Visits,2,sebastopolarea,2019-01-21 15:37:57
+32,3,Miscellaneous,1,sebastopolarea,2019-01-21 15:37:57
+3,3,Telephone Calls,1,sebastopolarea,2019-01-21 15:37:57
+7,is_parent,Education,16,sebastopolarea,2019-01-21 15:37:57
+54,7,Advocacy,3,sebastopolarea,2019-01-21 15:37:57
+55,7,Classes / Workshops,5,sebastopolarea,2019-01-21 15:37:57
+56,7,Computers / Technology,3,sebastopolarea,2019-01-21 15:37:57
+60,7,Miscellaneous,4,sebastopolarea,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,5,sebastopolarea,2019-01-21 15:37:57
+37,is_parent,Emergency Services,2,sebastopolarea,2019-01-21 15:37:57
+45,37,Communication - computer,1,sebastopolarea,2019-01-21 15:37:57
+44,37,Communication - phone,1,sebastopolarea,2019-01-21 15:37:57
+38,37,Medical Expertise,1,sebastopolarea,2019-01-21 15:37:57
+5,is_parent,FIX-IT PARTIES,2,sebastopolarea,2019-01-21 15:37:57
+53,5,September Fix-it Party: Offer of supplies,2,sebastopolarea,2019-01-21 15:37:57
+2,is_parent,Help At Home,12,sebastopolarea,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,sebastopolarea,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,sebastopolarea,2019-01-21 15:37:57
+25,2,Miscellaneous,6,sebastopolarea,2019-01-21 15:37:57
+23,2,Pet Care,5,sebastopolarea,2019-01-21 15:37:57
+9,is_parent,Home,12,sebastopolarea,2019-01-21 15:37:57
+69,9,Carpentry / Construction,4,sebastopolarea,2019-01-21 15:37:57
+7,9,"Garden, Yard and Farm Work",1,sebastopolarea,2019-01-21 15:37:57
+74,9,Miscellaneous,7,sebastopolarea,2019-01-21 15:37:57
+55,9,Organizing,1,sebastopolarea,2019-01-21 15:37:57
+72,9,Painting,1,sebastopolarea,2019-01-21 15:37:57
+73,9,Plumbing,3,sebastopolarea,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,sobrantepark,2019-01-21 15:37:57
+0,is_parent,Business Services,0,sobrantepark,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,sobrantepark,2019-01-21 15:37:57
+3,is_parent,Companionship,0,sobrantepark,2019-01-21 15:37:57
+7,is_parent,Education,0,sobrantepark,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,sobrantepark,2019-01-21 15:37:57
+9,is_parent,Home,0,sobrantepark,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,springhillfl,2019-01-21 15:37:57
+62,8,Crafts,2,springhillfl,2019-01-21 15:37:57
+64,8,Lessons,2,springhillfl,2019-01-21 15:37:57
+0,is_parent,Business Services,4,springhillfl,2019-01-21 15:37:57
+76,0,Computer Support,1,springhillfl,2019-01-21 15:37:57
+8,0,Miscellaneous,3,springhillfl,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,springhillfl,2019-01-21 15:37:57
+34,4,Community Service,1,springhillfl,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,springhillfl,2019-01-21 15:37:57
+3,is_parent,Companionship,3,springhillfl,2019-01-21 15:37:57
+26,3,Clubs,1,springhillfl,2019-01-21 15:37:57
+27,3,Dining Out,2,springhillfl,2019-01-21 15:37:57
+32,3,Miscellaneous,1,springhillfl,2019-01-21 15:37:57
+3,3,Telephone Calls,1,springhillfl,2019-01-21 15:37:57
+7,is_parent,Education,3,springhillfl,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,springhillfl,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,springhillfl,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,springhillfl,2019-01-21 15:37:57
+9,is_parent,Home,0,springhillfl,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,spur,2019-01-21 15:37:57
+0,is_parent,Business Services,1,spur,2019-01-21 15:37:57
+77,0,Financial,1,spur,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,spur,2019-01-21 15:37:57
+3,is_parent,Companionship,0,spur,2019-01-21 15:37:57
+7,is_parent,Education,0,spur,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,spur,2019-01-21 15:37:57
+9,is_parent,Home,0,spur,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",16,stpete,2019-01-21 15:37:57
+6,8,Classes,4,stpete,2019-01-21 15:37:57
+62,8,Crafts,2,stpete,2019-01-21 15:37:57
+63,8,Entertainment,3,stpete,2019-01-21 15:37:57
+64,8,Lessons,7,stpete,2019-01-21 15:37:57
+65,8,Photo & Video,2,stpete,2019-01-21 15:37:57
+0,is_parent,Business Services,13,stpete,2019-01-21 15:37:57
+87,0,Administration,3,stpete,2019-01-21 15:37:57
+75,0,Clerical,2,stpete,2019-01-21 15:37:57
+76,0,Computer Support,2,stpete,2019-01-21 15:37:57
+77,0,Financial,1,stpete,2019-01-21 15:37:57
+78,0,Legal,1,stpete,2019-01-21 15:37:57
+79,0,Marketing,5,stpete,2019-01-21 15:37:57
+3,0,Professional Services,3,stpete,2019-01-21 15:37:57
+4,is_parent,Community Activities,10,stpete,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,2,stpete,2019-01-21 15:37:57
+34,4,Community Service,2,stpete,2019-01-21 15:37:57
+86,4,Group Projects,2,stpete,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,2,stpete,2019-01-21 15:37:57
+9,4,Social Activities,3,stpete,2019-01-21 15:37:57
+37,4,Special Projects,2,stpete,2019-01-21 15:37:57
+3,is_parent,Companionship,6,stpete,2019-01-21 15:37:57
+27,3,Dining Out,1,stpete,2019-01-21 15:37:57
+29,3,Home Visits,1,stpete,2019-01-21 15:37:57
+88,3,Meet For Coffee,4,stpete,2019-01-21 15:37:57
+7,is_parent,Education,17,stpete,2019-01-21 15:37:57
+54,7,Advocacy,2,stpete,2019-01-21 15:37:57
+55,7,Classes / Workshops,5,stpete,2019-01-21 15:37:57
+56,7,Computers / Technology,3,stpete,2019-01-21 15:37:57
+57,7,Languages / Translation,2,stpete,2019-01-21 15:37:57
+58,7,Personal Finances,1,stpete,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,7,stpete,2019-01-21 15:37:57
+92,is_parent,For Rent,5,stpete,2019-01-21 15:37:57
+94,92,Equipment Rental,3,stpete,2019-01-21 15:37:57
+93,92,Room Rent,2,stpete,2019-01-21 15:37:57
+2,is_parent,Help At Home/Domestic,17,stpete,2019-01-21 15:37:57
+9,2,Child Care,3,stpete,2019-01-21 15:37:57
+20,2,Cooking & Sewing,8,stpete,2019-01-21 15:37:57
+22,2,Housekeeping / Chores /Organization,4,stpete,2019-01-21 15:37:57
+23,2,Pet Care/Pet Sitting,2,stpete,2019-01-21 15:37:57
+24,2,Respite Care,1,stpete,2019-01-21 15:37:57
+9,is_parent,Home Maintenance,16,stpete,2019-01-21 15:37:57
+68,9,Car Care,1,stpete,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,stpete,2019-01-21 15:37:57
+90,9,Decorating,3,stpete,2019-01-21 15:37:57
+7,9,Garden & Yard Work,10,stpete,2019-01-21 15:37:57
+72,9,Painting,2,stpete,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,startribehours,2019-01-21 15:37:57
+6,8,Classes,1,startribehours,2019-01-21 15:37:57
+67,8,Miscellaneous,1,startribehours,2019-01-21 15:37:57
+0,is_parent,Business Services,2,startribehours,2019-01-21 15:37:57
+75,0,Clerical,1,startribehours,2019-01-21 15:37:57
+76,0,Computer Support,1,startribehours,2019-01-21 15:37:57
+90,0,Graphic Design,1,startribehours,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,startribehours,2019-01-21 15:37:57
+7,is_parent,Education,4,startribehours,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,startribehours,2019-01-21 15:37:57
+57,7,Languages / Translation,1,startribehours,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,startribehours,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,startribehours,2019-01-21 15:37:57
+9,2,Child Care,1,startribehours,2019-01-21 15:37:57
+3,is_parent,Home care,0,startribehours,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,swel,2019-01-21 15:37:57
+67,8,Miscellaneous,1,swel,2019-01-21 15:37:57
+0,is_parent,Business Services,7,swel,2019-01-21 15:37:57
+75,0,Clerical,1,swel,2019-01-21 15:37:57
+76,0,Computer Support,2,swel,2019-01-21 15:37:57
+77,0,Financial,1,swel,2019-01-21 15:37:57
+79,0,Marketing,1,swel,2019-01-21 15:37:57
+8,0,Miscellaneous,5,swel,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,swel,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,swel,2019-01-21 15:37:57
+39,4,Miscellaneous,4,swel,2019-01-21 15:37:57
+3,is_parent,Companionship,3,swel,2019-01-21 15:37:57
+30,3,Medical Errands,1,swel,2019-01-21 15:37:57
+32,3,Miscellaneous,2,swel,2019-01-21 15:37:57
+7,is_parent,Education,6,swel,2019-01-21 15:37:57
+60,7,Miscellaneous,6,swel,2019-01-21 15:37:57
+2,is_parent,Help At Home,18,swel,2019-01-21 15:37:57
+20,2,Cooking & Sewing,4,swel,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,swel,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,3,swel,2019-01-21 15:37:57
+25,2,Miscellaneous,11,swel,2019-01-21 15:37:57
+9,is_parent,Home,4,swel,2019-01-21 15:37:57
+74,9,Miscellaneous,4,swel,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,akomatime,2019-01-21 15:37:57
+6,8,Classes,1,akomatime,2019-01-21 15:37:57
+62,8,Crafts,1,akomatime,2019-01-21 15:37:57
+87,8,Knitting & Crochet,1,akomatime,2019-01-21 15:37:57
+0,is_parent,Business Services,2,akomatime,2019-01-21 15:37:57
+8,0,Miscellaneous,2,akomatime,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,akomatime,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,akomatime,2019-01-21 15:37:57
+39,4,Miscellaneous,2,akomatime,2019-01-21 15:37:57
+38,4,Work For Social Change,1,akomatime,2019-01-21 15:37:57
+3,is_parent,Companionship,0,akomatime,2019-01-21 15:37:57
+7,is_parent,Education,6,akomatime,2019-01-21 15:37:57
+57,7,Languages / Translation,1,akomatime,2019-01-21 15:37:57
+60,7,Miscellaneous,3,akomatime,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,akomatime,2019-01-21 15:37:57
+2,is_parent,Help At Home,2,akomatime,2019-01-21 15:37:57
+23,2,Pet Care,2,akomatime,2019-01-21 15:37:57
+9,is_parent,Home,0,akomatime,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",7,aneycounty,2019-01-21 15:37:57
+6,8,Classes,1,aneycounty,2019-01-21 15:37:57
+62,8,Crafts,1,aneycounty,2019-01-21 15:37:57
+64,8,Lessons,7,aneycounty,2019-01-21 15:37:57
+0,is_parent,Business Services,0,aneycounty,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,aneycounty,2019-01-21 15:37:57
+86,4,Group Projects,1,aneycounty,2019-01-21 15:37:57
+3,is_parent,Companionship,0,aneycounty,2019-01-21 15:37:57
+7,is_parent,Education,8,aneycounty,2019-01-21 15:37:57
+55,7,Classes / Workshops,7,aneycounty,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,aneycounty,2019-01-21 15:37:57
+2,is_parent,Help At Home,7,aneycounty,2019-01-21 15:37:57
+9,2,Child Care,1,aneycounty,2019-01-21 15:37:57
+20,2,Cooking & Sewing,4,aneycounty,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,aneycounty,2019-01-21 15:37:57
+25,2,Miscellaneous,1,aneycounty,2019-01-21 15:37:57
+9,is_parent,Home,2,aneycounty,2019-01-21 15:37:57
+74,9,Miscellaneous,2,aneycounty,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",13,aranaki,2019-01-21 15:37:57
+62,8,Art & Crafts,6,aranaki,2019-01-21 15:37:57
+8,8,Books,2,aranaki,2019-01-21 15:37:57
+32,8,Cooking,4,aranaki,2019-01-21 15:37:57
+63,8,Entertainment,1,aranaki,2019-01-21 15:37:57
+64,8,Lessons,2,aranaki,2019-01-21 15:37:57
+67,8,Miscellaneous,2,aranaki,2019-01-21 15:37:57
+0,is_parent,Business Services,9,aranaki,2019-01-21 15:37:57
+75,0,Clerical,4,aranaki,2019-01-21 15:37:57
+76,0,Computer Support,8,aranaki,2019-01-21 15:37:57
+77,0,Financial,2,aranaki,2019-01-21 15:37:57
+79,0,Marketing,1,aranaki,2019-01-21 15:37:57
+8,0,Miscellaneous,2,aranaki,2019-01-21 15:37:57
+4,is_parent,Community Activities,5,aranaki,2019-01-21 15:37:57
+34,4,Community Service,2,aranaki,2019-01-21 15:37:57
+35,4,Fund-raising,1,aranaki,2019-01-21 15:37:57
+39,4,Miscellaneous,2,aranaki,2019-01-21 15:37:57
+3,is_parent,Companionship,3,aranaki,2019-01-21 15:37:57
+3,3,"Communication (Telephone Calls, emails...)",1,aranaki,2019-01-21 15:37:57
+32,3,Miscellaneous,1,aranaki,2019-01-21 15:37:57
+38,3,Socializing,1,aranaki,2019-01-21 15:37:57
+7,is_parent,Education,17,aranaki,2019-01-21 15:37:57
+54,7,Advocacy,4,aranaki,2019-01-21 15:37:57
+55,7,Classes / Workshops,5,aranaki,2019-01-21 15:37:57
+56,7,Computers / Technology,3,aranaki,2019-01-21 15:37:57
+57,7,Languages / Translation,3,aranaki,2019-01-21 15:37:57
+60,7,Miscellaneous,3,aranaki,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,8,aranaki,2019-01-21 15:37:57
+2,is_parent,Help At Home,12,aranaki,2019-01-21 15:37:57
+9,2,Child Care,4,aranaki,2019-01-21 15:37:57
+20,2,Cooking & Sewing,4,aranaki,2019-01-21 15:37:57
+25,2,Miscellaneous,3,aranaki,2019-01-21 15:37:57
+23,2,Pet Care,1,aranaki,2019-01-21 15:37:57
+26,is_parent,Help our Timebank,0,aranaki,2019-01-21 15:37:57
+9,is_parent,Home,7,aranaki,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,aranaki,2019-01-21 15:37:57
+7,9,Garden & Yard Work,6,aranaki,2019-01-21 15:37:57
+74,9,Miscellaneous,4,aranaki,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+0,is_parent,Business Services,0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+3,is_parent,Companionship,0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+7,is_parent,Education,0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+9,is_parent,Home,0,est-launch-2018-07-28-2058,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,ecommunityprojec,2019-01-21 15:37:57
+6,8,Classes,1,ecommunityprojec,2019-01-21 15:37:57
+0,is_parent,Business Services,2,ecommunityprojec,2019-01-21 15:37:57
+79,0,Marketing,2,ecommunityprojec,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ecommunityprojec,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ecommunityprojec,2019-01-21 15:37:57
+7,is_parent,Education,3,ecommunityprojec,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,ecommunityprojec,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ecommunityprojec,2019-01-21 15:37:57
+9,is_parent,Home,0,ecommunityprojec,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",8,uttsou,2019-01-21 15:37:57
+6,8,Classes,2,uttsou,2019-01-21 15:37:57
+62,8,Crafts,3,uttsou,2019-01-21 15:37:57
+63,8,Entertainment,1,uttsou,2019-01-21 15:37:57
+64,8,Lessons,2,uttsou,2019-01-21 15:37:57
+67,8,Miscellaneous,1,uttsou,2019-01-21 15:37:57
+0,is_parent,Business Services,2,uttsou,2019-01-21 15:37:57
+76,0,Computer Support,1,uttsou,2019-01-21 15:37:57
+77,0,Financial,1,uttsou,2019-01-21 15:37:57
+4,is_parent,Community Activities,5,uttsou,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,uttsou,2019-01-21 15:37:57
+34,4,Community Service,2,uttsou,2019-01-21 15:37:57
+86,4,Group Projects,2,uttsou,2019-01-21 15:37:57
+39,4,Miscellaneous,2,uttsou,2019-01-21 15:37:57
+38,4,Work For Social Change,2,uttsou,2019-01-21 15:37:57
+3,is_parent,Companionship,2,uttsou,2019-01-21 15:37:57
+26,3,Clubs,1,uttsou,2019-01-21 15:37:57
+27,3,Dining Out,1,uttsou,2019-01-21 15:37:57
+7,is_parent,Education,8,uttsou,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,uttsou,2019-01-21 15:37:57
+56,7,Computers / Technology,2,uttsou,2019-01-21 15:37:57
+57,7,Languages / Translation,1,uttsou,2019-01-21 15:37:57
+60,7,Miscellaneous,1,uttsou,2019-01-21 15:37:57
+58,7,Personal Finances,2,uttsou,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,uttsou,2019-01-21 15:37:57
+2,is_parent,Help At Home,16,uttsou,2019-01-21 15:37:57
+20,2,Cooking,8,uttsou,2019-01-21 15:37:57
+2,2,Hair & Beauty,4,uttsou,2019-01-21 15:37:57
+25,2,Miscellaneous,3,uttsou,2019-01-21 15:37:57
+87,2,sewing,2,uttsou,2019-01-21 15:37:57
+9,is_parent,Home,6,uttsou,2019-01-21 15:37:57
+7,9,Garden & Yard Work,4,uttsou,2019-01-21 15:37:57
+74,9,Miscellaneous,2,uttsou,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,lyttelton,2019-01-21 15:37:57
+67,8,Miscellaneous,2,lyttelton,2019-01-21 15:37:57
+0,is_parent,Business Services,2,lyttelton,2019-01-21 15:37:57
+75,0,Clerical,1,lyttelton,2019-01-21 15:37:57
+76,0,Computer Support,1,lyttelton,2019-01-21 15:37:57
+77,0,Financial,1,lyttelton,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,lyttelton,2019-01-21 15:37:57
+34,4,Community Service,1,lyttelton,2019-01-21 15:37:57
+37,4,Special Projects,1,lyttelton,2019-01-21 15:37:57
+3,is_parent,Companionship,0,lyttelton,2019-01-21 15:37:57
+7,is_parent,Education,2,lyttelton,2019-01-21 15:37:57
+60,7,Miscellaneous,1,lyttelton,2019-01-21 15:37:57
+58,7,Personal Finances,1,lyttelton,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,lyttelton,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,lyttelton,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,lyttelton,2019-01-21 15:37:57
+25,2,Miscellaneous,1,lyttelton,2019-01-21 15:37:57
+23,2,Pet Care,1,lyttelton,2019-01-21 15:37:57
+9,is_parent,Home,1,lyttelton,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,lyttelton,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,sanctuaryseniorvillage,2019-01-21 15:37:57
+0,is_parent,Business Services,0,sanctuaryseniorvillage,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,sanctuaryseniorvillage,2019-01-21 15:37:57
+3,is_parent,Companionship,1,sanctuaryseniorvillage,2019-01-21 15:37:57
+3,3,Telephone Calls,1,sanctuaryseniorvillage,2019-01-21 15:37:57
+7,is_parent,Education,0,sanctuaryseniorvillage,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,sanctuaryseniorvillage,2019-01-21 15:37:57
+9,is_parent,Home,0,sanctuaryseniorvillage,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",10,ierrasanta,2019-01-21 15:37:57
+6,8,Classes,1,ierrasanta,2019-01-21 15:37:57
+62,8,Crafts,5,ierrasanta,2019-01-21 15:37:57
+63,8,Entertainment,2,ierrasanta,2019-01-21 15:37:57
+64,8,Lessons,1,ierrasanta,2019-01-21 15:37:57
+67,8,Miscellaneous,1,ierrasanta,2019-01-21 15:37:57
+65,8,Photo & Video,2,ierrasanta,2019-01-21 15:37:57
+0,is_parent,Business Services,10,ierrasanta,2019-01-21 15:37:57
+75,0,Clerical,4,ierrasanta,2019-01-21 15:37:57
+76,0,Computer Support,5,ierrasanta,2019-01-21 15:37:57
+8,0,Miscellaneous,2,ierrasanta,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,ierrasanta,2019-01-21 15:37:57
+86,4,Group Projects,1,ierrasanta,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,ierrasanta,2019-01-21 15:37:57
+39,4,Miscellaneous,1,ierrasanta,2019-01-21 15:37:57
+3,is_parent,Companionship,5,ierrasanta,2019-01-21 15:37:57
+27,3,Dining Out,1,ierrasanta,2019-01-21 15:37:57
+29,3,Home Visits,1,ierrasanta,2019-01-21 15:37:57
+32,3,Miscellaneous,3,ierrasanta,2019-01-21 15:37:57
+7,is_parent,Education,14,ierrasanta,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,ierrasanta,2019-01-21 15:37:57
+56,7,Computers / Technology,8,ierrasanta,2019-01-21 15:37:57
+57,7,Languages / Translation,3,ierrasanta,2019-01-21 15:37:57
+60,7,Miscellaneous,2,ierrasanta,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,ierrasanta,2019-01-21 15:37:57
+2,is_parent,Help At Home,18,ierrasanta,2019-01-21 15:37:57
+20,2,Cooking & Sewing,4,ierrasanta,2019-01-21 15:37:57
+25,2,Miscellaneous,8,ierrasanta,2019-01-21 15:37:57
+23,2,Pet Care,3,ierrasanta,2019-01-21 15:37:57
+24,2,Respite Care,3,ierrasanta,2019-01-21 15:37:57
+9,is_parent,Home,12,ierrasanta,2019-01-21 15:37:57
+68,9,Car Care,1,ierrasanta,2019-01-21 15:37:57
+70,9,Electrical,1,ierrasanta,2019-01-21 15:37:57
+7,9,Garden & Yard Work,5,ierrasanta,2019-01-21 15:37:57
+74,9,Miscellaneous,4,ierrasanta,2019-01-21 15:37:57
+73,9,Plumbing,1,ierrasanta,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,galesburgil,2019-01-21 15:37:57
+0,is_parent,Business Services,0,galesburgil,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,galesburgil,2019-01-21 15:37:57
+3,is_parent,Companionship,0,galesburgil,2019-01-21 15:37:57
+7,is_parent,Education,0,galesburgil,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,galesburgil,2019-01-21 15:37:57
+9,is_parent,Home,0,galesburgil,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,westmilford,2019-01-21 15:37:57
+65,8,Photo & Video,1,westmilford,2019-01-21 15:37:57
+0,is_parent,Business Services,0,westmilford,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,westmilford,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,westmilford,2019-01-21 15:37:57
+3,is_parent,Companionship,0,westmilford,2019-01-21 15:37:57
+7,is_parent,Education,0,westmilford,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,westmilford,2019-01-21 15:37:57
+9,is_parent,Home,0,westmilford,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,stannsbay,2019-01-21 15:37:57
+62,8,Crafts,3,stannsbay,2019-01-21 15:37:57
+64,8,Lessons,1,stannsbay,2019-01-21 15:37:57
+0,is_parent,Business Services,6,stannsbay,2019-01-21 15:37:57
+76,0,Computer Support,3,stannsbay,2019-01-21 15:37:57
+79,0,Marketing,2,stannsbay,2019-01-21 15:37:57
+8,0,Miscellaneous,3,stannsbay,2019-01-21 15:37:57
+4,is_parent,Community Activities,13,stannsbay,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,stannsbay,2019-01-21 15:37:57
+34,4,Community Service,2,stannsbay,2019-01-21 15:37:57
+86,4,Group Projects,11,stannsbay,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,stannsbay,2019-01-21 15:37:57
+39,4,Miscellaneous,1,stannsbay,2019-01-21 15:37:57
+37,4,Special Projects,1,stannsbay,2019-01-21 15:37:57
+3,is_parent,Companionship,10,stannsbay,2019-01-21 15:37:57
+27,3,Dining Out,1,stannsbay,2019-01-21 15:37:57
+29,3,Home Visits,4,stannsbay,2019-01-21 15:37:57
+3,3,Telephone Calls,6,stannsbay,2019-01-21 15:37:57
+7,is_parent,Education,8,stannsbay,2019-01-21 15:37:57
+54,7,Advocacy,1,stannsbay,2019-01-21 15:37:57
+55,7,Classes / Workshops,2,stannsbay,2019-01-21 15:37:57
+56,7,Computers / Technology,2,stannsbay,2019-01-21 15:37:57
+57,7,Languages / Translation,1,stannsbay,2019-01-21 15:37:57
+60,7,Miscellaneous,1,stannsbay,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,3,stannsbay,2019-01-21 15:37:57
+2,is_parent,Help At Home,13,stannsbay,2019-01-21 15:37:57
+20,2,Cooking & Sewing,10,stannsbay,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,stannsbay,2019-01-21 15:37:57
+23,2,Pet Care,2,stannsbay,2019-01-21 15:37:57
+24,2,Respite Care,2,stannsbay,2019-01-21 15:37:57
+9,is_parent,Home,7,stannsbay,2019-01-21 15:37:57
+7,9,Garden & Yard Work,4,stannsbay,2019-01-21 15:37:57
+74,9,Miscellaneous,2,stannsbay,2019-01-21 15:37:57
+73,9,Plumbing,1,stannsbay,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,kaikoura,2019-01-21 15:37:57
+0,is_parent,Business Services,0,kaikoura,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,kaikoura,2019-01-21 15:37:57
+3,is_parent,Companionship,0,kaikoura,2019-01-21 15:37:57
+7,is_parent,Education,0,kaikoura,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,kaikoura,2019-01-21 15:37:57
+9,is_parent,Home,0,kaikoura,2019-01-21 15:37:57
+92,is_parent,Kaikoura Specific,0,kaikoura,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",5,mainetime,2019-01-21 15:37:57
+6,8,Classes,1,mainetime,2019-01-21 15:37:57
+63,8,Entertainment,3,mainetime,2019-01-21 15:37:57
+64,8,Lessons,2,mainetime,2019-01-21 15:37:57
+67,8,Miscellaneous,1,mainetime,2019-01-21 15:37:57
+65,8,Photo & Video,1,mainetime,2019-01-21 15:37:57
+0,is_parent,Business Services,4,mainetime,2019-01-21 15:37:57
+75,0,Clerical,1,mainetime,2019-01-21 15:37:57
+77,0,Financial,2,mainetime,2019-01-21 15:37:57
+78,0,Legal,1,mainetime,2019-01-21 15:37:57
+4,is_parent,Community Activities,7,mainetime,2019-01-21 15:37:57
+34,4,Community Service,3,mainetime,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,2,mainetime,2019-01-21 15:37:57
+39,4,Miscellaneous,2,mainetime,2019-01-21 15:37:57
+38,4,Work For Social Change,1,mainetime,2019-01-21 15:37:57
+3,is_parent,Companionship,0,mainetime,2019-01-21 15:37:57
+7,is_parent,Education,11,mainetime,2019-01-21 15:37:57
+54,7,Advocacy,1,mainetime,2019-01-21 15:37:57
+55,7,Classes / Workshops,3,mainetime,2019-01-21 15:37:57
+56,7,Computers / Technology,1,mainetime,2019-01-21 15:37:57
+57,7,Languages / Translation,1,mainetime,2019-01-21 15:37:57
+58,7,Personal Finances,1,mainetime,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,6,mainetime,2019-01-21 15:37:57
+2,is_parent,Help At Home,4,mainetime,2019-01-21 15:37:57
+92,2,Cooking,1,mainetime,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,mainetime,2019-01-21 15:37:57
+25,2,Miscellaneous,3,mainetime,2019-01-21 15:37:57
+9,is_parent,Home,3,mainetime,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,mainetime,2019-01-21 15:37:57
+95,9,Organizing,1,mainetime,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,newzealand,2019-01-21 15:37:57
+0,is_parent,Business Services,0,newzealand,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,newzealand,2019-01-21 15:37:57
+3,is_parent,Companionship,0,newzealand,2019-01-21 15:37:57
+7,is_parent,Education,1,newzealand,2019-01-21 15:37:57
+60,7,Miscellaneous,1,newzealand,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,newzealand,2019-01-21 15:37:57
+9,is_parent,Home,1,newzealand,2019-01-21 15:37:57
+74,9,Miscellaneous,1,newzealand,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,bfredericton,2019-01-21 15:37:57
+0,is_parent,Business Services,0,bfredericton,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,bfredericton,2019-01-21 15:37:57
+3,is_parent,Companionship,0,bfredericton,2019-01-21 15:37:57
+7,is_parent,Education,1,bfredericton,2019-01-21 15:37:57
+57,7,Languages / Translation,1,bfredericton,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,bfredericton,2019-01-21 15:37:57
+9,is_parent,Home,0,bfredericton,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,bhawaii,2019-01-21 15:37:57
+0,is_parent,Business Services,0,bhawaii,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,bhawaii,2019-01-21 15:37:57
+3,is_parent,Companionship,0,bhawaii,2019-01-21 15:37:57
+7,is_parent,Education,0,bhawaii,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,bhawaii,2019-01-21 15:37:57
+9,is_parent,Home,0,bhawaii,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,urunui,2019-01-21 15:37:57
+6,8,Classes,1,urunui,2019-01-21 15:37:57
+62,8,Crafts,1,urunui,2019-01-21 15:37:57
+64,8,Lessons,1,urunui,2019-01-21 15:37:57
+0,is_parent,Business Services,2,urunui,2019-01-21 15:37:57
+77,0,Financial,1,urunui,2019-01-21 15:37:57
+79,0,Marketing,1,urunui,2019-01-21 15:37:57
+8,0,Miscellaneous,1,urunui,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,urunui,2019-01-21 15:37:57
+34,4,Community Service,1,urunui,2019-01-21 15:37:57
+35,4,Fund-raising,1,urunui,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,urunui,2019-01-21 15:37:57
+3,is_parent,Companionship,3,urunui,2019-01-21 15:37:57
+29,3,Home Visits,1,urunui,2019-01-21 15:37:57
+225,3,Walking/biking,2,urunui,2019-01-21 15:37:57
+72,is_parent,Eco-Living/Sustainable Solutions,1,urunui,2019-01-21 15:37:57
+78,72,Community food projects,1,urunui,2019-01-21 15:37:57
+7,is_parent,Education,1,urunui,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,urunui,2019-01-21 15:37:57
+2,is_parent,Help At Home,2,urunui,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,urunui,2019-01-21 15:37:57
+24,2,Respite Care,1,urunui,2019-01-21 15:37:57
+36,is_parent,Help Our TimeBank!,0,urunui,2019-01-21 15:37:57
+9,is_parent,Home,3,urunui,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,urunui,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,urunui,2019-01-21 15:37:57
+218,is_parent,Local/National Culture & Knowledge,3,urunui,2019-01-21 15:37:57
+223,218,Genealogy,1,urunui,2019-01-21 15:37:57
+219,218,History,1,urunui,2019-01-21 15:37:57
+226,218,Walking trails,2,urunui,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",5,mcs1stopindy,2019-01-21 15:37:57
+62,8,Crafts,2,mcs1stopindy,2019-01-21 15:37:57
+64,8,Lessons,3,mcs1stopindy,2019-01-21 15:37:57
+67,8,Miscellaneous,2,mcs1stopindy,2019-01-21 15:37:57
+65,8,Photo & Video,1,mcs1stopindy,2019-01-21 15:37:57
+0,is_parent,Business Services,3,mcs1stopindy,2019-01-21 15:37:57
+79,0,Marketing,1,mcs1stopindy,2019-01-21 15:37:57
+8,0,Miscellaneous,1,mcs1stopindy,2019-01-21 15:37:57
+80,0,Research,1,mcs1stopindy,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,mcs1stopindy,2019-01-21 15:37:57
+37,4,Special Projects,1,mcs1stopindy,2019-01-21 15:37:57
+38,4,Work For Social Change,1,mcs1stopindy,2019-01-21 15:37:57
+3,is_parent,Companionship,1,mcs1stopindy,2019-01-21 15:37:57
+27,3,Dining Out,1,mcs1stopindy,2019-01-21 15:37:57
+29,3,Home Visits,1,mcs1stopindy,2019-01-21 15:37:57
+32,3,Miscellaneous,1,mcs1stopindy,2019-01-21 15:37:57
+7,is_parent,Education (General),3,mcs1stopindy,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,mcs1stopindy,2019-01-21 15:37:57
+60,7,Miscellaneous,1,mcs1stopindy,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,mcs1stopindy,2019-01-21 15:37:57
+93,is_parent,Education (Sustainable Living),3,mcs1stopindy,2019-01-21 15:37:57
+95,93,Fiber Arts,1,mcs1stopindy,2019-01-21 15:37:57
+97,93,Permaculture & Gardening,2,mcs1stopindy,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,mcs1stopindy,2019-01-21 15:37:57
+87,2,Sewing,1,mcs1stopindy,2019-01-21 15:37:57
+9,is_parent,Home,3,mcs1stopindy,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,mcs1stopindy,2019-01-21 15:37:57
+74,9,Miscellaneous,1,mcs1stopindy,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",6,manawatu,2019-01-21 15:37:57
+6,8,Classes,3,manawatu,2019-01-21 15:37:57
+62,8,Crafts,1,manawatu,2019-01-21 15:37:57
+64,8,Lessons,3,manawatu,2019-01-21 15:37:57
+67,8,Miscellaneous,1,manawatu,2019-01-21 15:37:57
+65,8,Photo & Video,1,manawatu,2019-01-21 15:37:57
+0,is_parent,Business Services,6,manawatu,2019-01-21 15:37:57
+76,0,Computer Support,3,manawatu,2019-01-21 15:37:57
+8,0,Miscellaneous,2,manawatu,2019-01-21 15:37:57
+80,0,Research,1,manawatu,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,manawatu,2019-01-21 15:37:57
+37,4,Special Projects,1,manawatu,2019-01-21 15:37:57
+38,4,Work For Social Change,1,manawatu,2019-01-21 15:37:57
+3,is_parent,Companionship,3,manawatu,2019-01-21 15:37:57
+28,3,Email / IM,1,manawatu,2019-01-21 15:37:57
+29,3,Home Visits,2,manawatu,2019-01-21 15:37:57
+32,3,Miscellaneous,3,manawatu,2019-01-21 15:37:57
+7,is_parent,Education,14,manawatu,2019-01-21 15:37:57
+54,7,Advocacy,1,manawatu,2019-01-21 15:37:57
+55,7,Classes / Workshops,3,manawatu,2019-01-21 15:37:57
+56,7,Computers / Technology,2,manawatu,2019-01-21 15:37:57
+57,7,Languages / Translation,4,manawatu,2019-01-21 15:37:57
+60,7,Miscellaneous,4,manawatu,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,manawatu,2019-01-21 15:37:57
+2,is_parent,Help At Home,8,manawatu,2019-01-21 15:37:57
+9,2,Child Care,1,manawatu,2019-01-21 15:37:57
+20,2,Cooking & Sewing,2,manawatu,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,manawatu,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,manawatu,2019-01-21 15:37:57
+25,2,Miscellaneous,3,manawatu,2019-01-21 15:37:57
+24,2,Respite Care,1,manawatu,2019-01-21 15:37:57
+9,is_parent,Home,6,manawatu,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,manawatu,2019-01-21 15:37:57
+7,9,Garden & Yard Work,4,manawatu,2019-01-21 15:37:57
+74,9,Miscellaneous,2,manawatu,2019-01-21 15:37:57
+72,9,Painting,1,manawatu,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,media,2019-01-21 15:37:57
+6,8,Classes,1,media,2019-01-21 15:37:57
+62,8,Crafts,1,media,2019-01-21 15:37:57
+64,8,Lessons,1,media,2019-01-21 15:37:57
+67,8,Miscellaneous,1,media,2019-01-21 15:37:57
+0,is_parent,Business Services,1,media,2019-01-21 15:37:57
+8,0,Miscellaneous,1,media,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,media,2019-01-21 15:37:57
+3,is_parent,Companionship,0,media,2019-01-21 15:37:57
+7,is_parent,Education (non-reskilling),1,media,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,media,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,media,2019-01-21 15:37:57
+23,2,Pet Care,1,media,2019-01-21 15:37:57
+9,is_parent,Home,0,media,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",2,nb,2019-01-21 15:37:57
+64,8,Lessons,1,nb,2019-01-21 15:37:57
+67,8,Miscellaneous,1,nb,2019-01-21 15:37:57
+0,is_parent,Business Services,7,nb,2019-01-21 15:37:57
+75,0,Clerical,1,nb,2019-01-21 15:37:57
+76,0,Computer Support,2,nb,2019-01-21 15:37:57
+79,0,Marketing,3,nb,2019-01-21 15:37:57
+8,0,Miscellaneous,6,nb,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,nb,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,nb,2019-01-21 15:37:57
+34,4,Community Service,1,nb,2019-01-21 15:37:57
+37,4,Special Projects,2,nb,2019-01-21 15:37:57
+38,4,Work For Social Change,1,nb,2019-01-21 15:37:57
+3,is_parent,Companionship,2,nb,2019-01-21 15:37:57
+26,3,Clubs,1,nb,2019-01-21 15:37:57
+32,3,Miscellaneous,1,nb,2019-01-21 15:37:57
+7,is_parent,Education,3,nb,2019-01-21 15:37:57
+57,7,Languages / Translation,1,nb,2019-01-21 15:37:57
+60,7,Miscellaneous,1,nb,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,nb,2019-01-21 15:37:57
+2,is_parent,Help At Home,5,nb,2019-01-21 15:37:57
+9,2,Child Care,1,nb,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,nb,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,2,nb,2019-01-21 15:37:57
+25,2,Miscellaneous,2,nb,2019-01-21 15:37:57
+23,2,Pet Care,1,nb,2019-01-21 15:37:57
+24,2,Respite Care,1,nb,2019-01-21 15:37:57
+9,is_parent,Home,5,nb,2019-01-21 15:37:57
+7,9,Garden & Yard Work,3,nb,2019-01-21 15:37:57
+74,9,Miscellaneous,3,nb,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",6,raglan,2019-01-21 15:37:57
+6,8,Classes,3,raglan,2019-01-21 15:37:57
+62,8,Crafts,1,raglan,2019-01-21 15:37:57
+64,8,Lessons,1,raglan,2019-01-21 15:37:57
+67,8,Miscellaneous,1,raglan,2019-01-21 15:37:57
+65,8,Photo & Video,1,raglan,2019-01-21 15:37:57
+0,is_parent,Business Services,4,raglan,2019-01-21 15:37:57
+75,0,Clerical,1,raglan,2019-01-21 15:37:57
+76,0,Computer Support,3,raglan,2019-01-21 15:37:57
+8,0,Miscellaneous,2,raglan,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,raglan,2019-01-21 15:37:57
+3,is_parent,Companionship,0,raglan,2019-01-21 15:37:57
+7,is_parent,Education,3,raglan,2019-01-21 15:37:57
+56,7,Computers / Technology,1,raglan,2019-01-21 15:37:57
+60,7,Miscellaneous,1,raglan,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,raglan,2019-01-21 15:37:57
+2,is_parent,Help At Home,3,raglan,2019-01-21 15:37:57
+9,2,Child Care,1,raglan,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,raglan,2019-01-21 15:37:57
+25,2,Miscellaneous,1,raglan,2019-01-21 15:37:57
+9,is_parent,Home,3,raglan,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,raglan,2019-01-21 15:37:57
+74,9,Miscellaneous,2,raglan,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,upperhu,2019-01-21 15:37:57
+62,8,Crafts,3,upperhu,2019-01-21 15:37:57
+0,is_parent,Business Services,0,upperhu,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,upperhu,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,upperhu,2019-01-21 15:37:57
+3,is_parent,Companionship,1,upperhu,2019-01-21 15:37:57
+30,3,Medical Errands,1,upperhu,2019-01-21 15:37:57
+7,is_parent,Education,3,upperhu,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,upperhu,2019-01-21 15:37:57
+56,7,Computers / Technology,1,upperhu,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,2,upperhu,2019-01-21 15:37:57
+2,is_parent,Help At Home,4,upperhu,2019-01-21 15:37:57
+9,2,Child Care,2,upperhu,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,upperhu,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,upperhu,2019-01-21 15:37:57
+9,is_parent,Home,1,upperhu,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,upperhu,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,waimakariri,2019-01-21 15:37:57
+0,is_parent,Business Services,2,waimakariri,2019-01-21 15:37:57
+76,0,Computer Support,2,waimakariri,2019-01-21 15:37:57
+79,0,Marketing,1,waimakariri,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,waimakariri,2019-01-21 15:37:57
+3,is_parent,Companionship,0,waimakariri,2019-01-21 15:37:57
+7,is_parent,Education,3,waimakariri,2019-01-21 15:37:57
+56,7,Computers / Technology,2,waimakariri,2019-01-21 15:37:57
+60,7,Miscellaneous,1,waimakariri,2019-01-21 15:37:57
+2,is_parent,Help At Home,3,waimakariri,2019-01-21 15:37:57
+9,2,Child Care,1,waimakariri,2019-01-21 15:37:57
+25,2,Miscellaneous,1,waimakariri,2019-01-21 15:37:57
+23,2,Pet Care,1,waimakariri,2019-01-21 15:37:57
+9,is_parent,Home,0,waimakariri,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,b13069,2019-01-21 15:37:57
+0,is_parent,Business Services,0,b13069,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,b13069,2019-01-21 15:37:57
+3,is_parent,Companionship,0,b13069,2019-01-21 15:37:57
+7,is_parent,Education,0,b13069,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,b13069,2019-01-21 15:37:57
+9,is_parent,Home,0,b13069,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,ops,2019-01-21 15:37:57
+62,8,Crafts,1,ops,2019-01-21 15:37:57
+22,is_parent,Board Volunteer Work,0,ops,2019-01-21 15:37:57
+0,is_parent,Business Services,5,ops,2019-01-21 15:37:57
+75,0,Clerical,1,ops,2019-01-21 15:37:57
+76,0,Computer Support,3,ops,2019-01-21 15:37:57
+77,0,Financial,1,ops,2019-01-21 15:37:57
+8,0,Miscellaneous,1,ops,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,ops,2019-01-21 15:37:57
+38,4,Work For Social Change,1,ops,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ops,2019-01-21 15:37:57
+7,is_parent,Education,3,ops,2019-01-21 15:37:57
+56,7,Computers / Technology,3,ops,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,ops,2019-01-21 15:37:57
+2,is_parent,Help At Home,9,ops,2019-01-21 15:37:57
+9,2,Child Care,1,ops,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,ops,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,ops,2019-01-21 15:37:57
+25,2,Miscellaneous,2,ops,2019-01-21 15:37:57
+23,2,Pet Care,4,ops,2019-01-21 15:37:57
+24,2,Respite Care,1,ops,2019-01-21 15:37:57
+9,is_parent,Home,3,ops,2019-01-21 15:37:57
+7,9,Garden & Yard Work,1,ops,2019-01-21 15:37:57
+74,9,Miscellaneous,2,ops,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music(예술, 공예&음악)",0,korea,2019-01-21 15:37:57
+0,is_parent,Business Services(비즈니스 서비스),0,korea,2019-01-21 15:37:57
+4,is_parent,Community Activities(커뮤니티 활동),0,korea,2019-01-21 15:37:57
+3,is_parent,"Companionship(동료애, 우정)",0,korea,2019-01-21 15:37:57
+7,is_parent,Education(교육),0,korea,2019-01-21 15:37:57
+2,is_parent,Help At Home(가사도움),0,korea,2019-01-21 15:37:57
+9,is_parent,"Home(집, 가정)",0,korea,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,lv,2019-01-21 15:37:57
+0,is_parent,Business Services,0,lv,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,lv,2019-01-21 15:37:57
+3,is_parent,Companionship,0,lv,2019-01-21 15:37:57
+7,is_parent,Education,0,lv,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,lv,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,lv,2019-01-21 15:37:57
+9,is_parent,Home,0,lv,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,imeforall,2019-01-21 15:37:57
+0,is_parent,Business Services,3,imeforall,2019-01-21 15:37:57
+76,0,Computer Support,2,imeforall,2019-01-21 15:37:57
+8,0,Miscellaneous,1,imeforall,2019-01-21 15:37:57
+4,is_parent,Community Activities,4,imeforall,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,imeforall,2019-01-21 15:37:57
+38,4,Work For Social Change,4,imeforall,2019-01-21 15:37:57
+3,is_parent,Companionship,0,imeforall,2019-01-21 15:37:57
+7,is_parent,Education,2,imeforall,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,imeforall,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,imeforall,2019-01-21 15:37:57
+9,is_parent,Home,0,imeforall,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,imetradersnor,2019-01-21 15:37:57
+0,is_parent,Business Services,1,imetradersnor,2019-01-21 15:37:57
+79,0,Marketing,1,imetradersnor,2019-01-21 15:37:57
+8,0,Miscellaneous,1,imetradersnor,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,imetradersnor,2019-01-21 15:37:57
+3,is_parent,Companionship,0,imetradersnor,2019-01-21 15:37:57
+7,is_parent,Education,1,imetradersnor,2019-01-21 15:37:57
+60,7,Miscellaneous,1,imetradersnor,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,imetradersnor,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,imetradersnor,2019-01-21 15:37:57
+9,is_parent,Home,0,imetradersnor,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,ogetherwecan,2019-01-21 15:37:57
+6,8,Classes,1,ogetherwecan,2019-01-21 15:37:57
+64,8,Lessons,1,ogetherwecan,2019-01-21 15:37:57
+67,8,Miscellaneous,1,ogetherwecan,2019-01-21 15:37:57
+0,is_parent,Business Services,0,ogetherwecan,2019-01-21 15:37:57
+4,is_parent,Community Activities,1,ogetherwecan,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,ogetherwecan,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ogetherwecan,2019-01-21 15:37:57
+7,is_parent,Education,0,ogetherwecan,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ogetherwecan,2019-01-21 15:37:57
+9,is_parent,Home,0,ogetherwecan,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,ullyarea,2019-01-21 15:37:57
+64,8,Lessons,1,ullyarea,2019-01-21 15:37:57
+0,is_parent,Business Services,2,ullyarea,2019-01-21 15:37:57
+75,0,Clerical,1,ullyarea,2019-01-21 15:37:57
+79,0,Marketing,1,ullyarea,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ullyarea,2019-01-21 15:37:57
+3,is_parent,Companionship,1,ullyarea,2019-01-21 15:37:57
+29,3,Home Visits,1,ullyarea,2019-01-21 15:37:57
+7,is_parent,Education,1,ullyarea,2019-01-21 15:37:57
+58,7,Personal Finances,1,ullyarea,2019-01-21 15:37:57
+2,is_parent,Help At Home,4,ullyarea,2019-01-21 15:37:57
+9,2,Child Care,2,ullyarea,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,ullyarea,2019-01-21 15:37:57
+23,2,Pet Care,1,ullyarea,2019-01-21 15:37:57
+9,is_parent,Home,0,ullyarea,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,ubuntu,2019-01-21 15:37:57
+0,is_parent,Business Services,0,ubuntu,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,ubuntu,2019-01-21 15:37:57
+3,is_parent,Companionship,0,ubuntu,2019-01-21 15:37:57
+7,is_parent,Education,0,ubuntu,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,ubuntu,2019-01-21 15:37:57
+9,is_parent,Home,0,ubuntu,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,udc,2019-01-21 15:37:57
+6,8,Classes,1,udc,2019-01-21 15:37:57
+64,8,Lessons,1,udc,2019-01-21 15:37:57
+0,is_parent,Business Services,0,udc,2019-01-21 15:37:57
+4,is_parent,Community Activities,2,udc,2019-01-21 15:37:57
+34,4,Community Service,2,udc,2019-01-21 15:37:57
+38,4,Work For Social Change,1,udc,2019-01-21 15:37:57
+3,is_parent,Companionship,0,udc,2019-01-21 15:37:57
+7,is_parent,Education,1,udc,2019-01-21 15:37:57
+55,7,Classes / Workshops,1,udc,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,udc,2019-01-21 15:37:57
+9,is_parent,Home,0,udc,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,unityexchange,2019-01-21 15:37:57
+6,8,Classes,1,unityexchange,2019-01-21 15:37:57
+64,8,Lessons,1,unityexchange,2019-01-21 15:37:57
+65,8,Photo & Video,1,unityexchange,2019-01-21 15:37:57
+0,is_parent,Business Services,0,unityexchange,2019-01-21 15:37:57
+4,is_parent,Community Activities,3,unityexchange,2019-01-21 15:37:57
+86,4,Group Projects,2,unityexchange,2019-01-21 15:37:57
+37,4,Special Projects,1,unityexchange,2019-01-21 15:37:57
+3,is_parent,Companionship,0,unityexchange,2019-01-21 15:37:57
+7,is_parent,Education,6,unityexchange,2019-01-21 15:37:57
+55,7,Classes / Workshops,3,unityexchange,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,5,unityexchange,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,unityexchange,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,unityexchange,2019-01-21 15:37:57
+9,is_parent,Home,0,unityexchange,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,uva,2019-01-21 15:37:57
+0,is_parent,Business Services,0,uva,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,uva,2019-01-21 15:37:57
+3,is_parent,Companionship,0,uva,2019-01-21 15:37:57
+7,is_parent,Education,0,uva,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,uva,2019-01-21 15:37:57
+9,is_parent,Home,0,uva,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,villagece,2019-01-21 15:37:57
+0,is_parent,Business Services,0,villagece,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,villagece,2019-01-21 15:37:57
+3,is_parent,Companionship,0,villagece,2019-01-21 15:37:57
+7,is_parent,Education,0,villagece,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,villagece,2019-01-21 15:37:57
+9,is_parent,Home,0,villagece,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",1,waikato,2019-01-21 15:37:57
+67,8,Miscellaneous,1,waikato,2019-01-21 15:37:57
+0,is_parent,Business Services,0,waikato,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,waikato,2019-01-21 15:37:57
+3,is_parent,Companionship,0,waikato,2019-01-21 15:37:57
+7,is_parent,Education,1,waikato,2019-01-21 15:37:57
+57,7,Languages / Translation,1,waikato,2019-01-21 15:37:57
+2,is_parent,Help At Home,3,waikato,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,waikato,2019-01-21 15:37:57
+2,2,Hair & Beauty,1,waikato,2019-01-21 15:37:57
+25,2,Miscellaneous,1,waikato,2019-01-21 15:37:57
+9,is_parent,Home,3,waikato,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,waikato,2019-01-21 15:37:57
+74,9,Miscellaneous,1,waikato,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",10,wairarapa,2019-01-21 15:37:57
+6,8,Classes,2,wairarapa,2019-01-21 15:37:57
+62,8,Crafts,1,wairarapa,2019-01-21 15:37:57
+63,8,Entertainment,1,wairarapa,2019-01-21 15:37:57
+64,8,Lessons,5,wairarapa,2019-01-21 15:37:57
+67,8,Miscellaneous,3,wairarapa,2019-01-21 15:37:57
+65,8,Photo & Video,1,wairarapa,2019-01-21 15:37:57
+66,8,Theater,2,wairarapa,2019-01-21 15:37:57
+0,is_parent,Business Services,3,wairarapa,2019-01-21 15:37:57
+76,0,Computer Support,1,wairarapa,2019-01-21 15:37:57
+8,0,Miscellaneous,2,wairarapa,2019-01-21 15:37:57
+90,0,Proofreading/editing,1,wairarapa,2019-01-21 15:37:57
+4,is_parent,Community Activities,7,wairarapa,2019-01-21 15:37:57
+86,4,Group Projects,4,wairarapa,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,2,wairarapa,2019-01-21 15:37:57
+37,4,Special Projects,1,wairarapa,2019-01-21 15:37:57
+38,4,Work For Social Change,1,wairarapa,2019-01-21 15:37:57
+3,is_parent,Companionship,2,wairarapa,2019-01-21 15:37:57
+26,3,Clubs,1,wairarapa,2019-01-21 15:37:57
+29,3,Home Visits,1,wairarapa,2019-01-21 15:37:57
+7,is_parent,Education,11,wairarapa,2019-01-21 15:37:57
+54,7,Advocacy,1,wairarapa,2019-01-21 15:37:57
+55,7,Classes / Workshops,4,wairarapa,2019-01-21 15:37:57
+56,7,Computers / Technology,1,wairarapa,2019-01-21 15:37:57
+57,7,Languages / Translation,2,wairarapa,2019-01-21 15:37:57
+60,7,Miscellaneous,1,wairarapa,2019-01-21 15:37:57
+58,7,Personal Finances,1,wairarapa,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,5,wairarapa,2019-01-21 15:37:57
+2,is_parent,Help At Home,10,wairarapa,2019-01-21 15:37:57
+9,2,Child Care,1,wairarapa,2019-01-21 15:37:57
+20,2,Cooking,3,wairarapa,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,3,wairarapa,2019-01-21 15:37:57
+25,2,Miscellaneous,2,wairarapa,2019-01-21 15:37:57
+88,2,Sewing,1,wairarapa,2019-01-21 15:37:57
+9,is_parent,Home,6,wairarapa,2019-01-21 15:37:57
+7,9,Garden & Yard Work,4,wairarapa,2019-01-21 15:37:57
+74,9,Miscellaneous,2,wairarapa,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,waitaki,2019-01-21 15:37:57
+0,is_parent,Business Services,1,waitaki,2019-01-21 15:37:57
+76,0,Computer Support,1,waitaki,2019-01-21 15:37:57
+8,0,Miscellaneous,1,waitaki,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,waitaki,2019-01-21 15:37:57
+3,is_parent,Companionship,0,waitaki,2019-01-21 15:37:57
+7,is_parent,Education,0,waitaki,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,waitaki,2019-01-21 15:37:57
+9,is_parent,Home,0,waitaki,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,wanaka,2019-01-21 15:37:57
+0,is_parent,Business Services,2,wanaka,2019-01-21 15:37:57
+76,0,Computer Support,1,wanaka,2019-01-21 15:37:57
+8,0,Miscellaneous,1,wanaka,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,wanaka,2019-01-21 15:37:57
+3,is_parent,Companionship,0,wanaka,2019-01-21 15:37:57
+7,is_parent,Education,0,wanaka,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,wanaka,2019-01-21 15:37:57
+20,2,Cooking & Sewing,1,wanaka,2019-01-21 15:37:57
+9,is_parent,Home,1,wanaka,2019-01-21 15:37:57
+74,9,Miscellaneous,1,wanaka,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",16,wellingtonsou,2019-01-21 15:37:57
+6,8,Classes,4,wellingtonsou,2019-01-21 15:37:57
+62,8,Crafts,6,wellingtonsou,2019-01-21 15:37:57
+63,8,Entertainment,1,wellingtonsou,2019-01-21 15:37:57
+64,8,Lessons,1,wellingtonsou,2019-01-21 15:37:57
+67,8,Miscellaneous,4,wellingtonsou,2019-01-21 15:37:57
+65,8,Photo & Video,2,wellingtonsou,2019-01-21 15:37:57
+0,is_parent,Business Services,8,wellingtonsou,2019-01-21 15:37:57
+75,0,Clerical,1,wellingtonsou,2019-01-21 15:37:57
+77,0,Financial,1,wellingtonsou,2019-01-21 15:37:57
+8,0,Miscellaneous,7,wellingtonsou,2019-01-21 15:37:57
+80,0,Research,2,wellingtonsou,2019-01-21 15:37:57
+4,is_parent,Community Activities,7,wellingtonsou,2019-01-21 15:37:57
+86,4,Group Projects,2,wellingtonsou,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,1,wellingtonsou,2019-01-21 15:37:57
+39,4,Miscellaneous,3,wellingtonsou,2019-01-21 15:37:57
+37,4,Special Projects,1,wellingtonsou,2019-01-21 15:37:57
+3,is_parent,Companionship,4,wellingtonsou,2019-01-21 15:37:57
+32,3,Miscellaneous,4,wellingtonsou,2019-01-21 15:37:57
+7,is_parent,Education,17,wellingtonsou,2019-01-21 15:37:57
+55,7,Classes / Workshops,8,wellingtonsou,2019-01-21 15:37:57
+56,7,Computers / Technology,1,wellingtonsou,2019-01-21 15:37:57
+57,7,Languages / Translation,6,wellingtonsou,2019-01-21 15:37:57
+60,7,Miscellaneous,5,wellingtonsou,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,5,wellingtonsou,2019-01-21 15:37:57
+2,is_parent,Help At Home,12,wellingtonsou,2019-01-21 15:37:57
+9,2,Child Care,2,wellingtonsou,2019-01-21 15:37:57
+88,2,Cooking,4,wellingtonsou,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,1,wellingtonsou,2019-01-21 15:37:57
+25,2,Miscellaneous,2,wellingtonsou,2019-01-21 15:37:57
+23,2,Pet Care,3,wellingtonsou,2019-01-21 15:37:57
+87,2,Sewing,1,wellingtonsou,2019-01-21 15:37:57
+9,is_parent,Home,9,wellingtonsou,2019-01-21 15:37:57
+69,9,Carpentry / Construction,2,wellingtonsou,2019-01-21 15:37:57
+7,9,Garden & Yard Work,2,wellingtonsou,2019-01-21 15:37:57
+74,9,Miscellaneous,6,wellingtonsou,2019-01-21 15:37:57
+73,9,Plumbing,1,wellingtonsou,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,westprairievillage,2019-01-21 15:37:57
+0,is_parent,Business Services,1,westprairievillage,2019-01-21 15:37:57
+76,0,Computer Support,1,westprairievillage,2019-01-21 15:37:57
+80,0,Research,1,westprairievillage,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,westprairievillage,2019-01-21 15:37:57
+3,is_parent,Companionship,0,westprairievillage,2019-01-21 15:37:57
+7,is_parent,Education,1,westprairievillage,2019-01-21 15:37:57
+56,7,Computers / Technology,1,westprairievillage,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,westprairievillage,2019-01-21 15:37:57
+9,is_parent,Home,0,westprairievillage,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",9,westseattle,2019-01-21 15:37:57
+62,8,Crafts,4,westseattle,2019-01-21 15:37:57
+63,8,Entertainment,1,westseattle,2019-01-21 15:37:57
+64,8,Lessons,2,westseattle,2019-01-21 15:37:57
+67,8,Miscellaneous,2,westseattle,2019-01-21 15:37:57
+65,8,Photo & Video,2,westseattle,2019-01-21 15:37:57
+0,is_parent,Business Services,13,westseattle,2019-01-21 15:37:57
+75,0,Clerical,1,westseattle,2019-01-21 15:37:57
+76,0,Computer Support,4,westseattle,2019-01-21 15:37:57
+79,0,Marketing,1,westseattle,2019-01-21 15:37:57
+8,0,Miscellaneous,6,westseattle,2019-01-21 15:37:57
+80,0,Research,2,westseattle,2019-01-21 15:37:57
+4,is_parent,Community Activities,10,westseattle,2019-01-21 15:37:57
+33,4,Clean-up / Recycling,1,westseattle,2019-01-21 15:37:57
+34,4,Community Service,1,westseattle,2019-01-21 15:37:57
+86,4,Group Projects,3,westseattle,2019-01-21 15:37:57
+36,4,Help Our TimeBank!,3,westseattle,2019-01-21 15:37:57
+37,4,Special Projects,5,westseattle,2019-01-21 15:37:57
+3,is_parent,Companionship,4,westseattle,2019-01-21 15:37:57
+28,3,Email / IM,1,westseattle,2019-01-21 15:37:57
+29,3,Home Visits,1,westseattle,2019-01-21 15:37:57
+32,3,Miscellaneous,3,westseattle,2019-01-21 15:37:57
+3,3,Telephone Calls,1,westseattle,2019-01-21 15:37:57
+7,is_parent,Education,22,westseattle,2019-01-21 15:37:57
+55,7,Classes / Workshops,5,westseattle,2019-01-21 15:37:57
+56,7,Computers / Technology,6,westseattle,2019-01-21 15:37:57
+57,7,Languages / Translation,2,westseattle,2019-01-21 15:37:57
+60,7,Miscellaneous,4,westseattle,2019-01-21 15:37:57
+58,7,Personal Finances,2,westseattle,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,7,westseattle,2019-01-21 15:37:57
+2,is_parent,Help At Home,13,westseattle,2019-01-21 15:37:57
+20,2,Cooking & Sewing,7,westseattle,2019-01-21 15:37:57
+2,2,Hair & Beauty,2,westseattle,2019-01-21 15:37:57
+22,2,Housekeeping / Chores,3,westseattle,2019-01-21 15:37:57
+25,2,Miscellaneous,2,westseattle,2019-01-21 15:37:57
+23,2,Pet Care,1,westseattle,2019-01-21 15:37:57
+9,is_parent,Home,6,westseattle,2019-01-21 15:37:57
+69,9,Carpentry / Construction,1,westseattle,2019-01-21 15:37:57
+74,9,Miscellaneous,5,westseattle,2019-01-21 15:37:57
+4,is_parent,Marketing,0,wncw,2019-01-21 15:37:57
+2,is_parent,Publishing,0,wncw,2019-01-21 15:37:57
+87,is_parent,Writers Services,0,wncw,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",0,wecompassionatecommunity,2019-01-21 15:37:57
+0,is_parent,Business Services,0,wecompassionatecommunity,2019-01-21 15:37:57
+4,is_parent,Community Activities,0,wecompassionatecommunity,2019-01-21 15:37:57
+3,is_parent,Companionship,0,wecompassionatecommunity,2019-01-21 15:37:57
+7,is_parent,Education,0,wecompassionatecommunity,2019-01-21 15:37:57
+87,is_parent,Friendly Visit,0,wecompassionatecommunity,2019-01-21 15:37:57
+2,is_parent,Help At Home,0,wecompassionatecommunity,2019-01-21 15:37:57
+9,is_parent,Home,0,wecompassionatecommunity,2019-01-21 15:37:57
+8,is_parent,"Arts, Crafts & Music",3,york,2019-01-21 15:37:57
+232,8,Art-related skills swap,1,york,2019-01-21 15:37:57
+3,8,Classes; art instruction for groups,1,york,2019-01-21 15:37:57
+7,8,"Crafts, miscellaneous",1,york,2019-01-21 15:37:57
+24,8,Fiber Arts; crochet and knitting,1,york,2019-01-21 15:37:57
+6,8,Pottery & Ceramics,1,york,2019-01-21 15:37:57
+0,is_parent,Business Services,2,york,2019-01-21 15:37:57
+8,0,Business miscellaneous,1,york,2019-01-21 15:37:57
+76,0,Computer Support,1,york,2019-01-21 15:37:57
+32,0,Consulting,1,york,2019-01-21 15:37:57
+4,is_parent,"Community Activities (see Teams and/or York Community Groups, Pr",0,york,2019-01-21 15:37:57
+3,is_parent,Companionship,0,york,2019-01-21 15:37:57
+7,is_parent,Education,1,york,2019-01-21 15:37:57
+57,7,Languages / Translation,1,york,2019-01-21 15:37:57
+59,7,Tutoring / Mentoring,1,york,2019-01-21 15:37:57
+2,is_parent,Help At Home,1,york,2019-01-21 15:37:57
+69,2,Carpentry / Construction,1,york,2019-01-21 15:37:57
+70,2,Electrical,1,york,2019-01-21 15:37:57
+73,2,Plumbing,1,york,2019-01-21 15:37:57
