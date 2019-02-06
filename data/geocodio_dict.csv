@@ -1,0 +1,34 @@
+name,description
+timebank,timebank
+latitude,Latitude
+longitude,Longitude
+geo_accuracy,Accuracy Score
+age_median,ACS Demographics/Median age/Total/Value
+female_percent,ACS Demographics/Sex/Female/Percentage
+race_percent_white,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: White alone/Percentage
+race_percent_black,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Black or African American alone/Percentage
+race_percent_native,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: American Indian and Alaska Native alone/Percentage
+race_percent_asian,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Asian alone/Percentage
+race_percent_pacific,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone/Percentage
+race_percent_other,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Some other race alone/Percentage
+race_percent_multi,ACS Demographics/Race and ethnicity/Two or more races/Percentage
+race_percent_multi_other,ACS Demographics/Race and ethnicity/Two or more races: Two races including Some other race/Percentage
+race_percent_three,"ACS Demographics/Race and ethnicity/Two or more races: Two races excluding Some other race, and three or more races/Percentage"
+race_percent_hisp,ACS Demographics/Race and ethnicity/Hispanic or Latino/Percentage
+race_percent_hisp_white,ACS Demographics/Race and ethnicity/Hispanic or Latino: White alone/Percentage
+race_percent_hisp_black,ACS Demographics/Race and ethnicity/Hispanic or Latino: Black or African American alone/Percentage
+race_percent_hisp_native,ACS Demographics/Race and ethnicity/Hispanic or Latino: American Indian and Alaska Native alone/Percentage
+race_percent_hisp_asian,ACS Demographics/Race and ethnicity/Hispanic or Latino: Asian alone/Percentage
+race_percent_hisp_pacific,ACS Demographics/Race and ethnicity/Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone/Percentage
+race_percent_hisp_other,ACS Demographics/Race and ethnicity/Hispanic or Latino: Some other race alone/Percentage
+households_number,ACS Economics/Number of households/Total/Value
+households_income_median,ACS Economics/Median household income/Total/Value
+bachelors_male_percent,ACS Social/Population by minimum level of education/Male: Bachelor's degree/Percentage
+bachelors_female_percent,ACS Social/Population by minimum level of education/Female: Bachelor's degree/Percentage
+veteran_percent,ACS Social/Population with veteran status/Veteran/Percentage
+households_family_percent,ACS Families/Household type by household/Family households/Percentage
+households_nowife_percent,"ACS Families/Household type by population/In male householder, no wife present, family/Percentage"
+households_nohusband_percent,"ACS Families/Household type by population/In female householder, no husband present, family/Percentage"
+housing_number_units,ACS Housing/Number of housing units/Total/Value
+housing_percent_renters,ACS Housing/Ownership of occupied units/Renter occupied/Percentage
+housing_median_value,ACS Housing/Median value of owner-occupied housing units/Total/Value
