@@ -3,7 +3,7 @@
 
 The purpose of this log is to document the process as I go through this project, including challenges, questions, and ideas.
 
-####Sections
+#### Sections
 - [Next Steps](#steps)
 - [Updates](#updates)  
 - [Challenges](#challenges)
@@ -22,9 +22,13 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="updates"></a>Updates
 
+### February 10, 2019
+- **Modeling**
+	- Tried using sklearn `PolynomialFeatures` to see if it would improve models. It did not.
+
 ### February 9, 2019
 - **Modeling**
-	- Completed initial models using `combined` csv. Tried linear regression, ridge, lasso, elastic net, and decision trees using gridsearch for ALL timebanks and ACTIVE timebanks only. Used 
+	- Completed initial models using `combined` csv. Tried linear regression, ridge, lasso, elastic net, and decision trees using gridsearch for ALL timebanks and ACTIVE timebanks only. Selected linear regression as best model for both, using backward feature selection.
 
 ### February 8, 2019
 - **TimeBanks.org purge**
