@@ -10,21 +10,21 @@ The **timebank main page** refers to the page accessed at `{timebank shortname}.
 
 | Name | Type | Model | Description |
 | --- | --- | --- | --- |
-| `avg_daily_exchanges` | float | ALL, ACTIVE | **Target:** ("Number of Exchanges"  on timebank directory info page on first date of data collection - "Number of Exchanges" on last date of collection) / number of days between first and last date of collection |
-| `avg_offers` | float | ALL, ACTIVE | The mean of "Active Offers" on timebank directory info page for all dates of collection
-| `avg_requests` | float | ALL, ACTIVE | The mean of "Active Requests" on timebank directory info page for all dates of collection |
-| `categories_with_requests` | float | ALL | The percent of `categories_total` that have requests |
-| `facebook` | int| ALL, ACTIVE | 0: No Facebook page listed on timebank main page<br>1: Has Facebook page listed |
-| `facebook_followers` | int | ACTIVE | Number of Followers on Facebook page listed on timebank main page |
-| `facebook_likes` | int | ACTIVE | Number of "Likes" on Facebook page listed on timebank main page |
-| `hours_per_exchange` | float | ALL | `avg_daily_hours` / `avg_daily_exchanges` |
-| `mission_sentiment` | float | ALL | Compound score from Vader sentiment analysis of statement on mission page, ranging from -1 to 1.<br>-1: Negative sentiment<br>1: Positive sentiment |
-| `mission_word_count` | int | ACTIVE | Number of words in statement on mission page at `{timebank}.timebanks.org/mission` |
-| `notes_word_count` | int | ALL, ACTIVE | Number of words in "Notes" section on timebank directory info page. |
-| `offer_request_ratio` | float | ALL | `avg_offers` / `avg_requests` |
-| `phone` | int | ALL | 0: No phone number listed on timebank directory info page<br>1: Has phone number listed |
-| `sponsor` | int | ACTIVE | 0: No sponsor listed on timebank directory info page<br>1: Has sponsor listed |
-| `twitter` | int | ACTIVE | 0: No Twitter account listed on timebank main page<br>1: Has Twitter account listed |
+| `avg_daily_exchanges` | *float* | ALL, ACTIVE | **Target:** ("Number of Exchanges"  on timebank directory info page on first date of data collection - "Number of Exchanges" on last date of collection) / number of days between first and last date of collection. |
+| `avg_offers` | *float* | ALL, ACTIVE | The mean of "Active Offers" on timebank directory info page for all dates of collection. |
+| `avg_requests` | *float* | ALL, ACTIVE | The mean of "Active Requests" on timebank directory info page for all dates of collection. |
+| `categories_with_requests` | *float* | ALL | The percent of `categories_total` that have requests. |
+| `facebook` | *float* | ALL, ACTIVE | 0: No Facebook page listed on timebank main page.<br>1: Has Facebook page listed. |
+| `facebook_followers` | *float* | ACTIVE | Number of Followers on Facebook page listed on timebank main page. |
+| `facebook_likes` | *float* | ACTIVE | Number of "Likes" on Facebook page listed on timebank main page. |
+| `hours_per_exchange` | *float* | ALL | `avg_daily_hours` / `avg_daily_exchanges`. |
+| `mission_sentiment` | *float* | ALL | Compound score from Vader sentiment analysis of statement on mission page, ranging from -1 to 1.<br>-1: Negative sentiment.<br>1: Positive sentiment. |
+| `mission_word_count` | *float* | ACTIVE | Number of words in statement on mission page at `{timebank}.timebanks.org/mission`. |
+| `notes_word_count` | *float* | ALL, ACTIVE | Number of words in "Notes" section on timebank directory info page. |
+| `offer_request_ratio` | *float* | ALL | `avg_offers` / `avg_requests`. |
+| `phone` | *float* | ALL | 0: No phone number listed on timebank directory info page.<br>1: Has phone number listed. |
+| `sponsor` | *float* | ACTIVE | 0: No sponsor listed on timebank directory info page.<br>1: Has sponsor listed. |
+| `twitter` | *float* | ACTIVE | 0: No Twitter account listed on timebank main page.<br>1: Has Twitter account listed. |
 
 
 ## Description of all data files
