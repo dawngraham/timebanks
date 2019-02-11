@@ -76,7 +76,7 @@ The best model for ACTIVE timebanks explained 39.8% of the variability in the da
 ## Summary
 Considering both the relatively small number of timebanks in this data set (156 total, 48 active) and how much they differ from each other, I was not expecting to get very robust models. However, they do still provide useful insights into differences between active and inactive timebanks, as well as potential predictors of more exchanges among active timebanks. I am hopeful that adding data about the communities the timebanks are based in will strengthen the models and provide more insights into what makes an active timebank.
 
-See the [Process Log](.process_log.md) for additional documentation of my process, challenges, questions, ideas, and references.
+See the [Process Log](./process_log.md) for additional documentation of my process, challenges, questions, ideas, and references.
 
 ## Future Developments
 This project is very much a work in progress. Future developments include:
