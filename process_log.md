@@ -15,7 +15,7 @@ The purpose of this log is to document the process as I go through this project,
 - Collect updated directory info regularly to gather new timebank info. (Added 2/8/19)
 - Do timeseries analysis once more data is collected. (Added 2/8/19)
 - Consider use of active / passive voice in mission statement / notes. (Added 2/4/19)
-- Use NLP to take a deeper dive into what requests/offers are exchanged, what goes unmet, and and other patterns. (Added 1/21/19)
+- Use NLP to take a deeper dive into what requests/offers are exchanged, what goes unmet, and other patterns. (Added 1/21/19)
 - Deeper look at connection with language use, framing, and descriptiveness of mission statements and about pages. (Added 1/21/19)
 - There are some timebank "hot spots". Should investigate if areas with more in closer proximity also have more activity. (Added 1/21/19)
 - Look at demographic info in relation to timebank locations. (Added 1/21/19)
