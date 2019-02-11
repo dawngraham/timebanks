@@ -24,13 +24,15 @@ Currently in the U.S., many people are concerned about seemingly increasing soci
 ## Data Collection
 This project is focused on data from TimeBanks USA. While there are other platforms with more timebanks listed (such as [hOurworld](http://hourworld.org/) and [Community Exchange System](https://www.community-exchange.org)), they do not have as much centralized and publicly accessible information about individual timebanks.  
 
-- I created a [Directory Scraper](/notebooks/01_tb_scrape_directory.ipynb) to scrape all pages of the TimeBanks.org directory to get an initial listing of all timebanks on the platform.
-- I then created a [Daily Scraper](/notebooks/02_tb_daily_scraper.ipynb) to get updates on the following at the beginning of each day:
-	- Numbers for exchanges, hours, members, offers, requests, last exchange
-	- Offers, requests, and talents by category
-	- All offer and request listings
-- I manually gathered data from Facebook and Twitter accounts that were included on timebank pages. This decision was originally prompted by Facebook's restrictions on automated data collection. However, this became an opportunity to learn more about the different timebanks and was feasible given the relatively small number of timebanks with social media accounts.
-- I retrieved geolocation and census data for locations of U.S. timebanks using [Geocodio](https://www.geocod.io/). I gathered population estimates for New Zealand from [Stats NZ](https://www.stats.govt.nz/). These will be used for future developments with the project.
+I created a [Directory Scraper](/notebooks/01_tb_scrape_directory.ipynb) to scrape all pages of the TimeBanks.org directory to get an initial listing of all timebanks on the platform. I then created a [Daily Scraper](/notebooks/02_tb_daily_scraper.ipynb) to get updates on the following at the beginning of each day:
+
+- Numbers for exchanges, hours, members, offers, requests, last exchange
+- Offers, requests, and talents by category
+- All offer and request listings
+
+I manually gathered data from Facebook and Twitter accounts that were included on timebank pages. This decision was originally prompted by Facebook's restrictions on automated data collection. However, this became an opportunity to learn more about the different timebanks and was feasible given the relatively small number of timebanks with social media accounts.
+
+Geolocation and census data for locations of U.S. timebanks was compiled using [Geocodio](https://www.geocod.io/). I gathered population estimates for New Zealand from [Stats NZ](https://www.stats.govt.nz/). These will be used for future developments with the project.
 
 See the [Data README.md](/data/README.md) for a description of all data files included in this repo, as well as the data dictionary for the features and target used in modeling.
 
