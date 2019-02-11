@@ -8,7 +8,7 @@ Timebanking can help individual and community needs be met without relying on mo
 To build a regression model to predict the average number of daily exchanges in timebanks on the TimeBanks.org platform.
 
 ## Background
-As explained on the [TimeBanks USA](https://timebanks.org/) website: "Timebanking is a time-based currency. Give one hour of service to another, and receive one time credit." The site goes on to list the five core values of timebanking identified by Edward Cahn, the founder of the organization: 
+As explained on the [TimeBanks USA](https://timebanks.org/) website: "Timebanking is a time-based currency. Give one hour of service to another, and receive one time credit." The site goes on to list the five core values of timebanking identified by Edgar Cahn, the founder of the organization: 
 
 - **Asset**: Every one of us has something of value to share with someone else.
 - **Redefining Work**: There are some forms of work that money will not easily pay for, like building strong families, revitalizing neighborhoods, making democracy work, advancing social justice. Time credits were designed to reward, recognize and honor that work.
