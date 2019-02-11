@@ -16,7 +16,7 @@ As explained on the [TimeBanks USA](https://timebanks.org/) website: "Timebankin
 - **Community/Social Networks**: Helping each other, we reweave communities of support, strength & trust. Community is built by sinking roots, building trust, creating networks. 
 - **Respect**: The heart and soul of democracy lies in respect for others. We strive to respect where people are in the moment, not where we hope they will be at some future point.
 
-Currently in the U.S., many people are concerned about seemingly increasing social and political division. Meanwhile, people are still dealing with the effects of the longest government shutdown in U.S. history, with another potential shutdown ahead. Timebanks offer the possibility of strengthening ties within communities, (re)building trust and relationships, and creating support systems to help recover from crises (political, natural, or otherwise).
+Currently in the U.S., many people are concerned about seemingly increasing social and political division. Meanwhile, people are still dealing with the effects of the longest government shutdown in U.S. history, with another potential shutdown ahead. Timebanks offer the possibility of strengthening ties within communities, (re)building trust and relationships, and creating support systems to help meet daily needs and recover from crises (political, natural, or otherwise).
 
 ![Map of timebanks](./images/earthquake.jpg)  
 *Community members organize using resources provided by the Lyttelton Time Bank after the Canterbury earthquakes in New Zealand (Source: [Developing Local Partners in Emergency Planning and Management](https://ir.canterbury.ac.nz/handle/10092/8208))*
@@ -87,6 +87,7 @@ This project is very much a work in progress. Future developments include:
 - Deeper look at language use, framing, descriptiveness, and active/passive voice in mission statements and other timebank info.
 - Investigating if areas with more timebanks in closer proximity also have more activity.
 - Looking at demographic info in relation to timebank locations, including population size and density, unemployment rates, home ownership, etc.
+- Setting up the daily scraper to run automatically via AWS.
 
 ## An Invitation
 Thoughts and feedback are always appreciated. Please feel free to get in touch. Get up-to-date contact info at [dawngraham.github.io](https://dawngraham.github.io/).

@@ -12,6 +12,7 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="steps"></a>Next Steps
 ### Ideas for Future Developments
+- Set up the daily scraper to run automatically via AWS. (Added 2/11/19)
 - Collect updated directory info regularly to gather new timebank info. (Added 2/8/19)
 - Do timeseries analysis once more data is collected. (Added 2/8/19)
 - Consider use of active / passive voice in mission statement / notes. (Added 2/4/19)
