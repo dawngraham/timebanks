@@ -159,7 +159,12 @@ The purpose of this log is to document the process as I go through this project,
 	- "In Chicago, 127 schools nearly eliminated special ed by having fifth graders help the third graders learn the alphabet. The kids earned credits that allowed them to receive a recycled computer from the system."
 	- "In another example Cahn shared, teens serving on a youth court jury in Washington, D.C., helped reduce recidivism. The program reduced rearrests from 34 to 6%, he says."
 - [Solidarity Mass](https://www.solidaritymass.com/profiles) (sponsor of Ujima timebank) (Added 2/3/19) 
-- People Fixing the World podcast: [The Banks That Run on Time Instead of Money](https://www.bbc.co.uk/programmes/p06s83lp) (Added 2/4/19)
+- People Fixing the World podcast: [The Banks That Run on Time Instead of Money](https://www.bbc.co.uk/programmes/p06s83lp) (Added 2/4/19. Notes below added 2/10/19.)
+	- Cahn on capitalism (following injury and being unable to work): "A monetary system which valued what was scarce and devalued what was more abundant and treated as worthless anything that was truly abundant. And I suddenly realized that meant it devalues being a human being because we are not scarce. Maybe we needed a kind of money that valued what it meant to be a human being."
+	- People don’t like to ask for help. There are often more givers than receivers. And once people have a network, they may make asks directly. (This aligns with more requests being related to higher activity.)
+	- TimeRepublik has over 100,000 member globally. U.S., Italy, Brazil, Switzerland are the major regions.
+		- Approx. 8 offers to help for every request put out.
+		- TimeRepublik is a for profit organization that wants to scale. Many "purists" don't want to use it.
 - Smithsonian mag: [“Time Banking” Is Catching On In the Digital World](https://www.smithsonianmag.com/innovation/time-banking-is-catching-on-in-digital-world-180969437) (Added 2/4/19)
 - Other "timebanks": (Added 2/4/19)
 	- [TimeRepublik](https://timerepublik.com/)
@@ -173,6 +178,15 @@ The purpose of this log is to document the process as I go through this project,
 - Shareable: [The English City With Its Own Cryptocurrency: Q&A With the Founders of HullCoin](https://www.shareable.net/blog/the-english-city-with-its-own-cryptocurrency-a-qa-with-the-hullcoin-team) (Added 2/7/19)
 - Founder Institute: [Seva Exchange is the Blockchain and A.I. Platform Reinventing Timebanking for Volunteerism in the Digital Economy](https://fi.co/insight/seva-exchange-is-the-blockchain-and-a-i-platform-reinventing-timebanking-for-volunteerism-in-the-digital-economy) (Added 2/7/19
 	- "Today, Seva Exchange is an official for-profit Benefit Corporation and subsidiary of TimeBanks USA. Dr. Cahn serves as the Chairman of the Board for Seva Exchange, while Anitha Beberg serves as its CEO."
+- [ChronoBank.io](https://chronobank.io/): "Labour-Hour tokens are linked to average hourly wages in the host country and are backed by a real labour force from big recruitment and labour-hire companies. LH tokens will tokenise this resource. Because they are backed by real labour, they are absolutely inflation-proof and have next to zero volatility — in comparison to bitcoin and other cryptocurrencies." (Added 2/11/19)
+
+### Emergency response
+- Guardian: [Pay it forward: the New Zealand town where your time is a currency](https://www.theguardian.com/sustainable-business/2015/dec/16/new-zealand-time-banking-currency-community-earthquake) (Added 2/10/19)
+	- 2011 New Zealand Christchurch Earthquake. First series of earthquakes hit in 2010.
+	- The timebank started in 2005. Article raises the importance it can play before, during, and after a crisis or natural disaster.
+- [Lyttelton Time Bank built and mobilised resources](https://canterbury.ac.nz/news/2013/lyttelton-time-bank-built-and-mobilised-resources.html) (Added 2/10/19)
+	- "Before the earthquakes struck, the Lyttelton Time Bank had organised more than 10 per cent of the town’s residents and 18 local organisations. It was documenting, developing and mobilising skills to solve individual and collective problems."
+- [Developing Local Partners in Emergency Planning and Management](https://ir.canterbury.ac.nz/handle/10092/8208): Lyttleton Time Bank as a Builder and Mobiliser of Resources during the Canterbury Earthquakes (Added 2/10/19)
 
 ### Recession / unemployment
 - PBS: [In Maine, Service Time Swapped to Help Stretch Dollars in Recession](https://www.pbs.org/newshour/show/in-maine-service-time-swapped-to-help-stretch-dollars-in-recession) (Added 2/7/19)
@@ -186,6 +200,10 @@ The purpose of this log is to document the process as I go through this project,
 - [Dying Alone - An interview with Eric Klinenberg
 author of Heat Wave: A Social Autopsy of Disaster in Chicago](https://www.press.uchicago.edu/Misc/Chicago/443213in.html) (Added 2/7/19)
 	- "Many Chicagoans attributed the disparate death patterns to the ethnic differences among blacks, Latinos, and whites—and local experts made much of the purported Latino “family values.” But there’s a social and spatial context that makes close family ties possible. Chicago’s Latinos tend to live in neighborhoods with high population density, busy commercial life in the streets, and vibrant public spaces. Most of the African American neighborhoods with high heat wave death rates had been abandoned—by employers, stores, and residents—in recent decades. The social ecology of abandonment, dispersion, and decay makes systems of social support exceedingly difficult to sustain."
+- [The 1995 heat wave reflected Chicago's "geography of vulnerability"](http://www.chicagonow.com/chicago-muckrakers/2011/07/the-1995-heat-wave-reflected-chicagos-geography-of-vulnerability/) (Added 2/10/19)
+	- "Between July 14 and July 20 of 1995, 485 Chicago residents died due to heat-related causes,  according to official city figures Klinenberg cites, bringing the total deaths for that month to 521. (Epidemiologists estimated the number who died due to the weather was higher--739 more Chicagoans died during the week of July 14 and July 20 than during a typical week for that month, according to the book.)"
+	- "Klinenberg writes that Little Village had 4 heat-related deaths per 100,000 residents. North Lawndale saw 40 per 100,000 residents."
+- [Heat wave of 1995](http://galleries.apps.chicagotribune.com/chi-120706-heat-wave-1995-pictures/) (Photo gallery) (Added 2/10/19)
 
 ### Volunteerism, mutual aid, etc.
 - [Mexican Solidarity: Citizen Participation and Volunteerism](https://books.google.com/books?id=mhMZL31NWL8C&pg=PA14&lpg=PA14&dq=mexican+solidarity+mutual+aid+volunteerism&source=bl&ots=jTMrFc4MG_&sig=ACfU3U0QRhlUUj7QhKChxJm3CXzwG0qjLw&hl=en&sa=X&ved=2ahUKEwj8gO3EgqrgAhUitlkKHXBLANoQ6AEwBHoECAYQAQ#v=onepage&q=mexican%20solidarity%20mutual%20aid%20volunteerism&f=false) (Added 2/7/19)
