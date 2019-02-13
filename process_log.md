@@ -12,6 +12,7 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="steps"></a>Next Steps
 ### Ideas for Future Developments
+- Add dummy to indicate if mission statement uses mutual aid language. (Added 2/13/19)
 - Set up the daily scraper to run automatically via AWS. (Added 2/11/19)
 - Get count of modules displayed on timebank main page. (Added 2/11/19)
 - Collect updated directory info regularly to gather new timebank info. (Added 2/8/19)
