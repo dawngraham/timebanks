@@ -61,16 +61,18 @@ The [Modeling notebook](./notebooks/05_tb_modeling.ipynb) contains instructions 
 The best model for ALL timebanks explained 54.3% of the variability in the data, relative to a model with no predictors. The model predicted that the average number of daily exchanges would increase with:
 
 - more requests
+- fewer offers
 - more hours per exchange
 - a phone number being listed
-- higher offer to request ratio
-- higher percentage of categories with requests
+- higher word count for notes
 
 #### Model for ACTIVE Timebanks only 
 The best model for ACTIVE timebanks explained 39.8% of the variability in the data, relative to a model with no predictors. The model predicted that the average number of daily exchanges would increase with:
 
+- fewer Facebook likes
 - more Facebook followers
 - more requests
+- fewer offers
 - a sponsor being listed
 
 ## Summary

@@ -205,6 +205,13 @@ author of Heat Wave: A Social Autopsy of Disaster in Chicago](https://www.press.
 	- "Klinenberg writes that Little Village had 4 heat-related deaths per 100,000 residents. North Lawndale saw 40 per 100,000 residents."
 - [Heat wave of 1995](http://galleries.apps.chicagotribune.com/chi-120706-heat-wave-1995-pictures/) (Photo gallery) (Added 2/10/19)
 
+### Sustainability
+- [Introducing the Kola Nut Collaborative – Goodbye from the CTX!](https://chicagotimeexchange.com/2018/04/24/introducing-the-kola-nut-collaborative-goodbye-from-the-ctx/) (Added 2/12/19)
+	- "The Chicago Time Exchange is transitioning out of being. After many years of fruitful events and great exchanges, interest in the timebank has waned, many key stewards have moved elsewhere, and there simply isn’t the infrastructure in place to keep it going. We feel very comfortable with transitioning out- because we believe there is a new, vibrant and exciting timebanking opportunity in Chicago – The Kola Nut Collaborative."
+	- "Membership in the Collaborative may be initiated by completing the online application through their Hourworld website. The annual membership contribution is $25 for individuals, $35 for households (covers up to three members), and $50 for organizations."
+- [SWEL Timebank](https://www.facebook.com/SwelTimebank.org/posts/1742312032518110) (Added 2/12/19)
+	- "The SWEL Timebank was created and has been run by volunteers since it began in 2010. Over the last few years, we have struggled to find the volunteers needed to continue to run and grow the timebank. Last year we lost the support of Sound Generations, who helped us start the timebank, but whose assistance was intended to be short-term. One of the benefits that went away with this was the ability to hold meetings and events in certain public municipal buildings and that is why all recent events have been in parks and libraries. Starting in June Community Weaver, the software that runs the timebank website and tracks our hours, will also start to charge the timebank. These additional costs, in addition to an overall lack of activity, have led us to question whether continuing the timebank is viable in the long run."
+
 ### Volunteerism, mutual aid, etc.
 - [Mexican Solidarity: Citizen Participation and Volunteerism](https://books.google.com/books?id=mhMZL31NWL8C&pg=PA14&lpg=PA14&dq=mexican+solidarity+mutual+aid+volunteerism&source=bl&ots=jTMrFc4MG_&sig=ACfU3U0QRhlUUj7QhKChxJm3CXzwG0qjLw&hl=en&sa=X&ved=2ahUKEwj8gO3EgqrgAhUitlkKHXBLANoQ6AEwBHoECAYQAQ#v=onepage&q=mexican%20solidarity%20mutual%20aid%20volunteerism&f=false) (Added 2/7/19)
 	-  Identifies and defines four categories of volunteer activity:
