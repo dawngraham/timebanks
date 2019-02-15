@@ -84,7 +84,7 @@ See the [Process Log](./process_log.md) for additional documentation of my proce
 This project is very much a work in progress. Future developments include:
 
 - Collecting updated directory info regularly to gather new timebank info.
-- Doing timeseries analysis of listings once more data over a longer period of time is collected.
+- Doing time series analysis of listings once more data over a longer period of time is collected.
 - Using natural language processing to take a deeper dive into what requests and offers are exchanged, what goes unmet, and other patterns.
 - Deeper look at language use, framing, descriptiveness, and active/passive voice in mission statements and other timebank info.
 - Investigating if areas with more timebanks in closer proximity also have more activity.
