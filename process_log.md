@@ -16,7 +16,7 @@ The purpose of this log is to document the process as I go through this project,
 - Set up the daily scraper to run automatically via AWS. (Added 2/11/19)
 - Get count of modules displayed on timebank main page. (Added 2/11/19)
 - Collect updated directory info regularly to gather new timebank info. (Added 2/8/19)
-- Do timeseries analysis once more data is collected. (Added 2/8/19)
+- Do time series analysis once more data is collected. (Added 2/8/19)
 - Consider use of active / passive voice in mission statement / notes. (Added 2/4/19)
 - Use NLP to take a deeper dive into what requests/offers are exchanged, what goes unmet, and other patterns. (Added 1/21/19)
 - Deeper look at connection with language use, framing, and descriptiveness of mission statements and about pages. (Added 1/21/19)
@@ -24,6 +24,11 @@ The purpose of this log is to document the process as I go through this project,
 - Look at demographic info in relation to timebank locations. (Added 1/21/19)
 
 ## <a name="updates"></a>Updates
+
+### February 15, 2019
+- **Daily scraper**
+	- `updates.csv` does not have data for 2/14/19.
+	- The `updates` section of the daily scraper kept getting interrupted by a connection error yesterday. I made an ask on [Stack Overflow](https://stackoverflow.com/questions/54698994/how-to-fix-connection-aborted-error-in-python-with-beautifulsoup), but the scraper is working again today, so it appears to have been an issue with the site, not the scraper.
 
 ### February 10, 2019
 - **Modeling**
