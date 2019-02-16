@@ -5,7 +5,7 @@
 Timebanking can help individual and community needs be met without relying on money, markets, or the state. What are the best predictors of an active timebank?
 
 ## Goal
-To build a regression model to predict the average number of daily exchanges in timebanks on the TimeBanks.org platform.
+To build a regression model to identify the best predictors of the average number of daily exchanges in timebanks on the TimeBanks.org platform.
 
 ## Background
 As explained on the [TimeBanks USA](https://timebanks.org/) website: "Timebanking is a time-based currency. Give one hour of service to another, and receive one time credit." The site goes on to list the five core values of timebanking identified by Edgar Cahn, the founder of the organization: 
