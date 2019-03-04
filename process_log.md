@@ -12,6 +12,7 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="steps"></a>Next Steps
 ### Ideas for Future Developments
+- Collect updated Facebook/Twitter data and create new features based on daily/new members or posts within given time period. (Added 3/3/19)
 - Add dummy to indicate if mission statement uses mutual aid language. (Added 2/13/19)
 - Set up the daily scraper to run automatically via AWS. (Added 2/11/19)
 - Get count of modules displayed on timebank main page. (Added 2/11/19)
@@ -24,6 +25,17 @@ The purpose of this log is to document the process as I go through this project,
 - Look at demographic info in relation to timebank locations. (Added 1/21/19)
 
 ## <a name="updates"></a>Updates
+
+### March 3, 2019
+- **Modeling with updated data**
+	- Ran `03_tb_cleaning_engineering.ipynb` with updated data.
+	- Ran `04_tb_eda.ipynb` with new file that adds almost a month of additional info: `combined_2019-01-24_2019-03-03.csv`
+		- The count of ACTIVE timebanks has gone from 48 to 58.
+		- Added histograms, regressions, and KDE plots of ACTIVE data.
+		- One timebank that is an outlier and was previously INACTIVE has now become ACTIVE.
+	- Ran `05_tb_modeling.ipynb` with updated file above.
+		- Previous linear models do not perform as well with new data. Decision trees are now performing better for both ALL and ACTIVE data.
+	- Added notebook `06b_tb_modeling_results_2019-03-03.ipynb` for new modeling results.
 
 ### February 15, 2019
 - **Daily scraper**

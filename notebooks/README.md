@@ -9,4 +9,5 @@
 | `03_tb_cleaning_engineering.ipynb` | Clean, create features, and combine datasets into single .csv for modeling. |
 | `04_tb_eda.ipynb` | Exploratory data analysis and visualization of `combined.csv` that will be used for modeling. |
 | `05_tb_modeling.ipynb` | Instructions and code to reproduce the models. |
-| `06_tb_modeling_results.ipynb` | Summaries of models and metrics. |
+| `06a_tb_modeling_results_2019-02-07.ipynb` | Summaries of models and metrics based on data from 1/24/19 - 2/7/19. |  
+| `06b_tb_modeling_results_2019-03-03.ipynb` | Summaries of models and metrics based on data from 1/24/19 - 3/3/19. |

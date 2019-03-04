@@ -45,6 +45,11 @@ See the [Cleaning & Feature Engineering notebook](/notebooks/03_tb_cleaning_engi
 I got compound sentiment scores (using VADER's `SentimentIntensityAnalyzer`) and word counts for each timebank's mission statement and notes. Dummy variables indicate if each timebank has a phone number, sponsor, secondary website, Facebook account, or Twitter account listed. I also calculated the averages for the number of daily exchanges, number of hours exchanged each day, hours per exchange, number of offers, number of requests, ratio of offers to requests, and number of new members each day. Additional features included the number of parent categories for each timebank, total categories (parent and child), the percent of categories with offers and requests, and total talents per parent category per member.
 
 ## Exploratory Data Analysis
+**NOTE:** Visuals and Modeling information below were created with data collected from 1/24/19 - 2/7/19. The EDA notebook has since been re-run with data from 1/24/19 - 3/3/19 and new models have been created.
+
+--
+  
+
 Working on this project has been a highly iterative process. I used exploratory data analysis throughout data collection, processing, feature engineering, etc. The [EDA notebook](/notebooks/04_tb_eda.ipynb) contains analysis and visualization of the combined data that will be used for modeling. This includes a look at data for ALL timebanks compared to INACTIVE and ACTIVE timebanks. From this, I anticipated that creating separate models for all timebanks and active timebanks would provide helpful insights.
 
 |![Boxplots for ALL timebanks](./images/boxplots_all.png) | ![Boxplots for ACTIVE timebanks](./images/boxplots_active.png) |
@@ -55,7 +60,7 @@ Working on this project has been a highly iterative process. I used exploratory 
 ## Modeling
 I created separate models for all timebanks and active timebanks only. Using `GridSearchCV` to find the best parameters, I tried models using `LinearRegression`, `RidgeCV`, `LassoCV`, `ElasticNetCV`, and `DecisionTreeRegressor`. Ultimately, I selected linear regression with backward feature selection as the best model for both.
 
-The [Modeling notebook](./notebooks/05_tb_modeling.ipynb) contains instructions and code to reproduce the models. The [Modeling Results notebook](./notebooks/06_tb_modeling_results.ipynb) contains summaries of many attempted models, including their metrics.
+The [Modeling notebook](./notebooks/05_tb_modeling.ipynb) contains instructions and code to reproduce the models. The [Modeling Results notebook](./notebooks/06a_tb_modeling_results_2019-02-07.ipynb) contains summaries of many attempted models, including their metrics.
 
 #### Model for ALL Timebanks
 The best model for ALL timebanks explained 54.3% of the variability in the data, relative to a model with no predictors. The model predicted that the average number of daily exchanges would increase with:
@@ -76,7 +81,7 @@ The best model for ACTIVE timebanks explained 39.8% of the variability in the da
 - a sponsor being listed
 
 ## Summary
-Considering both the relatively small number of timebanks in this data set (156 total, 48 active) and how much they differ from each other, I was not expecting to get very robust models. However, they do still provide useful insights into differences between active and inactive timebanks, as well as potential predictors of more exchanges among active timebanks. I am hopeful that adding data about the communities the timebanks are based in will strengthen the models and provide more insights into what makes an active timebank.
+Considering both the relatively small number of timebanks in this data set (156 total, 58 active) and how much they differ from each other, I was not expecting to get very robust models. However, they do still provide useful insights into differences between active and inactive timebanks, as well as potential predictors of more exchanges among active timebanks. I am hopeful that adding data about the communities the timebanks are based in will strengthen the models and provide more insights into what makes an active timebank.
 
 See the [Process Log](./process_log.md) for additional documentation of my process, challenges, questions, ideas, and references.
 
