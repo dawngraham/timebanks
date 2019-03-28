@@ -26,6 +26,10 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="updates"></a>Updates
 
+### March 28, 2019
+- **Tableau Dashboard**
+	- Created a quick dashboard on Tableau showing basic info about the [Timebanks in the Contiguous United States](https://public.tableau.com/views/Timebanks/TimebanksDashboard).
+
 ### March 3, 2019
 - **Modeling with updated data**
 	- Ran `03_tb_cleaning_engineering.ipynb` with updated data.
