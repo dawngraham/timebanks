@@ -12,6 +12,7 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="steps"></a>Next Steps
 ### Ideas for Future Developments
+- Calculate change from prior day for number of exchanges, members, offers, and requests. Create line charts for easy visualization. (Added 4/9/19)
 - Collect updated Facebook/Twitter data and create new features based on daily/new members or posts within given time period. (Added 3/3/19)
 - Add dummy to indicate if mission statement uses mutual aid language. (Added 2/13/19)
 - Set up the daily scraper to run automatically via AWS. (Added 2/11/19)
