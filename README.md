@@ -96,5 +96,7 @@ This project is very much a work in progress. Future developments include:
 - Looking at demographic info in relation to timebank locations, including population size and density, unemployment rates, home ownership, etc.
 - Setting up the daily scraper to run automatically via AWS.
 
+See the [Process Log](./process_log.md) for an updated list.
+
 ## An Invitation
 Thoughts and feedback are always appreciated. Please feel free to get in touch. Get up-to-date contact info at [dawngraham.github.io](https://dawngraham.github.io/).
