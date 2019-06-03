@@ -12,6 +12,7 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="steps"></a>Next Steps
 ### Ideas for Future Developments
+- Change how data for `listings.csv` is collected so that it only saves earliest and most recent observation of a listing. (Added 6/3/19)
 - Calculate change from prior day for number of exchanges, members, offers, and requests. Create line charts for easy visualization. (Added 4/9/19)
 - Collect updated Facebook/Twitter data and create new features based on daily/new members or posts within given time period. (Added 3/3/19)
 - Add dummy to indicate if mission statement uses mutual aid language. (Added 2/13/19)
@@ -26,6 +27,14 @@ The purpose of this log is to document the process as I go through this project,
 - Look at demographic info in relation to timebank locations. (Added 1/21/19)
 
 ## <a name="updates"></a>Updates
+
+### June 3, 2019
+- **Missing data / scraper issue**
+	- 5/24/19 is the last date with data added to `listings.csv`. Scraper still runs with no error, however no data is collected. Issue could be caused by change in how the URL needs to be structured to move through listing pages.
+	- On 6/1/19, scraper was interrupted while getting "offers by category":
+		- "ConnectionError: HTTPConnectionPool(host='greatbay.timebanks.org', port=80): Max retries exceeded with url: /offers (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x119aebef0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))"
+		- `greatbay.timebanks.org` now redirects to `seacoast.timebanks.org`, causing error.
+		- Need to consider getting refreshing `directory.csv` listing. This will get rid of timebanks that have been removed from directory, bring in new ones, and update any name changes. A downside to updating this way is there will not be an indicator of a name change vs. new timebank. I also want to maintain records from inactive timebanks, so do not want to simply overwrite `directory.csv`.
 
 ### March 28, 2019
 - **Tableau Dashboard**
