@@ -12,6 +12,7 @@ The purpose of this log is to document the process as I go through this project,
 
 ## <a name="steps"></a>Next Steps
 ### Ideas for Future Developments
+- Use Twitter API to get updates on known Twitter accounts on a regular basis. (Added 11/27/19)
 - Change how data for `listings.csv` is collected so that it only saves earliest and most recent observation of a listing. (Added 6/3/19)
 - Calculate change from prior day for number of exchanges, members, offers, and requests. Create line charts for easy visualization. (Added 4/9/19)
 - Collect updated Facebook/Twitter data and create new features based on daily/new members or posts within given time period. (Added 3/3/19)
@@ -27,6 +28,12 @@ The purpose of this log is to document the process as I go through this project,
 - Look at demographic info in relation to timebank locations. (Added 1/21/19)
 
 ## <a name="updates"></a>Updates
+
+### November 27, 2019
+- **Database design**
+	- I have been working an a database design as part of my course at BU. Planning to add artifacts here once complete.
+- **Directory numbers**
+	- Noticed that numbers for categories on Timebankers' Talents pages (i.e. `ujimaboston.timebanks.org/directory`) do not match up to the numbers that appear if you click on one of the category headers. After viewing while logged in, my assumption is that the directory page shows accurate numbers of currently active members. The pages under category headers may have inflated numbers due to counting accounts that are no longer active.
 
 ### June 3, 2019
 - **Missing data / scraper issue**
